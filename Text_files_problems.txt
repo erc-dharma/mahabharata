@@ -1,0 +1,59 @@
+﻿PROBLEMS
+
+imprecision of data entry
+- distinction vocalic r (everywhere occurring as ru?) and intervocalic flap (noted as R)
+- distinction Cai and Ca'i not maintained
+- distinction Cau and Ca'u not maintained
+
+simple misreadings of akṣaras
+	
+	NB: _ = space
+		* = corrections already applied
+	
+_gchA > _chA
+	(cannot simply batch convert gchA > chA)
+RU > sign for long vocalic r
+*gthe > cho
+*gth > ch
+*chch > cch
+Nt > ND
+
+
+errors involving rba and baG + proposal for step by step correction
+
+*pUboGge > pUrbe
+*	pUboGg > pUrba
+*eboGg > ebaM
+*boGgz > baMz
+*duboGgA > durbA
+*	duboGgu > duboGgu
+*	duboGgLa > durbaLa
+*punaboGgsu > punarbasu
+*	punaboGg > punarb
+*niboGgndha > nirbandha
+*niboGgA > nirbA
+*khaboGgeka > kharbeka
+*gandhaboGge > gandharbe
+*	gAndhaboGgI > gAndharbI
+*	gandhaboGg > gandharba
+*pAboGgtI > pArbatI
+*paboGgt > parbat
+*ziboGgk > zibaGk
+*saboGge > sarbe
+*	saboGg > sarba
+*uboGgzI > urbazI
+*gaboGge > garbe
+*	gaboGg > garba
+*athaboGg > atharba
+*sambhaboGge > sambharbe
+*	sambhaboGg > sambharba
+*zaboGgA > zarbA
+* khaboGg > kharb
+*pANtaboGgk > pANDabaGk
+*kauroboGgk > kaurobaGk
+*tuboGgd > turbad
+*yajuboGg > yajurb
+*Ay1uboGg > Ay1urb
+*jyotiboGg > jyotiboGg
+*kuboGgIy1 > kurbIy1
+

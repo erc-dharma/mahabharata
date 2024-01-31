@@ -1,0 +1,5802 @@
+[MBO-10(1)-titel01]
+
+<H>{@sAraLA mahAbhArata
+<>kAin~zikA, nArI, zAnti o Azramika paboGg@}
+<>mukhya saMkaLaka, saMgrAhaka o saMpAdaka
+<>Dakgara (?) Arttaballabha mahAnti, em. e., Ri. liT., padmazrI
+
+[MBO-10(1)-titel02]
+
+<P>prathama mudraNa
+<>1965
+<>oRizA sarakAraGka
+<>sAMskrutika byApAra bibhAga dwArA
+<>prakAzita
+<>mULapruSThA o sUcIpatra
+<>mudraNa
+<>TekSTa buk pres
+<>bhmabanezwara-1
+
+[MBO-10(1)-titel03]
+
+<H>{@kAin~zikA parba@}
+
+[MBO-10(1)-titel04]
+
+<P>mudrAkara:--
+<>zrI zyApasundara pARhI
+<>zAradA pres
+<>brahmapura-2 (gan~jANa)
+
+[MBO-10(1)-titel05]
+
+<H>{@sUcIpatra
+<>kAin~zikA paboGg@}
+
+<P>biSay1a pruSThAGka
+
+<P>1| azwatthAmA karttruka draupadIGka pan~chaputra
+<>ziracchedana o duryyodhanara dehatyAga ... 1
+
+<P>2| pAn~chALI pan~chaputrara pUrbajanma bibaraNa,
+<>parzurAma o bizwAmitraGkara janma, biziSTha
+<>bizwAmitraGka bibAda, kAmadhenuGkara samra
+<>aSTabasuGku zApa o bizwAmitraGka tapasyA ... 11
+
+<P>3| zrakruSNaGkara indraprastha gamana, pANDabaGku
+<>pAn~chALI pan~chaputra saha dhruSTadyumna ziracchedana
+<>bArttA pradAna o azwatthAmA astra haraNa ... 42
+
+<P>4| zrIkruSNaGkaThAru nanda o basudebaGkara mahA-
+<>bhArata yuddha bruttAnta zrabaNa ... 51
+
+<P>5| pAntaba badhArtha azwatthAmAra kAin~zikA
+<>zara pray1oga ... 71
+
+<P>6| zrIkruSNaGka dwArA parIkSitaGka jIbadAna ... 94
+
+[MBO-10(1)-1]
+
+<H>{@kAin~zikA parba
+<>(sauptika bhAga)
+<>azwatthAmA karttruka draupadIGka pAn~chaputra ziracchedana o
+<>duryyodhanara dehatyAga@}
+
+<P>zuNa ho manurAy1e baday1anti brahmasuta
+
+<P>dwArakAy1e pANDabe ye rahile nicinta | 1 |
+
+<P>driyodhanaku bhIma yetebeLe samare nipAta
+
+<P>niyogImAne niyoga gheniNa dhAmanti | 2 |
+
+<P>bhImasenara ye benidina muNohiM nAhiM
+
+<P>byAdha tATakA hoilA kAThapeDAre cakuA cakoi ta nAhiM | 3 |
+
+<P>y1emanta boli byAdha manare bhaLai
+
+<P>maDaphuliki loDile ye kisa debi muhiM | 4 |
+
+<P>dhAiMla bhIma maDaphuli gharaku yugate
+
+<P>Are byadha pachI ANa boli DAkai kopacitte | 5 |
+
+<P>bAtuLa hoiNa byAdha se bolai
+
+<P>kAThapeDA phATi cakuA cakoi uDiyAi | 6 |
+
+<P>puNa gharadwAra se teji dhAmaiM ghora bane
+
+<P>kAThapeDA phATilA bolai bacane | 7 |
+
+<P1>6|1 bALuta bhAba hoiNa byadha se bolai (jha, tha)
+
+<P1>4|2 maDaphuliki--rAnddhabAku |
+
+<P1>5|1 maDaphuli ghara--pAkazALA, roSei ghara |
+<>sauptika--rAtriyuddha, zoithibA byaktiGku rAtire AtramaNa |
+
+[MBO-10(1)-2]
+
+<P>akAraNa hoi se bulai mahAtamA
+
+<P>tuGgabhadrA nadI tIre bheTile azastamA | 8 |
+
+<P>kiho beNTakAra tu ho bhImara niyogI
+
+<P>bana bhitare kimpe tu bulu begi begi | 9 |
+
+<P>bAtuLa bhAba hoiNa se byAdha ye boilA
+
+<P>ki bola gosAiM ho caDAi kAThapeDA phATigalA | 10 |
+
+<P>bAtuLa bhaba hoi se kahai chana chana
+
+<P>kAThapeDA phATigalA boli bolai ghana ghana | 11 |
+
+<P>bhImasena ThAkure ye pratagyAM kale kAli
+
+<P>driyodhanaku na mAile muNohiM nAhiM boli | 12 |
+
+<P>bhImasena muNohiM na kale se kAli
+
+<P>cakuA cakoi kAThapeDA bhitare duipun~ji thoithili | 13 |
+
+<P>kAThapeDA goti ta hoilA duiphALa
+
+<P>kapALa phATilA boli kahai bAtuLa | 14 |
+
+<P>bhImasena ThAkure maile mAnagobinda rAjAMku
+
+<P>niyoga karide deba muNohiM ThAbaku | 15 |
+
+<P>beNTakAra bacane azastamAy1e boile
+
+<P>se pachI y1ekaThAba nohanti zrIrAmaMka zApate | 16 |
+
+<P>rAtre patipatnI se nohanti y1ekasaGga
+
+<P>tu naSTa kimpAiM tAMku kalu y1ekayoga | 17 |
+
+<P>zrIrAma ThAkuraMkara zApabAkya baLe
+
+<P>kAThapeDA phATilA paLAile gagana maNDaLe | 18 |
+
+<P>zApara carita azastamA kahile byabasthA
+
+<P>satya kari kaha tu dryodhanara bAratA | 19 |
+
+<P1>10 kAtara mane se beNTakAra ye kahilA
+<>Ana kicchi na phurai kAThapeDA phATigalA |(jha, Da, tha)
+
+<P1>16|2 se pachI y1ekaThAba nohibe zrIrAma agyAM dile |(ga, Ta,)
+
+<P1>17|1 prabhma bhAriyA se nohanti y1ekAsaGga |(Ta, tha)
+
+[MBO-10(1)-3]
+
+<P>azastama boile nay1anare dekhiluki samara
+
+<P>byadha boilA mAnagobinda paDiacchi byAsa sarobara tIra | 20 |
+
+<P>samare mAile tAMku ThAkura bhImasena
+
+<P>prANa na yAiNa se paDicchi driyodhana rAjana | 21 |
+
+<P>tahuM kope azastamA Asai bege hoi
+
+<P>can~chaLa bijuLi jANi man~cha bhmabane gamaiM | 22 |
+
+<P>andhAra beLe Asi saina se hAboDi
+
+<P>dekhilA driyodhana rAjA tahiM acchi paDi | 23 |
+
+<P>jAnure sImasthAna deiachai drudakSa
+
+<P>mAnagobinda boilA tumbhanta Azre kari muM hoili nirekha | 24 |
+
+<P>azastamA boilA muMki na boili tote
+
+<P>senApati kariNa mukuTa bAndhasi hAde mote | 25 |
+
+<P>mora bacane upahAsya kari tu kopilu kurubIra
+
+<P>pANDabaMkara mrutubheda thilA mohroa hAthara | 26 |
+
+<P>y1eDe baDa paNa ye harAilu akAryye
+
+<P>muhiM tohora abasthA dekhibAku aili nilaje | 27 |
+
+<P>y1ebeheM mukuTa bAndhasi rAjA mote
+
+<P>mAribi pANDabanta bhasma aMkurAibi tote | 28 |
+
+<P>driyodhana boilA ho bahigalA pANi
+
+<P>bandha bAnddha nuArila ta beLakaLa jANi | 29 |
+
+<P>adihuM yebe muM na pALanti satyabrata
+
+<P>sarilA beLaku Au kAhiMki nisata | 30 |
+
+<P>mAnagobinda boilA y1ebe muM karibi senApati
+
+<P>ratha gaja azwa nAhiM nAhiMnA pAdAnti | 31 |
+
+<P1>24|2 mAnagobinda boilA bAbu re dekha Ambhara dukha |(Ga, ja)
+
+<P1>27 azastamA boile tu ye hoilu akAryya
+<>muM tohora y1e abasthA dekhibAku alaiM Aja |(Ta, Ga, jha)
+
+[MBO-10(1)-4]
+
+<P>tADa toDhara ye nAhiM saraLa jagadaLA
+
+<P>maNi mANikya nAhiM mukuTa karNNAn~chaLA | 32 |
+
+<P>y1etebeLe y1emAnanta muM pAibaiM kAhiM
+
+<P>zrIlakSmI buDaili kAhiM kicchi nAhiM | 33 |
+
+<P>azastamAy1e boile tu kara sanamate
+
+<P>kAryya kale pache semAna bhUSaNa kara mote | 34 |
+
+<P>y1e bacana zuNi rAjA drudakSaku chAhiMlA
+
+<P>zuAMLa latAy1e azastamA zirare bAnddhalA | 35 |
+
+<P1>32 tADA jhumpA saraLa bAhuTi nAhiM jagadaLA
+<>maNi mukuTa nAhiM karNNAn~chaLa hrude bhUSaNa ratnamALA |(jha, Ta, Dha)
+
+<P1>34 azastamA boile yebe tohora anumate |
+<>pANDabanta mAri jay1alAbha debi tote |(ga, Tha)
+
+<P1>34|2 ``kAryya kale pache semAna bhUSaNa kara mote'' | pada pare `G' pothire adhikA pATha :--
+
+<P1>driyodhana boila zuNa ho biramaNi
+
+<P1>sAMgrAmare tAhAku pAribuTiki jiNi |
+
+<P1>bhImAra Agare tora kisa ye gArimA
+
+<P1>droNapaboGgre tote ye pakAi dila bhImA |
+
+<P1>cchinnachatrahoi tu ye keNe uDigaluM
+
+<P1>mahAbhAratha sarilA y1ebe gArimA kahiluM |
+
+<P1>arjunara tule tu ta nohibu samakaccha
+
+<P1>samara kALe tote heLe jiNaiM bibaccha |
+
+<P1>arjuna kumar aye abhimanyu baLA
+
+<P1>catrabyuha trutIy1a dwAre tote jhiMghAsilA |
+
+<P1>maribAra beLe nisata kahiMki hoibi
+
+<P1>AjihuM boili senApati paNe na baribi |
+
+<P1>haraku sebA kari tu ye maraNaku tarilu
+
+<P1>chatI hoi kari ye trijIbI bara mAgilu |
+
+<P1>34|2 pANDabanta mAri rAjA karAibi tote |(tha)
+
+[MBO-10(1)-5]
+
+<P>duje zweta duba lochAy1eM dile zire
+
+<P>caLile azastamA senApati tridhAra zasra dhari kare | 36 |
+
+<P>sampUrNNa nizi arddha hoiacchi rAti
+
+<P>nabara siMghaswAre yAiM mililA mahAchatrI jhAti | 37 |
+
+<P>dwAre dekhilA bIra bhairobI pratimA
+
+<P>tAhAra tule benighaDi samara kalA azastamA | 38 |
+
+<P>se bhairobI pratimAku bIra jaNi nuArilA
+
+<P>kAntha bhAn~ji azastamA bhitare pazilA | 39 |
+
+<P>nidrA na thilA aSTAdaza dibasa pariyante
+
+<P>sehina zoichanti bhitare nicinte | 40 |
+
+<P>ajANate bhitare pazilA yAi droNI
+
+<P>dui kSauNI baLa sabu pakAilA hANi | 41 |
+
+<P>dwAre goithile se dhruSTa ye dyumana
+
+<P>keza dhari tAhAkaiM kalAka chedana | 42 |
+
+<P1>36 y1ete boli zweta duba lochAy1eM dile mAthe
+<>caLile azastamA zakati gheni hAthe | (Ga) |
+
+<P1>36|2 caLile azastamA tribidhAra brukSa acchi goTAy1e hAthe |(Ta, La, tha, Da)
+
+<P1>40|2 asASTame nidrAyAi achanti samaste |(ja)
+
+<P1>41|2 ``dui kSauNI baLa sabu pakAilA hANi'' pAdAnta pare
+<>pothimAnaGkare adhikA pAThA--
+
+<P1>dwAreNa zoithile dhruSTa ye dyumana
+
+<P1>sahasreka yoddhA ye thile sannidhAna |
+
+<P1>roSeNa azastamA ye paDilA haboDi
+
+<P1>Are Are pAmar aboli chADilA ghoraDi |
+
+<P1>goLa dhandoLa hoiNa ye uThile sarba bIre
+
+<P1>Abara ciAMile dropada rAjAra kumare |
+
+<P1>kopabhara hoiNa se droNara kumare
+
+<P1>hAndoLai azastamA khaDaga gheni kare |
+
+[MBO-10(1)-6]
+
+<P>tahuM yAiM pazilA azastamA candrazALApure
+
+<P>pAn~chALI kumare zoichanti palyaMka upare | 43 |
+
+<P>candrakezarI boli yujheSThiMka prathama putra
+
+<P>bIrakezarI boli bhImasenara suta | 44 |
+
+<P>narakezarI boli arjunara suta
+
+<P>mahAkezarI boli nakuLa tahuM jAta | 45 |
+
+<P>trailokyakezarI boli sahadebaMkara suta
+
+<P>y1e bidhi pAn~chALIMkara pAn~chakumAra khyAta | 46 |
+
+<P1>41|1 parapruSThAra abaziSTAMza--
+
+<P1>y1eka prahArake chitanti zata zata saina
+
+<P1>sabuMkari azastamA ghenilA hde prANa |
+
+<P1>nidrA ALase zahasra nAhiM kAhAri ye hAtha
+
+<P1>dhruSTadyumana pazcAnte pazi hoile nisata |
+
+<P1>ke bolai y1e ye aTai gandharba
+
+<P1>ke bolai y1ehu se aTai dAnaba |
+
+<P1>huLA jALi ye dhruSTadyumana cihnilA
+
+<P1>droNara nandana y1eta azastamA ailA |
+
+<P1>kahuM kahuM droNI ye samasta galA hANI
+
+<P1>Dare lucile kehi na kale mukhadhuni |
+
+<P1>dhruSTadyumana yAiM dwArare basilA
+
+<P1>kumAranta mArai boli dwAra AborilA |
+
+<P1>dekhilA azastamA dhruSTa ye dyumana
+
+<P1>tuhi chadilu khaDage mora pitAku ye puNa |
+
+<P>pitAra zatruku ta Aja muM dekhilaiM
+
+<P1>tiraNa pramAna kari may1eMsa muM kATibaiM |
+
+<P1>zuNiNa dhruSTadyumana ye boile bacana
+
+<P1>tohor abaDabhAgya Aji nAhiM ye bhImasena |
+
+<P1>kahuM kahuM kopAnaLa ye hoile beni bhAi
+
+<P1>khaDaga dhari azastamAku ogALile yAiM |
+
+<P1>mArante asipatra uchuDi ghenilA
+
+<P1>sehi khaDaga gheni dhruSTadyumanaku hANilA |
+
+[MBO-10(1)-7]
+
+<P>mahAnizA kALe yAiM azastamA bheTi
+
+<P>y1ekA prahArake pAn~chaMkari muNDakATi | 47 |
+
+<P>dhanure bhAra kari pAn~cha muNDa gheni
+
+<P>bAhuDai azastamA rAtra prahara tini | 48 |
+
+<P>mane aneka sAnande gamai pabana bege droNi
+
+<P>byasa sarobara tIre prabeza bisama siMghaThANi | 49 |
+
+<P>rajanI zeSe pAhanti hoilAka Asi
+
+<P>prabhAta sandhyAkALe alpa alpa dizi | 50 |
+
+<P1>41|1 para pruSThAra abaziSTAMza:--
+
+<P1>khaDage benikhaNDa hoilA drupatara basa
+
+<P1>bajra mudugara gheniNa dyumani raNa kaccha |
+
+<P1>azastamAghenilA ye pANDabaMka gadA
+
+<P1>re re kAra kariNa ye dhAmaim dorpadA |
+
+<P1>Aho caitana azastamA tahuM yeteka uburile
+
+<P1>mrutupiNDamAnaMkara saMgate zutile |
+
+<P1>47|2 ``y1ekA prahArake pAn~chaMkari muNDakATi'' pAdAnti pare
+<>`Ga' pothire adhikA pATha--
+
+<P1>dhanure bhAra kari pan~chamuNDa ghanaiM
+
+<P1>rakhaNI ghara loke uThile ciAiM |
+
+<P1>samaste dekhanti ye azastamAkaiM ||
+
+<P1>rakate karddana ye azastamA kAy1e
+
+<P1>muNDabhAra gheniNa ye prabeza yAiMhoy1e |
+
+<P1>dhanubhara kari pAn~cha bhAiMkara muNDa
+
+<P1>kAndhare deicchi sahasra baLa kodaNDa |
+
+<P1>Ara aGgAy1e mukuTa lochAy1eka bAddha
+
+<P1>hAthare dhruSTadyumanaMkara mUNDa nAgabandhe chandi |
+
+<P1>bijay1e azastamA bege pabaneNa
+
+<P1>yahiM bhagnajAnu hoi paDicchi kururANa |
+
+<P1>50|2 prabhAta kALe alpa alpa hasi hasi |(ja)|
+
+[MBO-10(1)-8]
+
+<P>drudakSa boilA swAmI zuNimA daNDadhArI
+
+<P>azastamA pANDabaMka muNDachedi ANai bhAra kari | 51 |
+
+<P>nay1ana pheDi rAjA chAhiMlA managobinda
+
+<P>pANDabanta pray1e bujhi maneNa sAnanda | 52 |
+
+<P>sAdhu sAdhu azastamA boli mAnagobinda prazaMsi
+
+<P>tote senApati na kari agAda samodre gali bhasi | 53 |
+
+<P>harAi kari pache zikhili muM buddhi
+
+<P>pAdeNa TALili muM y1eDeka saMpradhi | 54 |
+
+<P>bALuta kALahuM yAhAku pAilaiM sAkhi
+
+<P>cihni nuArili muM tAku hoili nirimAkhi | 55 |
+
+<P1>41|1 para pruSThAra abaziSTAMza :--
+
+<P1>ke lucile ke paDile pAcirIku DeiM
+
+<P1>bhay1eNa samAsyA ye na dianti kehi |
+
+<P1>ke abA sahi nuAri trodha ye karai
+
+<P1>y1eka pahArake ye beniphALa hoi |
+
+<P1>dyumanara tule ye saina Au kehi nAhiM
+
+<P1>y1ekA jaNakare se sAMgrAma Aborai |
+
+<P1>yahuM zahasramAna zarIre na bhedilA
+
+<P1>gadA gheni dyumana dwAra mADiNa basila |
+
+<P1>dhaiMNa azastamA ye mutheka mAilA
+
+<P1>dwAra kapATA ye zatecUra hoi bhAjigalA |
+
+<P1>puNa dyumana ye gadAbara piTi
+
+<P1>zahasra bAjanteNa azastamA mahIloTi |
+
+<P1>kSaNake sASTAma hoiNa puNa uThi
+
+<P1>kopeNa dhailA se dyumanara taNTi |
+
+<P1>54 harAi zikhili buddhi pAde hirAili saMpradhi
+<>y1eteka harAi rAjA bhALai atibuddhi |(Ga)
+
+<P1>55 bALuta kALaru ye mohora prANa sakhA
+<>cihni nuArili muM ye hoili nirekhA |(ja, tha)
+
+[MBO-10(1)-9]
+
+<P>aneka utasalya dekhiNa dhrutirASTa
+
+<P>chAmure nei pakAilA pAn~chaMkari muNDagoTi | 56 |
+
+<P>bolai azastamA zuNa ho driyodhana
+
+<P>pitAra zatru y1eTi dhrusTa ye dyumana | 57 |
+
+<P>dekhiNa sAnanda hoile driyodhana rAy1e
+
+<P>boile bege daNDachatra dhara tu rAjAy1e | 58 |
+
+<P>dekhiNa boilA cihni ye kumAra drudakSa
+
+<P>pAntabe nohanti y1e dropatI pAn~chabatsa | 59 |
+
+<P1>41|1 para pruSThAra abaziSTAMza:--
+
+<P1>dyumana puNi azastamA taNTi ye dhailA
+
+<P1>mAla bindhANa kari bIra sAMgrAme lAglA |
+
+<P1>samare na phuTai se bharadwAjaMkara nAti
+
+<P1>dhanu dhaile debe karanti tAku bhIti |
+
+<P1>dhanu dhair TaMkAra karai yetebeLe
+
+<P1>dwArAbatI pure kampanti yAdabe sakaLe |
+
+<P1>pANDabe zaMkA karanti yAhAra nAma dhaile
+
+<P1>tAhAnta kisa yuddha kariba pan~chaLe |
+
+<P1>mAlabandhe mADi basilA bhAradwAjaMkara nAti
+
+<P1>taLe paDi samAsyA na diai drupadara santati |
+
+<P1>krupANa gheni tAku beniphALa kalA
+
+<P1>siMghadwAre neiNa ye phALeka ugucilA |
+
+<P1>Areka phALe ye tinikhaNDa kalA
+
+<P1>uttara pacchima pUrbe tinikoNe ugucilA |
+
+<P1>tahiM puNa tAku kehi samAsyA na dei
+
+<P1>kALantidrA ghAri zoichanti pAn~chabhAi |
+
+<P1>candra zAgA pura bhitare ye palaMka upare
+
+<P1>nicinte nidrA yAiachanti pAn~chALa kumare |
+
+<P1>daibe hiDimbikI zApare kALanidrA ghoTilA
+
+<P1>y1ete saina male tAhAMkara nidrA na bhAn~jilA |
+
+[MBO-10(1)-10]
+
+<P>rajanI prabhatare dekhilA dhrutirASTi
+
+<P>pAn~chALI kumaraMkara zira pan~chagoTi | 60 |
+
+<P>mrucchAgata hoilA dekhi mAnagobinda
+
+<P>hA hA daiba boli kapoLe kara dhinda | 61 |
+
+<P>Aho azastamA AdihuM aTu naSTa
+
+<P>tohora prakruta jANi muM na bAnddhali mukuTa | 62 |
+
+<P>samara zeSakALe mote ye kalu y1ehA
+
+<P>bALuta badha dose kalu re pAmara dorehA | 63 |
+
+<P>abhimanyu malA ghaTautkaca nAzagalA
+
+<P>lakSma NakumArahiM paDilA baMzahiM sarilA | 64 |
+
+<P>y1ehAnta rakhili muM baMzarakSAra nimante
+
+<P>gata Agata buDilA y1e tohora krutye | 65 |
+
+<P>bho daiba santAna kaLapataruM ye bola boli
+
+<P>azastamA prasanne gata Agata duikuLa buDaili | 66 |
+
+<P>tohora mukha puNa muM na chAhiM re dorehA
+
+<P>baMza niaMza kalu re mohora mukha tu na chAhAM | 67 |
+
+<P>pan~chubhUta AtmA kimpe acchi ho nirlaja
+
+<P>y1e pan~chu puaMka abasthA dekhi kimpe nuhai dahija | 68 |
+
+<P>pAn~chaMkari muNDa dia mohori koLAgrace
+
+<P>koLa kari dhari muM hoibi kinA mukate | 69 |
+
+<P>driyodhana bAkya zuNi drudakSa satwara
+
+<P>rAjA koLe dilA nei pan~chabaccha zira | 70 |
+
+<P>pAn~chaMkari muNDa koLe dekhiNa dhrutirASTi
+
+<P>prANa bisarjjilA mrudhunA galA phATi | 71 |
+
+<P1>61|1 y1epari bahu santApa kalA dekhi mAnagobinda |(kha, Tha)
+
+<P1>61|2 hA hA diiba boli kapoLe kara dwanda |(Ta, Da, Ga, Dha)
+
+<P1>62|2 beLahuM jANita muM tote na bAnddhali mukuTa |(ja)
+
+<P1>61|2 karadhinda--karadway1a ||
+
+[MBO-10(1)-11]
+
+<P>lajjA pAi banaste pazilA azastamA
+
+<P>tuGgabhadrA nadILuLe bheTile krupabrahmA | 72 |
+
+<P>azastamA kahile ye sakaLa bArata
+
+<P>pANDabanta boli mAili pAn~chALI pAn~chapuanta | 73 |
+
+<H>{@pAn~chALI pan~chaputrara pUrbajanma bibaraNa, parzurAma o
+<>kAmadhenuGkara samara aSTabasuGku zApa
+<>o bizwAmitraGka tapasyA@}
+
+<P>baibasuta manu boile agastiMki
+
+<P>baDAi durApada kahila ta bAki | 1 |
+
+<P>pAn~chAALI kumAra ta sAta baraSa agiAna
+
+<P>adoSe ziracchedana keuNa kAraNa | 2 |
+
+<P>dArA yogeNa ziracchedana boli jANi
+
+<P>adArA yoge ziracchedana zAhAsre na zuNi | 3 |
+
+<P>baday1anti agasti zuNa ho mahIpALe
+
+<P>kemante nAzagale pAn~chALI kumare | 4 |
+
+<P>biSNuprabhaba boliNa y1eka satyayuge
+
+<P>gorekha nAmeNa indra basai madhyaswarge | 5 |
+
+<P>satyayuge biSNubhadra nAmeNa nrupati
+
+<P>marttya bhmabanare karithAi ye basati | 6 |
+
+<P>biSNubhadra nandnaa ye aTai bizwAbasu
+
+<P>tAhAMkara nandana jANa rukaNabasu | 7 |
+
+<P1>7|2 prazudhwaka janmahele tAhAMkara aMzu |(kha)
+
+<P1>1|2 bAki--bAkya, bacana |
+
+<P1>2|1 agiAna--ajn~Ana |
+
+[MBO-10(1)-12]
+
+<P>anaGga rukaNabasura aTai AtmAja
+
+<P>anaGgara nandan aaruNa manasija | 8 |
+
+<P>aruNa nandana nAma aTai sadAziba
+
+<P>y1ehAMkara nandana ye anuru mAdhaba | 9 |
+
+<P>mAdhaba rAjAMka nandana aTe arabinda
+
+<P>tAhAMkara nandana nrupati makaranda | 10 |
+
+<P>makarandara nandana baLAnika rAja
+
+<P>aniLaka boli kari tAhAra Atmaja | 11 |
+
+<P>nirmaLatanu boli y1ehAra tanuja
+
+<P>tAhAra nandana nAma aTai saroja | 12 |
+
+<P>sarojara suta sanaka nAmeNa nrupati
+
+<P>gyAdhi nAme tAhAra ye hoilA santati | 13 |
+
+<P>tinilakSa baraSa bhogakalA gyAdhirAjA
+
+<P>pradhAnabaMzIy1A nabazata tA bharija | 14 |
+
+<P>reNukA saunikA umAbasura sutA
+
+<P>saunikA aTanti gyAdhi rAjAra banitA | 15 |
+
+<P>rezukAku bibAha hoile jamadagnI
+
+<P>aputrikA hoi rahithAAnti benibhagnI | 16 |
+
+<P>gyAdhi rAjAy1e boile ye saunikAku rAi
+
+<P>janadI puraku tumbhe yAa bege hoi | 17 |
+
+<P>janadI gharaku tumbhe bega hoi yiba
+
+<P>santana nimante kahi yAga karAiba | 18 |
+
+<P>byAdhi rAjAra AgyAMre saunikA gale
+
+<P>maLay1a paboGgye yAiM prabeza hoile | 19 |
+
+<P>saunikAku dekhi aneka arccanA kale jamadagni
+
+<P>jyeSTha zANu sAmAnye kaleka day1inI | 20 |
+
+<P>saunikA kahile rahi reNukAra pAza
+
+<P>putrapAiM pezichanti gyAdhi naraIza | 21 |
+
+[MBO-10(1)-13]
+
+<P>kuAiM jamadagniku kaha tumbhe yAiM
+
+<P>muhiM dhanadebi yAge yeteka lAgai | 22 |
+
+<P>reNukA yAiM kahile jamadagniMka purate
+
+<P>jyeSThAbhAgnI Asichanti santAna nimante | 23 |
+
+<P>pAn~chakoTi ratna ye dile saunikA
+
+<P>santAna nimante tumbhe yAga kara y1ekA | 24 |
+
+<P>sulabha bhUmire muni buNileka tiLa
+
+<P>tiLaphula jhaDu tahiM helA yAgazALa | 25 |
+
+<P>ruSikalyA boliNa yeuMNa nadIgoTi
+
+<P>saraswatI nadI dhAru se uttaraku AsicchaiM puTi | 26 |
+
+<P>sarpiNI taTara taLe yAga Arambhile
+
+<P>mahAmantra paRhi tahuM AbAhana kale | 27 |
+
+<P>santAna nimante Arambhile mahAcamA
+
+<P>prANa apyAna udAna samAnAdi nirodhile (?) | 28 |
+
+<P>pan~chadaza barSa tihiM basi kale yAga
+
+<P>agni bAmAbartte na dianti habirbhAga | 29 |
+
+<P>pan~chadaza barSa tahiM yaga Aropile
+
+<P>ahAra maithuna nidrA sakaLa tejile | 30 |
+
+<P>bAy1u sebana kariNa jaLa mAtra bhakSi
+
+<P>nirAze mahA moha ye hoile nirmAkSI | 31 |
+
+<P>mAnadhAtA pAn~chalakSa tinisasra aMke
+
+<P>indraprabhaba boli jANa y1eka baraSake | 32 |
+
+<P>se baraSa makara masa asita pan~chamI
+
+<P>bruhaspati bAre rukSa uttarA phAlagunI | 33 |
+
+<P1>32|1 mAnadhAtA pandaralakSa pAn~cha sasra aMLe |(Tha)
+
+<P1>28|2 apyAna--apAna |
+
+[MBO-10(1)-14]
+
+<P>sedina prabeza houM pAn~chadaNDa rAti
+
+<P>pUrbaAbartta agni cihni dileka Ahuti | 34 |
+
+<P>DAhANa pAkharu yahuM anaLa bulile
+
+<P>zubha jANi muni yAge habirbhAga dile | 35 |
+
+<P>zikhAmAna TekiNa ye anaLa bulanti
+
+<P>zubhamantra paDhi muni dile ye Ahuti | 36 |
+
+<P>Ara kuNDe dile nei chatriy1ara bhaga
+
+<P>y1e bidhire munizreSTha kale yAga sAGga | 37 |
+
+<P>y1ekayAga yAgnika ye tahiM y1eka tapI
+
+<P>beni mantre taru phuTAile ye tathApi | 38 |
+
+<P>santAna nimante caru phuTAile
+
+<P>brahmachatrI bhinma bhinma AropaNa kale | 39 |
+
+<P>reNukAku DAkiNa ye kahanti mahAmuni
+
+<P>duheMyAka yejhA caru khAiba ye cihni | 40 |
+
+<P>agni koNe acchi yeuM carudia tAMku
+
+<P>khAibA pAiMki deba gyAdhi bhAriyAMku | 41 |
+
+<P>aIzAnya koNare acchi yeuM caruanna
+
+<P>tumbhe zauca hoi tAhA kariba ApyAna | 42 |
+
+<P>y1ehA kahi jamadagni AhAnike gale
+
+<P>zuNi dui bhagnIyAka Anandita hele | 43 |
+
+<P>saunikA mahAswatI gyAdhira banitA
+
+<P>srAna kariNa Aga hoi aile turitA | 44 |
+
+<P>aIzAnya koNare yeuM caru rahithilA
+
+<P>Aga yAiM tAhAkaiM AhAra ye kalA | 45 |
+
+<P>tagadagni bhAriyA ye reNukA aTanti
+
+<P>brAhmaNara nArI se sAkSAte mahAswatI | 46 |
+
+<P>srAhAna sAri pare se aile hoi zuci
+
+<P>dekhile se agnikoNe carU mAtra acchi | 47 |
+
+[MBO-10(1)-15]
+
+<P>reNukA boile badaLAi kari apA
+
+<P>mohora caru bhakSaNa kala tumbhe kimpA | 48 |
+
+<P>y1ehA kahi yeuM caru thilA agni koNe
+
+<P>reNukA tAhAku grAsa kaleka ApaNe | 49 |
+
+<P>kapaTa bichAri saunikA y1ehA kalA
+
+<P>brahmachatrI caru tahiM pAlaTa hoila | 50 |
+
+<P>zuNa baibasuta manu baday1anti agasti
+
+<P>chatrImate yeuM caru deithile yati | 51 |
+
+<P>tAhAnei prAzana ye kalAka reNukA
+
+<P>ruSibhAga caru grAsa kale saunikA | 52 |
+
+<P>gyAdhi rAjA putra helA bizwAmitra nAma
+
+<P>jagadagniMka aurase hele prazurAma | 53 |
+
+<P>ruSiMkara ghare utapatti hoilAka chatrI
+
+<P>chatrI ghare janma hele bizwAmitra yati | 54 |
+
+<P>Ape thAi putraku ye gyAna dile gyAdhi
+
+<P>mAranti duSTa daitaMku bizwAmitre khedi | 55 |
+
+<P>bAhubaLe sAdhya kale gyAdhirAjA suta
+
+<P>nabasasra rAjA thile yeteka durAnta | 56 |
+
+<P>caurAzIkSauNI baLa aTai tAhAra
+
+<P>anubrate digabije huanti bAhAra | 57 |
+
+<P>sarbasAdhi jagujitA hele bizwAmitra
+
+<P>yAga homa Arambha ye karnati niy1ata | 58 |
+
+<P>subruSTi karai indra sukhI sarbaprajA
+
+<P>sukhe AmadAnI rAjA kare kara san~jA | 59 |
+
+<P>sukhe prajA pALe bizwAmitra mahArAja
+
+<P>pAn~cha sahasra yojana aTai se rAjya | 60 |
+
+<P>makara zukaLa pakSa nabamIra dina
+
+<P>gurubAra roheNI nakSatra bidyamAna | 61 |
+
+[MBO-10(1)-16]
+
+<P>sehidina bizwAmitra daLabaLa saGge
+
+<P>digabijay1aku bAhArile nabaraGge | 62 |
+
+<P>tuGgabhadrA nadI dei saina gale mADi
+
+<P>himabanta ThAru gale sAtayUNa chaDi | 63 |
+
+<P>mahabaLI daitaMku ye mAile bane pazi
+
+<P>banaphaLa bhakSiNa bulanti aharnizi | 64 |
+
+<P>leuTile mAgha zukLa dwAdazIra dina
+
+<P>yAga karibAku bije kale ye bahana | 65 |
+
+<P>pAtALa gaGgAre se ye nityakarma sAri
+
+<P>gaNDukI nadI tIre Asanti bije kari | 66 |
+
+<P>se nadI tIre baziSThaMkara ye Azrama
+
+<P>tahIm prabezile bizwAmitra abizrama | 67 |
+
+<P>baziSThAMka pAde bizwAmitra pariNAmi
+
+<P>boile ailu caubiMza bana bhramI | 68 |
+
+<P>bhakSa kichu na miLilA y1ehi bana deze
+
+<P>chAridina helA rahiachuM upabAse | 69 |
+
+<P>baziSTha boile srAhana sAriAsa bAbu
+
+<P>kSaNake rahile bAbu anna pANi debu | 70 |
+
+<P>rAjA boile ruSi saini kSudhArtti
+
+<P>y1ehAMku bhakSa dia yemante hoanti triputi | 71 |
+
+<P>kemante anna bhman~jiNa Ambhe y1ekA hebuM toSa
+
+<P>bizwAmitra boile thAThayAka achanti ye upAsa | 72 |
+
+<P>tahuM baziSTha boile tumbhe samasteheM basa
+
+<P>caru annaTiy1e debu Ambhe rahithiba yaza | 73 |
+
+<P>samaste ye y1eka y1eka patra pati basa
+
+<P>deuachuM Ambhe anna yete ye kara grAsa | 74 |
+
+<P>ziSya saha Ambhe ye paraSibuM samastaMku
+
+<P>bhojana kariNa yiba ye yAha bAsa bhabanaku | 75 |
+
+[MBO-10(1)-17]
+
+<P>tahuM se saine basile tiniyUNa mADi
+
+<P>samaste Agare y1eka y1eka patra pADi | 76 |
+
+<P>baziSTha ruSiMkara ye tinisasra ziSya
+
+<P>sarbe parazanti anna hoiNa haraSa | 77 |
+
+<P>baziSThaMka bhariyA ye aTanti arundhatI
+
+<P>sAkSAte lakSmI se ye koTikalpa mahAsatI | 78 |
+
+<P>kuDuA goTiy1eka ye bhAta rAnddhachanti
+
+<P>tahuM DhALi anna nija swAmI kare dyanti | 79 |
+
+<P>baziSTha AzramuM ANi dianti ziSyaMka kare
+
+<P>ziSyamAne parazanti ye ati kharatare | 80 |
+
+<P>baziSThaMkar anandana ye susan~cha brAhmaNa
+
+<P>kAmadhenu goTika ye bhaNDe karanti dohna | 81 |
+
+<P>tahuM sAtakSauNI gheni bhman~ji basile bizwAmitre
+
+<P>kuNo(?)ika anna gAI goTikara dudhe zAnti kale bhagabante | 82 |
+
+<P>triputi hoiNa bhman~ja pUroiNa peTa
+
+<P>binay1a hoiNa tahiM bolanti baziSTha | 83 |
+
+<P>brAhmaNara anna ye aTai paramAnna
+
+<P>mana pUta kari sarbe kara ho bhojana | 84 |
+
+<P>yagyaManna boli yAhA hoiba triputi
+
+<P>yejhA anarUpe bhman~ja labha tumbhe zAnti | 85 |
+
+<P>puNi boile tumbhe ta rAjaputramAne
+
+<P>triputi kari Ambhe dei pAribuM kesane | 86 |
+
+<P>sAtaghaDiThAru sarbe bhman~ji ye basile
+
+<P>kSudhAzrama bhman~ju bhman~ju sUryya asta hele | 87 |
+
+<P>yAra icchA yete tAMku dianti satware
+
+<P>kuNo(?)ika bhAta dhenu goTika dudha ye na sare | 88 |
+
+<P1>77|1 baziSTha ruSiMkara ye azisasra ziSya |(Tha)
+
+[MBO-10(1)-18]
+
+<P>bhakSaNa kari uThi nuAranti baLe
+
+<P>gaNDakI nadIra tIre zoile sakaLe | 89 |
+
+<P>baziSThaMku pucchanti ye bizwAmitra rAy1e
+
+<P>y1e baDa abhuta kathA tumbhara muni he | 90 |
+
+<P>kuNo(?)iy1e anna Au y1eka gAI dudha
+
+<P>sAri nuAri sabhiy1e hoiel prabodha | 91 |
+
+<P>baziSThe boile y1ebe bije kara rAjA
+
+<P>gahaLa lAgilA y1ethuM bahana hoi yA yA | 92 |
+
+<P>bizwAmitra boile muni he tumbhanta mohora sebA
+
+<P>y1e kAmadhenu goTiku mote debA | 93 |
+
+<P>baziSThe boile mahArAjA hoiNa y1eheneka bichAru
+
+<P>rAjA hoi kemante nemuM brAhmaNara goru | 94 |
+
+<P>mAgile gAI yahuM na dile baziSThe
+
+<P>bizwAmitraMku bujhAile amanAtya duSTe | 95 |
+
+<P>bizwAmitra boile banaste thibA Tiki
+
+<P>carigale gAI goTi aDAi nemAki | 96 |
+
+<P>gAI duhiM banastaku dile muni meli
+
+<P>baLAtkAre na yibuTi mahAmantre boli | 97 |
+
+<P>gAI caranteNa yAi beDhile saini
+
+<P>aDAi nemAku hAthe naudiy1e naudiy1e gheni | 98 |
+
+<P>beDhiNa aDAi nemAku luDuchanti baLe
+
+<P>dekhiNa gomAtA ye dAhiMlA kopAnaLe | 99 |
+
+<P>mahAkopa anaLa nay1ane chAhiMlAka toLi
+
+<P>sahasre yoddhA paDile hoile bhasmadhULi | 100 |
+
+<P>puNihiM aneka yoddhA miLileka Asi
+
+<P>ziGgeNa gomAtA sakaLa saina dhwaMsi | 101 |
+
+<P>gomAtAra ziGga khurA koThara tIkha parazu
+
+<P>rome rome nArAja yAiNa baraSu | 102 |
+
+[MBO-10(1)-19]
+
+<P>y1eka rome paDante koTiy1e sahasra zarabruSTi
+
+<P>ratha gaja azwa samaste paDanti mahIloTi | 103 |
+
+<P>antarALe bulabai gomAtA ziGgagoTi
+
+<P>pabanahuM bega hoi sainyanta yAiM ghoTi | 104 |
+
+<P>gomAtAMka ziGga teja amoha zakati
+
+<P>nay1ane anaLa zarIre bikazanti jyoti | 105 |
+
+<P>maha bhairoba huMkAra zabadeka dilA
+
+<P>nizwAsa ghAte samaste saina nAzagalA | 106 |
+
+<P>mahAbAte yehne uDi paDanti pataGge
+
+<P>paDile samodre uDi, ke uDigale gagana mArge | 107 |
+
+<P>se kAmadhenura mukha nizwAsara bAte
+
+<P>bizwAmitra rAjA uDi paDile mahAkUTa parbate | 108 |
+
+<P>bhaganasta hoiNa se bizwAmitra mahArAjA
+
+<P>ApaNA rAjyaku na yAi pAilA baDa lajjA | 109 |
+
+<P>caLai bizwAmitra rAjA nija deza maNDaLe
+
+<P>aSTabasunta rAi se bolai mahIpALe | 110 |
+
+<P>Aho aSTabasu tumbhe yiba y1ehikSaNi
+
+<P>cauryya kari baziSThaMkara gAIgoTi deba ANi | 111 |
+
+<P>bizwAmitraMkara bola se bhAGgita nuAri
+
+<P>se aSTabasu gale gAI chori kari | 112 |
+
+<P>duhana kari gAIgoTi muni melidile banaste
+
+<P>gaNDukI nadItIre se kAmadhenu caLai nicinte | 113 |
+
+<P>goharaNa mantra ye jANanti aSTabasu
+
+<P>mantradhULi pakAile gAI cariAsuM | 114 |
+
+<P1>103 y1eka roma jhADenta koTi koTi nArAja baraSi
+<>ratha gaja azwa chaichADe yA'nti phuTi |(ka)
+
+<P>109 bhagna manoratha hele bizwAmitra napa
+<>mAnasare jAta helA atyanta santApa |(kha, Tha)
+
+[MBO-10(1)-20]
+
+<P>mantrabaLeNa pache goDAilAka gAI
+
+<P>Aga Aga hoi caLanti ye aSTabhAi | 115 |
+
+<P>kAmadhenu gheniNa caLanti aSTabasu
+
+<P>dinakara hoile pahareka Asu Asu | 116 |
+
+<P>y1emantara samay1e sumanteka gAI loDigale
+
+<P>gaNDukI nadItIre yAiM lodi na pAile | 117 |
+
+<P>baziSThaMku kahile gomAtA kAhiM nAhiM
+
+<P>caukati lodita na pailuM kAhiM | 118 |
+
+<P>dhyAna kariNa jANile baziSTha mahAmuni
+
+<P>boile aSTabasu chorikari gale gheni | 119 |
+
+<P>baziSTha mahAruSi goDAiNa Asi
+
+<P>Aditya debatA Asi tiniprahara bikAzi | 120 |
+
+<P>rusikulyA nadItIre dharmakeLi parbata
+
+<P>se parbata taLe nei luchAile gomAta | 121 |
+
+<P>mantrabaLeNa bAndhale bALabacchA
+
+<P>parbata taLe achanti kehi nAhiM rakSA | 122 |
+
+<P>gaNDA goTiy1eka basuy1e ANileka mAri
+
+<P>parbata taLeNa se agni saMjALa kari | 123 |
+
+<P>atiyatna kari carma utAriNa mAy1eMsa
+
+<P>rAIpatre pUroile sUkSma ye mAy1eMsa | 124 |
+
+<P>ptra siiMkariNa ye bharile agnira
+
+<P>sauri bidhikari agni jALi paka kale tahiMra Dapara | 125 |
+
+<P>gAIra tahum ye duhiMle dudha phuTi
+
+<P>gaNDAra mAy1eMsa saha aSTabhAga kari bANTi | 126 |
+
+<P>dArAkSa phaLa ye guDay1eka loDi ANi
+
+<P>bhojana karnati se ye amiy1a rasa jANi | 127 |
+
+<P1>121|1 ruSikulyA nadItIre madhymanthana parabata |(kha, Tha, tha)
+
+[MBO-10(1)-21]
+
+<P>baziSThe loDante ye Aditya astagale
+
+<P>e parbata taLe muni gAIki bheTile | 128 |
+
+<P>baziSTha mahAmuni gAI gheni AsuM
+
+<P>parbatuM DeiMpaDilA aniLeka basu | 129 |
+
+<P>dhAiMlA aniLeka basu gheniNa nauDi
+
+<P>baziSThaMka upare piTilA nei bADi | 130 |
+
+<P>bADi bAjante baziSThAMkara baDa koha
+
+<P>rAgeNa zApa dile tu re andhahoa | 131 |
+
+<P>baikulye zApa ye dile taponiSThi
+
+<P>aniLeka basura takSaNe cakSugalA phuTi | 132 |
+
+<P>kAmyeka banare ye paDilA andhahoi
+
+<P>uccasware DAkai mote baziSThe kara trAhi | 133 |
+
+<P>bhakatamatsaLa se ye aTanti taponiSThi
+
+<P>boile ApaNe nAzakalu tohora gyAnagoTi | 134 |
+
+<P>satyayuga sataralakSa aThAiza sasra yAnte
+
+<P>tretay1A yuga bAralakSa chay1ANoi sahasrara ante | 135 |
+
+<P>tathApi tohora andhapaTaLa na phiTiba
+
+<P>y1e mohora bacana ye abazya phaLiba | 136 |
+
+<P>dwApara yuge somabaMze jAta hoibe yujheSThi
+
+<P>arjuna araNye gheni Asi kAmyekabane tote bheTi | 137 |
+
+<P>yujheSThiMka drazane tu pAu sinA cakSu
+
+<P>doSakalA abasthAku kimpe bikaLa heuachuM | 138 |
+
+<P>puNa kope goDAi Asi bheTile umAbasu
+
+<P>baziSThaMku ogAlile gAI gheniAsu | 139 |
+
+<P>apAra bhracchanA kari bziSThaMku rAgeNa ogALi
+
+<P>kopeNa baziSThaMku pakAi dilA peli | 140 |
+
+<P1>133|1 kArttika banare ye paDilA andhahoi |(Ta, ja)
+
+[MBO-10(1)-22]
+
+<P>uttAnazAhI hoiNa paDile baziSThe
+
+<P>kopeNa boile Are Are re pApiSThe | 141 |
+
+<P>bihantA puruSa hoi tumbhe y1eDe manda aTa
+
+<P>janma hoiNa tumbhe re hoa muNDakATa | 142 |
+
+<P>umAbasu boile baziSThaMku toLi
+
+<P>zALapatra gheni baziSThaMka zarIra zItaLi | 143 |
+
+<P>umAbasura baziSTha ghenile bhagata
+
+<P>tu rakSAhoa na cchiDu tohora gAtra | 144 |
+
+<P>umAbasu boile tohora ye kopa
+
+<P>mukati kAraNa mote kahibA sarUpa | 145 |
+
+<P>biziSThe boile tu ho zuNa umAbasu
+
+<P>gaGgAra odare jAtahoa se tumbhanta nAzu | 146 |
+
+<P>chaDaMkara muNDa ye cheduM se jAhnabI
+
+<P>y1ekAmatra tuhi thibu zarIra sambhabI | 147 |
+
+<P>gaGgAra garbhe tohora bhISma nAma hou
+
+<P>bhAratha yuddhare zarazeyyAra tohroa dinayAu | 148 |
+
+<P>y1e chaDabIre gaGgAra hAthe ziraccheda hoantu
+
+<P>jaintA zabaruNI udare janama pAAntu | 149 |
+
+<P>yadura ghare tumbhe pAn~che hoa dahi
+
+<P>Are tumbhe mote ye aneka abasthA acha dei | 150 |
+
+<P>pANDabanta tumbhe re upugAra kari
+
+<P>goruchora doSa ye hou tumbhara pAri | 151 |
+
+<P>zuNa baibasuta manu baday1anti agasti
+
+<P>pANDabaMkara hite se hoile utapatti | 52 |
+
+<P1>142|2 janme janme houthAu tumbhara muNDakATa |(kha, Tha)
+
+<P1>148|2 umAbasu purocana paNDA puNi hou |(kha, Tha)
+
+<P1>149 jaintA udare pan~cheheM upujantu yAiM
+<>umabasu puran~chana brAhmaNI garbhe jAta hoi |(tha)
+
+[MBO-10(1)-23]
+
+<P>aniLabasu ye andha hoithilA
+
+<P>yujheSThiMka darazane cakSu se pAilA | 153 |
+
+<P>pan~chabasu dahana hoile pANDabaMka hite
+
+<P>purocana dahi helA pANDabaMka arthe | 154 |
+
+<P>pANDaba hite gAGgeba hoile zarazayyA
+
+<P>baziSThaMka zApuM se hoile paritejyA | 155 |
+
+<P>Aho caitana satya tretay1A dwApara kaliyuge
+
+<P>goru chorAi aSTabasu na rahile tiniswarge | 156 |
+
+<P>bizwAmitra arthe aSTabasu nAzagale
+
+<P>kAmadhenu gAI gheni baziSThe caLigale | 157 |
+
+<P>caitana pucchA ye kaleka manuku
+
+<P>y1e pan~chakumAra kathA kahibA muni muku | 158 |
+
+<P>zuNa ho mahAtamA tu yAhA pucchasi
+
+<P>y1ekamana kari tu ye talay1e karasi | 159 |
+
+<P>bizwAmitra tule ye baziSTha aprIti
+
+<P>kALe kALe chora hoile apakIrtti | 160 |
+
+<P>zUnya pAtALa bitALa sutaLa bhmabane
+
+<P>kAhiM pazi nuArile bihantA puruSamAne | 161 |
+
+<P>Aho caitana abada nAme kALa satyayuge
+
+<P>bihantA puruSe rahi nuArile tiniswarge | 162 |
+
+<P>y1ethu anantare bizwAmitra narapati
+
+<P>daziSThaMka azramare miLile yAiM dhAti | 163 |
+
+<P>binay1a kari kahanti tumbhare kAraNa mote hoiba he baziSTha
+
+<P>saMkalpa kari aili gADhe muM hoibi taponiSTha | 164 |
+
+<P>baziSTha kahile tapakaiM bidhi
+
+<P>bizwAmitra boile tumbhara pray1e hoibi saMsiddhi | 165 |
+
+<P1>165|2 bizwAmitra boile tumbha prAy1e hoibi bAn~cchA sidhi |(ja)
+
+[MBO-10(1)-24]
+
+<P>tumbhakaiM dahana karite mohora icchA
+
+<P>tebe se pUroibi mohora manobAn~chA | 166 |
+
+<P>tahuM rAjyatyAga kari baziSThaMka rAge
+
+<P>tapa karibAku galA himALa pacchima bhAge | 167 |
+
+<P>siddha dhabaLAGgI ye mALatI nAme nadI
+
+<P>IzAnyabhAgI se puNyatoy1A saraswatI bhedi | 168 |
+
+<P>biGguLA parbata tahiM mALatI nadI taTe
+
+<P>tahiMra pachabhAge parpaTI nAme baTe | 169 |
+
+<P>se baTa taLare rAjA basilA druDha Asane
+
+<P>nirAhAra hoiNa se bhakSilA pabane | 170 |
+
+<P>niran~jana lay1e kari basilA nirAze
+
+<P>y1eka Asane basilA aSTottara zate ye baraSe | 171 |
+
+<P>nArade kahile yAiM deba asakande
+
+<P>bizwAmitra rAjA tape basilA baziSThaMka bAde | 172 |
+
+<P>rAjyabhAra siMghAsana samasta kalA tejyA
+
+<P>mahA nirAze basilA AhAra maithuna nAhiM zeyyA | 173 |
+
+<P>brahmA indra rudra padaku se karichai icchA
+
+<P>bichAri digapALe bahane hoa rakSA | 174 |
+
+<P>nAradaMka bacane ye indra kalA zaMkA
+
+<P>sannidhye hakArilA apakSarI menaka | 175 |
+
+<P>tA saGge dei kandarpa basanta samIra
+
+<P>bizwAsa kariNa ye kahai purandara | 176 |
+
+<P1>169|2 tahiMra pachabhAge sAMkuTa name baTe |(gha)
+
+<P1>169|2 tahiMra pachabhAge saraphuTi nAme baTe |(tha)
+
+<P1>169|2 tahiMra pachabhage antezwara nAme daTe |(kha)
+
+<P1>171|2 y1eka Asane basilA se y1ekazata baraSe |(ja)
+
+<P1>176 Abara hakArilA maLay1a basanta beni
+<>menakAku rAiNa boile sasrayoni |(gha, ja, tha)
+
+[MBO-10(1)-25]
+
+<P>baziSThaMka tule bizwAmitra ye bibAdI
+
+<P>nirAkAra bodhi mora sampada ghenima AcchAdi | 177 |
+
+<P>ruSi bipra tule y1e bhajanta tapodhanI
+
+<P>bizwAmitra tapa bhagnakara maLay1a basanta gheni | 178 |
+
+<P>mohora nimante tuhi saha y1ebe dukha
+
+<P>na sAdhile y1e kAryya muM hoibi nirekha | 179 |
+
+<P>zuNiNa sAAsa ye uDilA menakA
+
+<P>tinipura loke yebaNa muniMki karanti zaMkA | 180 |
+
+<P>hArile yAhAku hima basanta kandarpa
+
+<P>muM kisa bhagna karibi tAra ghoratapa | 181 |
+
+<P>tumbhe deba jagujana say1aLa hitakArI
+
+<P>bho mahAprahu mote AgyAM dia he bichAri | 182 |
+
+<P>keuMNa doSa muM tumbhara karithili pUrbe
+
+<P>tahiMki zAsti deba bihila nAtha y1ebe | 183 |
+
+<P>cauSaThi koTi apakSarI madhye heli muM aparAdhi
+
+<P>mote nAza kari nAtha chAhiMla keuMNa saMpradhi | 184 |
+
+<P>indra boile re bALA tu mora dukhe dukhI
+
+<P>y1e mahAsaMkaTu mote bAre rakha zazImukhI | 185 |
+
+<P>uThiNa maghabA dhaile menakAra beni hAtha
+
+<P>mohora pAiM prANe nAza hoibu re saMghAta | 186 |
+
+<P1>178 ruSi tapImAnaMke se aTe baDa mAnI
+<>tA tapa binAza madhu madanaku gheni |(kha, Tha)
+
+<P1>180 y1ehA zuNi tharahara hoila menakA
+<>bole brahmA indra yeuM muniMki karanti ye zaMkA |(kha)
+
+<P1>180 zuNiNa sanamate ucchargilA menakA
+<>brahma indra rudra yebaNa muniMki karanti zaMkA |(gha, tha)
+
+<P1>181|1 maha hemabantare se harilA kandarpa |(gha, tha)
+
+<P1>181|2 mahAdebaMkara ye muni harilAka darpa |(ja)
+
+<P1>180|1 sAAsa--sAhasa |
+
+[MBO-10(1)-26]
+
+<P>aneka binay1e yahuM kahile puruhUta
+
+<P>zuNiNa menakA ye kalAka sanamata | 187 |
+
+<P>aneka aLaMkAra ye kubera yogAi
+
+<P>amaLANa basra ANi Aditya ye dei | 188 |
+
+<P>dibyabeza hoiNa se trijaga mohinI
+
+<P>caLai menakA maLay1a basantaku gheni | 189 |
+
+<P>zuNa baibasuta manu baday1anti agasti
+
+<P>debaindra bacane menakA chaDilA amara bAraswatI | 190 |
+
+<P>manabacana karttabya nirodhi pan~chu AtmA
+
+<P>deba baraSe aSTa uttara zate baraSa cakSu na pheDile mahatmA | 191 |
+
+<P>menakA apakSarI miLilA sannidhyAne
+
+<P>mdhure bINA bajAi se karai gAy1ane | 192 |
+
+<P>sArI prema madhura dhuni sapatasware bANI
+
+<P>uMkAre bharaharaSa kalA se aNDirA kokiLa jANi | 193 |
+
+<P>thambana mohona baza uccATana Adi pan~chubANa
+
+<P>sannidhye pUroiNa rahiacchi ye may1ANa | 194 |
+
+<P>basanta pabana gheni maLay1a bahai
+
+<P>yAhAra bahante zukhilA taru pallabai | 195 |
+
+<P>abasante basanta ye bahai ghana ghana
+
+<P>kasturI gandha gheni bahai maLay1a pabana | 196 |
+
+<P>kSaNake gItanAda kSaNake karatALi
+
+<P>unamatta sundarI bharaharase bhoLi | 197 |
+
+<P1>193 tAna mAne prakazilA sulaLita dhuni
+<>madhure jiNilA aNDira kokiLa bANI |(kha)
+
+<P1>194|1 stambhana sammohana unmAdana zoSaNa tApana |
+
+<P1>197 basanti lay1a kariNa gAy1e nababALI
+<>se laLita sware yAy1e pASANa taraLi |(kha, Tha)
+
+<P1>197 kSaNake prIti gIti kSaNake karatALi
+<>AnuAna sundarI bharaharaSa boli |(gha)
+
+[MBO-10(1)-27]
+
+<P>bahai samIra susan~cha maLay1AniLa
+
+<P>bAta bighAte deharu uDai an~chaLa | 198 |
+
+<P>asambhaLa hoi ye dekhAy1e stanabeni
+
+<P>dize benijAnu phiTuNa jhIna patanI | 199 |
+
+<P>maLay1a basanta gheniNa yahuM bahai may1ANa
+
+<P>pallabita hele tahum zukhilA brukSamAna | 200 |
+
+<P>pruthibI Apa teja bAiba AkAza
+
+<P>pan~chudhAtu sanddhale se dharmagala nAza | 201 |
+
+<P>pASANa taraLi ye nirjhara bahai
+
+<P>khaNDa khaNDa hoiNa ziLA giriru khasai | 202 |
+
+<P>basanta ruture kokiLa rAbai ghana ghana
+
+<P>akALe pallabita hoiel tarulatAgaNa | 203 |
+
+<P>banajIba Adi kari hariNa hariNI
+
+<P>kokiLanAda zuNiNa hoile birahiNI | 204 |
+
+<P>y1ekAkAra hoile ye mAnitA gaurobI
+
+<P>dhAri dhAri hoile TaLai bhUbidebI | 205 |
+
+<P>bizwAmitraMka sannidhe prabeza menakA
+
+<P>bana jIbajantu nAhiM sundarI tahiM y1ekA | 206 |
+
+<P>yubA se sundarI ye bizeSe birahitA
+
+<P>jagujana mohinI ye Abara phuraNa saMgItA | 207 |
+
+<P>bharahara nay1ekA se aLapa hasa hasa
+
+<P>abalokana kari chAhAMnte nArAja ati tIccha | 208 |
+
+<P>madana mAdana hoiNa se Arata hoy1e kAma
+
+<P>bizwAmitra zarIre paDilA pan~chubANa | 209 |
+
+<P1>207 yubAsAra sundarI se premarasa latA
+<>madana mohanakArI susaGgIbha gyAMtA |(kha)
+
+<P1>208|2 abalokane chAhAnte kAmadeba ullAsa |(ja)
+
+[MBO-10(1)-28]
+
+<P>madana asakate ye zarIra bikoti
+
+<P>maune samasyA na dianti mahAyati | 210 |
+
+<P>sannidhyare thAiNa nAy1ekA kare sebA
+
+<P>dekhAiNa uraja beni aGgabhaGgI zobhA | 211 |
+
+<P>menakA boilA muM saMsAra kali ye upekSA
+
+<P>tepeNa kAmanA mora banaku baDa icchA | 212 |
+
+<P>mahApuNyaty1A se pramapada bhUmi
+
+<P>tumbha caraNe khaTithibi AgyAM dile debaswAmI | 213 |
+
+<P>tapara pratiAze muni bAchA na phuTilA maune
+
+<P>hAthaThAri boile rahithAa Ambha sannidhyAne | 214 |
+
+<P>dhUraku na yibu y1etheM achanti byaghra ye balluka
+
+<P>daite dAnabe chanti pizAca rAkSasa aneka | 215 |
+
+<P>y1emAne dekhile abazya tote karibeTi bhakSa
+
+<P>bandhu sodara kehi nAhiM aTu tu nirekha | 216 |
+
+<P>mAy1A chATupaTaLa se pAtilA caturI
+
+<P>matibhrama karAila y1eDeka brahmachArI | 217 |
+
+<P>Ahe budhajane nArI y1eDe mohakArI
+
+<P>yeDe yati heu nianti tAra citta hari | 218 |
+
+<P>mahalay1e tapa aSTa uttara zate baraSa
+
+<P>menakA ye khatithAi ray1aNI dibasa | 219 |
+
+<P>menakA ye rahilA tahiM trutIy1a baraSa
+
+<P>bi(?)mitra magate se kalA parihAsa | 220 |
+
+<P>nizAkALe mahAtamA tapa chaDi gale uThi
+
+<P>menakAku koLa kari dhaile sauNi | 221 |
+
+<P1>211|1 dehazUnya hoili muM nAhiM mo kuLabAndhabA |(ja)
+
+<P1>212 menA bole muni rAgamoha kari tejyA
+<>tapakaiM AsiNa karicha kuzazayyA |(tha, Tha, kha)
+
+<P1>218 Ahe budhajane kamadebara y1ete kaSTa
+<>bizwAmitra kael tahiM y1eteka cereSTa |(gha)
+
+[MBO-10(1)-29]
+
+<P>se menakA salajita bhAbe puNa boli
+
+<P>dharma dharma hoiNa muniMki dilA peli | 222 |
+
+<P>y1eDe baDa mahArAjA bhAra siMghAsana nirAza
+
+<P>tumbhara kopakale muM sampoDe yibi nAza | 223 |
+
+<P>tumbha pAde Azre kari rahili yoge kari icchA
+
+<P>muhiM ye anAstuNI nArI mote bAre kara rakSA | 224 |
+
+<P>menakA boilA kezabAsa maLina tumbhara
+
+<P>atihiM pUtigandha tumbhara jaTabhAra | 225 |
+
+<P>nadIra bhitare yAiM pazile tapodhamA
+
+<P>jaTA chaDay1e menakA kare kuThAra ye gheni | 226 |
+
+<P>pUtigandha aGgaru ye chaDai kAminI
+
+<P>ApaNe keza se ye pochanti mahamuni | 227 |
+
+<P>srAhAna sAri se bizwAmitra mahAyati
+
+<P>bhoga icchA kari se chaDile tapabrutti | 228 |
+
+<P>kaTi kaSA kaupunI dure dile phiGgi
+
+<P>pinddhale debAGga bAs akarpUra tAmbuLa bhogI | 229 |
+
+<P1>222 dekhiNa menakA ye binay1a bhaba hoi
+<>dharma dharma boliNa se muniMki bolai |(ja)
+
+<P1>222 salajjare menakA muniMki peli dei
+<>dharmapatha dekhAi ye muniMki bolai |(kha)
+
+<P1>223 tumbhe rAjarusi tejiNa swarga Aza
+<>yAhAra kopante tini jagata yiba naza |(ja)
+
+<P1>223 kAhipAiM muni mote kara parihAsa
+<>tumbhe kopakale muM jIbane hebi naza |(kha, Tha)
+
+<P1>226|1 menakA jaTA pheDai gandha taiLa gheni |
+
+<P1>227 nAnA sugandha padArtha muni dehe boli
+<>ghaSi ghaSi dhauta kalA se menakA bALi |(keteka pothi)
+
+<P1>229 pinddhale jhInabAs akarpUra tAmbuLa bhogI |(kha, ja, tha, Tha)
+
+[MBO-10(1)-30]
+
+<P>amruta laDu nei parazai caturI
+
+<P>haraSare bhman~jile se bizwAmitra tapachArI | 230 |
+
+<P>bhojana sAri yati menaka saGga meLe
+
+<P>baDhilA ratirasa ye parpaTI baTa taLe | 231 |
+
+<P>sAta rAtra Abara dibasa pariyante
+
+<P>kSaNake bizrAma nAhiM zruGgAra anubrate | 232 |
+
+<P>rAtra arddhamAnare galA se menakA
+
+<P>mALatI nadItIre muni rahile ye y1ekA | 233 |
+
+<P>nidrAru teji uThile yahuM prasara helA rAti
+
+<P>menakA menAkA boli DAkanti caukati | 234 |
+
+<P>menakAku na dekhi se loDanti ghorabane
+
+<P>aneka giri kandara bhedi pazile gahane | 235 |
+
+<P>tahuM gala apakSarI hoiNa sAnanda
+
+<P>amara sabhare yAiM bheTila asakanda | 236 |
+
+<P>samasta kautuka se kahai caturI
+
+<P>aneka haraSa hele zuNi bajradhArI | 237 |
+
+<P>menakAku na pAiNa ye manare biSAda
+
+<P>jANile munibara y1e debatAMkara chanda | 238 |
+
+<P>brahmA moThAre yebe kalAka y1esana
+
+<P>brahmapada ghenimi mora druDha y1e bacana | 239 |
+
+<P>y1eteboli mahAtamA kalAka saMkalpa
+
+<P>puNi urddhuretA hoi Arambha kalA tapa | 240 |
+
+<P>taLare thapile se kALAnaLa Ahuti
+
+<P>agnikuNDakuhiM tahiM jALucchi bikoti | 241 |
+
+<P1>231 hAsa parihAsa muni karanti menakAra meLe
+<>baLila ratiraGga se phuTi baTa taLe |(keteka pothira pATha)
+
+[MBO-10(1)-31]
+
+<P>beni khamba poti pakAilA dhAraNA y1ekAkAThe
+
+<P>tahiM upare nei chandilA pAdapruSThe | 242 |
+
+<P>mahA Ahuti upare thoi tambAra kaporA
+
+<P>mahAteja anaLare mahAteja bhArA | 243 |
+
+<P>homakuNDa agniteja uparaku uThi
+
+<P>pazila dehare nAsAkarNNa tALu phuTi | 244 |
+
+<P>gaGgadhAra prAy1eka rudhira helA bruSTi
+
+<P>y1epari kaThora tapa kare taponiSThi | 245 |
+
+<P>se rudhira jhara jhara paDai tambAbhaNDe
+
+<P>se rudhira Ahuti ye kale muni agnikuNDe | 246 |
+
+<P>se agnire dahija hoai bizwAmitra kAy1e
+
+<P>mAMsa miLAiNa paDai anaLara ghAy1e | 247 |
+
+<P>y1e bidhire zatebarSa ghoratapa kalA
+
+<P>baizyanara mukharu se puNi uburilA | 248 |
+
+<P>se beLara pApa sabu kalAka se hata
+
+<P>puNyamAna se rAjAra ye hoilA udita | 249 |
+
+<P>puNi bizwAmitra se mahA anaLuM uturi
+
+<P>mAMsa pakAi agnire homa ye Acari | 250 |
+
+<P>puNa puNa poDu poDu rahilA mAtra asthi
+
+<P>puNi agniru zarIra helA utapatti | 251 |
+
+<P>sabhaba sAdruze pUrbapari helA kAy1e
+
+<P>pApa AtmA chaDi rAjA nirAkuLa hoy1e | 252 |
+
+<P>pabana bahai se nIra AhAra nAhiM
+
+<P>dazadwAra runddhaNa basicchi nAspruhI | 253 |
+
+<P1>247|2 mAMsa miLAiNa paDai rakatara prAy1e |(Tha, tha)
+
+<P1>252|2 pApa AtmA chaDi rAjA nirAkara lay1e |(kha, Tha)
+
+[MBO-10(1)-32]
+
+<P>ApaNAra pabana ApaNA aGge lagana kalA
+
+<P>ujANi TekiNa bajrasehnA ye chandilA | 254 |
+
+<P>khecarI chandare ye banddhalA pan~chamudrA
+
+<P>nabaghaDi Teki toLilanabarandhrA | 255 |
+
+<P>nirAkAra bhajiNa druDhe basilA tapobanta
+
+<P>y1ekalay1e kari basila lakSe baraSa pariyanta | 256 |
+
+<P>zarIra yAka tAra caricale uipoka
+
+<P>kicchi dine muni hoigale uihuMkA y1eka | 257 |
+
+<P>separi rahile se baraSa nabalakSa
+
+<P>balmIka rUpa dhari puNi huMkA ye pratakSya | 258 |
+
+<P>bAhAra hoilA puNa brukSa daboGgIjaTi
+
+<P>phuTi lambita jaTa pAtALa bhmabana kaMTi | 259 |
+
+<P>zIta bAta baraSaNa yebaNa bahani
+
+<P>AhAra maithuna nidrA upekSilA tini | 260 |
+
+<P>y1emAna na bhede bizwAmitramkar akAy1e
+
+<P>puNihiM dazalakSa baraSa tapa kay1e | 261 |
+
+<P>brahmA dine boile tu yAa yA baziSTha
+
+<P>gheniAsa yAiMNa se bizwAmitra tapiSTha | 262 |
+
+<P>pitAra bacane se caLale brahmabettA
+
+<P>bizwamitraMku kahile AkAzara bAratA | 263 |
+
+<P>Asa ho bizwAmitra boli boile bacane
+
+<P>tapIMkara tule basa maharuSi paNe | 264 |
+
+<P>tahuM bizwAmitra boile tu zuNa ho baziSTha
+
+<P>toho samAne muhiMki hoili tapiSTha | 265 |
+
+<P1>259 bAhAra hoilA puNa jaTA uibudA phaTi
+<>pAtALaku lambe jaTA man~chapure kaTi |(kha, Tha)
+
+<P1>260 zIta bAta baraSaNa sakaLa sahai
+<>kAhAku na ninde bizwAmitra narasAiM |(kha)
+
+[MBO-10(1)-34]
+
+<P>baziSThe boile tohora y1eDeka tapa kAhuM
+
+<P>rAjaruSi paNa pAilu menakAra tahuM | 266 |
+
+<P>puNi tapa kalAru hoilu ye maharuSi
+
+<P>brahmaruSi hoileTi Ambha saGge basi | 267 |
+
+<P>bizwAmitra boile muM kimpAiM tebe yibi
+
+<P>tohora samAne ruSi hele taparu uThibi | 268 |
+
+<P>baziSTha neuTi yAuM se nirAze bhajilA
+
+<P>puNi dazalakSa baraSa basiNa tapakalA | 269 |
+
+<P>maha anaLare se mAy1eMsa diy1e kATi
+
+<P>kaporAre bhari rudhira karai ye bruSTi | 270 |
+
+<P>y1e bidhire deharu samasta mAMsa kATi dilA
+
+<P>baziSTha samane ruSi hoibi boli agnire jhAsila | 271 |
+
+<P>anaLe zarIra yahuM dahana nohilA
+
+<P>zateka baraSa tahuM agnire se gaDilA | 272 |
+
+<P>agnikuNDa madhye pazi karai y1ekalay1e
+
+<P>manu pariyante basilA niran~janaMku kari dhyAy1e | 273 |
+
+<P>anaLaru puNi yahuM hoilA bAhAra
+
+<P>nakha mukha nAsA helA AgahuM tejakara | 274 |
+
+<P>mahAmUrtti hoi yahuM puNi uturilA
+
+<P>nirAkaRa dhyay1i puNi agnire pazilA | 275 |
+
+<P>agni beDhi jaLai se tAhAra zarIra
+
+<P>yogalay1e kari basiacchi se agnira bhitara | 276 |
+
+<P>sehi sarUpe aneka kALa galA yahuM
+
+<P>puNi pitAmaha baziSThaMku AgyAM dile tahuM | 277 |
+
+<P>brahmA boile baziSTha bizwAmitraMku y1ebe gheniAsa
+
+<P>debaruSi paNe basantu se ruSiMkara pAza | 278 |
+
+<P1>270|2 kaporAre nija rakta karai Ahuti |(Tha)
+
+[MBO-10(1)-34]
+
+<P>yAiM baziSThe boile ho bizwAmitre zuNa
+
+<P>Asa Ambha saGgate basiba debaruSi paNa | 279 |
+
+<P>Asa ho AkAzaku yibAsi bahana
+
+<P>zuNina bizwAmitre tejile Asana | 280 |
+
+<P>baziSThaMka saGgate se caLile munibara
+
+<P>debarusi hoiNa se ye basile sabhara | 281 |
+
+<P>debaruSi paNe yAiM swargare basile
+
+<P>dazalakSa baraSa ye seThAre kaTAile | 282 |
+
+<P>y1ekadine sehi bizwAmitra debaruSi
+
+<P>daNDa kamaNDaLu gheni yazobantI puraku yAnte pazi | 283 |
+
+<P>pitAmahaMka dwArapALa citrakamaLa boli rAjA
+
+<P>bizwAmitraMku boilA se bhitaraku na yA | 284 |
+
+<P>na mAni dwAraku DiaMnte pakAi dila peli
+
+<P>muhaM mADi paDigale se dharma dharma boli | 285 |
+
+<P>daNDa kamaNDaLu chadi muni hoile asASTama
+
+<P>Are Are dwArapALa tora y1eDe utakarma | 286 |
+
+<P>Are muM yebe aTai brahma samAne ruSi
+
+<P>yAa re citrakamaLa tumbhe brahma rAkSasa huasi | 287 |
+
+<P>meNTi na helA ye bizwAmitraMkara zApa
+
+<P>takSaNe citrakamaLa hoilA kauNopa | 288 |
+
+<P>rAkSasa hoiNa goDay1e se bizwAmitraMku
+
+<P>nauDi un~chAi bolai AhAra dia muku | 289 |
+
+<P>y1e bidhire pAn~chadaza baraSa goDAi
+
+<P>puNi dine muni brahmA bhmabanaku yAiM | 290 |
+
+<P1>284|1 kaLasamA pAda, samAkSima, kalyaNa, kanyAsa prabhruti dwArapALamA naGkara
+<>nAma pothimAnaGkare mile |
+
+<P1>288|1 gaDita na galA se bizwAmitraMkara zApa |(ka, ca)
+
+[MBO-10(1)-35]
+
+<P>brahmAMkara dwAre thile baziSThaMka zateputre
+
+<P>raha raha kAhiMki yAuchu Aho bizwAmitre | 291 |
+
+<P>kaTAkSe chAhiM boile re y1eDeka darpa boli
+
+<P>pazante bizwAmitraMku pakAi dile peli | 292 |
+
+<P>asASTama hoiNa ye paDile tapaniSThi
+
+<P>muhaMmADi paDi puNi cetA pAi uThi | 293 |
+
+<P>kaLmaSapAdaku muni dekhAiNa kara
+
+<P>boile baziSThaMkara zateputra karasi AhAra | 294 |
+
+<P>munira AgyAM pAi kaLmaSa rAkSasa
+
+<P>baziSThaMka zateputranta dhari kalAka sehu grAsa | 295 |
+
+<P>y1ethu anantare bizwAmitra ruSi
+
+<P>brahmAMkara bhmabane bahana yAiM pazi | 296 |
+
+<P>bizwAmitra Asante bhay1a kale baziSThe
+
+<P>brahmAMkara Asane basiachanti aneka caponiSThe | 297 |
+
+<P>paulasti bizrabA ye sudeba agasti
+
+<P>mArakaNDa sumanteka uddALeka yati | 298 |
+
+<P>bharadwAja kAzyapa aGgirA maharuSi
+
+<P>y1emAne brahmAMkara sabhAy1e chanti basi | 299 |
+
+<P>madhyare pitAmaha ye basiNa achanti
+
+<P>y1emantara samay1e prabeza hele yati | 300 |
+
+<P>basa boli tAhAkaiM ye na boile brahmA
+
+<P>apamAna pAi tahuM se aile mahAtamA | 301 |
+
+<P1>293|2 moha teji zate baraSe uThile munibare |(ja)
+
+<P1>299|1 bhArgaba kAzyapa ye aruNApATha ruSi |(kha, ca, ja, tha)
+
+<P1>301 bizwAmitraMku dekhi samasyA na dileka brahmA
+<>abhimAna pAi bAhuDi AsilA mahAtamA |(ka)
+
+[MBO-10(1)-36]
+
+<P>puNa pratagyAM bizwAmitra kaleka pracaNDe
+
+<P>y1eghAnti brahmApada ghenimi srijibi brahmANDe | 302 |
+
+<P>lambita jaTA muniMkara aGgeNa cirikuTi
+
+<P>hAthe zULeka dhari katire bajra ye kacheTi | 303 |
+
+<P>bidyAdhara puruSeka Asuchanti khedi
+
+<P>tAhAnta jiNile ye nabasruSTi hoiba sampAdi | 304 |
+
+<P>swargaman~cha pAtALa y1e tinibhmabane
+
+<P>kAhuM pazi nuArile bidyAdhara puruSamAne | 305 |
+
+<P>swAy1ambhuba manukALe y1ekai satyayuge
+
+<P>bizwAmitraMkara bhay1e bidyAdhara puruSe rahi nuArile tini swarge | 306 |
+
+<P>se satyayugare haricandana satyabAdI
+
+<P>dAne mAne abadhAne zaraNa sampAdi | 307 |
+
+<P1>302 y1eghAnti brahmapada haribi bhiAibi nabakhaNDa
+<>mohora teja bijAziba sapatabrahmANDa |(kha, tha)
+
+<P1>306 ``bizwAmitraMkara bhay1e bidyAdhara puruSe rahi nuArile tiniswarge''
+<>pare `ka' pothire bhinma pATha :--
+
+<P1>satyayuge sUryyabaMze haricandana nrupati
+
+<P1>kahite asaMkhya ye tAhAra bibhUti |
+
+<P1>baDAi pratApI se aTai nrupabara
+
+<P1>tAhAra dAnIpaNa bikhyAta tinipura |
+
+<P1>zateratha subarNNa rAjA nityeheM diai dAna
+
+<P1>aneka prazaMsA ye karanti bidujana |
+
+<P1>y1emante y1ekadine bizwAmitra munibara
+
+<P1>bijay1e kalA yAiM haricandana nrupati chamura |
+
+<P1>307|2 dAne mAneNa ye saMsAre parasiddhi (ja)
+
+[MBO-10(1)-37]
+
+<P>bizwAmitre goDAnti bidyAdhara puruSe paLAnti begi begi
+
+<P>se haricandana rAjAku zaraNa sambhALa boli abhyarthiNa mAgi | 308 |
+
+<P>bidyAdhare boile Ambhanta zaraNa rakha haricandana rAy1e
+
+<P>lakSe baraSa hoilA paLAilu bizwAmitraMkara bhay1e | 309 |
+
+<P>Ambhanta dhariNa se yebe kariba kAryyasiddhi
+
+<P>tebe se nabasruSTi bhiAiba brahmAy1e bibAdI | 310 |
+
+<P>haricandana rAjA ye zaraNa sambhALi
+
+<P>y1emantara samay1e bizwAmitra Asi miLi | 311 |
+
+<P>beda AdhyAna se ye karanti tapaniSTi
+
+<P>bedadhuni zabade sapata brahmANDa ghoTi | 312 |
+
+<P>raha raha brAhmaNa asaMkhya mahimA tohora
+
+<P>yeNe tohora kAryya mAga ho munibara | 313 |
+
+<P>kuzahasta hoiNa se bizwAmitre boile
+
+<P>Ambhe dAna ghenimuM rAjA satyakari tohora upara hAthe dile | 314 |
+
+<P>DAhANAdrateka zaGkhe jaLa tiLa bhari
+
+<P>upara hAthe dAna diai daNDadhArI | 315 |
+
+<P>sAkSa nimante muni debatAMka nAma ye uccAri
+
+<P>bizwAmitre dAna ghenanti taLa hAtha kari | 316 |
+
+<P>upara hAthe haricandana rAjA chADanteNa pANi
+
+<P>tohora rAjyayAka debu ho nrupamaNi | 317 |
+
+<P>y1e tora dhanabhaNDAra ratha gaja azwa ye pAdAnti
+
+<P>nabasahasra yojane tu aTu Adhipati | 318 |
+
+<P1>308 goDAnte kauzike bidyAdhara paLAile
+<>haricandra rAjAThAre zaraNa pazile |(kha, Tha)
+
+<P1>317|2 ``tohora rAjyayAka debu ho nrupamaNi'' pare
+<>`ka' pothire bhinma pATha :--
+
+<P1>y1eteka ratha gaja azwa bhaNDAra pAdAnti
+
+<P1>santoSa mane y1ehA debu catrabratI
+
+[MBO-10(1)-38]
+
+<P>godhana dhana dhAnya sAdhana sakaLa gruhabAsa
+
+<P>gheni se mahAdAna hoile haraSa | 319 |
+
+<P>rAjA haricandana rANI zabyA kumAra rohitAkSa
+
+<P>y1e tinijaNaMku rAjyuM bAhAra kari muni dakSa | 320 |
+
+<P>rAjArANI putra tiniMki bAhAra karidyante bizwAmitre
+
+<P>boile mora rAjye annamagi na khaibu nrupatye | 321 |
+
+<P>nabasahasra yojana ye rAjya Ay1atana
+
+<P>rAjArANI azakata na pAiNa pANi anna | 322 |
+
+<P>kumAra rohitAkSa ye nuArai chAli
+
+<P>kimpe na chAlu boli bizwAmitra tAku pakAi dile peli | 323 |
+
+<P>sukumAr akumara se paDilA muhiM mADi
+
+<P>kopeNa bizwAmitra nei piTileka bADi | 324 |
+
+<P1>parapruSThAra abaziSTAMza :--
+
+<P1>satya pALi haricandana santoSe dAna dilA
+
+<P1>pache bizwAmitra muni dakSiNA mAgilA |
+
+<P1>dakSiNA debu yebe nAhiM rAjya dhana
+
+<P1>samarAjya yAkata prathame dilu dAna |
+
+<P1>dakSiNA nimante muni kalAka ghan~chALa
+
+<P>dekhiNa bisma y1e haricandana mahIpALa |
+
+<P1>zabyArANI rohitAkSa kumAraku dhari nrupamaNi
+
+<P1>boilA bitre kari dakSiNA debi ANi |
+
+<P1>zuNi bizwAmitra, rAjAnta saGge gheni
+
+<P1>bitre karibA nimante nelA mahAmuni |
+
+<P1>zabyArANI sahite rohitAkSa kumAra
+
+<P1>dakSiNA nimante kAzIpuraku niy1anti munibara |
+
+<P1>rAjAra kumara rohitAkSa ye nuArai chAli |
+
+<P1>319|2 hotAhoLa dAne se hoilA (nohilA) santoSa |(jha, Ta)
+
+<P1>320|2 y1eteka gheni bAhAra hoilA nrupa dakSa |(Ta, Ga)
+
+[MBO-10(1)-39]
+
+<P>mukhabATe kumarara bahai zroNita
+
+<P>tahiMra upare muni mAileka nAta | 325 |
+
+<P>brundAarkamAne thaiM tAha dekhuthile AkAze
+
+<P>sahi nuAri boile bizwadebA pan~chu ye puruSe | 326 |
+
+<P>bizwadebAy1e boile tuho bizwAmitra manda aTu
+
+<P>bALuta rAjakumAraku kimpAiM yaSThi gheni piTu | 327 |
+
+<P>y1eteka bolante ApaNe hoile bairAgI
+
+<P>kemante nabasruSTi bhiAiba begi | 328 |
+
+<P>y1e tohora abidhi aTai munibara
+
+<P>akAraNe nAzakaru bALuta kumara | 329 |
+
+<P>kopeNa bizwAmitra ye chAhiMle kaTAkSe
+
+<P>Are yisa karipAribi y1e mohora zakye | 330 |
+
+<P>mohora kathAre kimpe tumbhe kathA kaha
+
+<P>Are pan~chu debAy1e tumbhe mAnuSe jAtahoa | 331 |
+
+<P>pan~chu bizwadebAmku zApa diante bizwAmitre
+
+<P>bizwAmitraMku sebAkale se zate baraSa pariyante | 332 |
+
+<P>zate baraSe tAhAMku kaleka saday1e
+
+<P>mohora kopaku tumbhe kale kire bhay1e | 333 |
+
+<P>muhiM trupati hoili y1ebe mAga tumbhe bara
+
+<P>bizwAdebAy1e boile swAmI Ambhanta anagruha kara | 334 |
+
+<P>AmbhemAne aTu ye bihantA puruSe
+
+<P>kalpa kalpAntare Ambhe thAuM ye Akaze | 335 |
+
+<P1>328 y1eDe baDa rAjA tumbhe aTa mandabAdI
+<>y1emante ki nabasruSTi pAribu sampAdi |(ja)
+
+<P1>331 Are Are bizwadebAy1e manabe jAtahoa
+<>anamite kimpe mote karAila koha |(ja)
+
+<P1>3355|2 kalpa kalpAntara hoi karuM swargabAsa |(Ta, ca,)
+
+[MBO-10(1)-40]
+
+<P>bAra brata yagyAMdi Ambhe bhAgapauM yezu
+
+<P>marttyapure janmi rahi nuAribu teNu | 336 |
+
+<P>aLapa doSaku kalu muni bahuta rAga
+
+<P>tumbhe zAnti bhajile Ambhe alpake asibu swarga | 337 |
+
+<P>len~cheNa jAta muni na karibA Ambhanta
+
+<P>AgyaMdia yemante uttama kuLe hebuM jAta | 338 |
+
+<P>day1Akale muni ye bhagati bikaLe
+
+<P>somabaMze jAtahua tumbhe pANDabaMka koLe | 339 |
+
+<P>dropatI garbhaM janmiNa pramAda labhiba
+
+<P>bhAratha yuddhAnte droNi sabunti chediba | 340 |
+
+<P>zuNa baibasuta manu baday1anti agasti
+
+<P>tumbhe boila adArAy1e ziracchedana kebaNa yugati | 341 |
+
+<P>bizwAmitra zApe se mAnabe jAta hele
+
+<P>sta sAta baraSe ziracchedana hoi swarga kaiM gale | 342 |
+
+<P>tu ye pucchAkalu pAn~chALI kumaraMka kathA
+
+<P>bizwAmitra zApe bizwadebay1e hoithile y1esaneka abasthA | 343 |
+
+<P>jay1a tu nirAlamba mUrtti nirmaLa bAsudeba
+
+<P>nirguNa nirAkAra deba tu zUnyaru sambhaba | 344 |
+
+<P>Adya madhya ante yAra abakAza nAhiM
+
+<P>zUnyaku zabada zubhai pAibA ambhe kAhiM | 345 |
+
+<P>sthAbara jaGgama kITa pataGga tumbhe brahma
+
+<P>anubrate phuru mote zrIrAmaMka nAma | 346 |
+
+<P1>336 brata bandApanA yagyaMre Ambhanta ye bari
+<>mrtyu maNDaLe kemanti rahibuM mAnaba tanu dhari |(ja)
+
+<P1>336 baDu brata bibha sImanti siddhi yagyaM ye kari
+<>mrutupure rahi na pAribuM manySya rUpa dhari |(Ga)
+
+<P1>337|2 anagruha kara yemante bahana AsuM swarga |(ca, Ta, Tha)
+
+<P1>341|2 tumbhe boilA adArAy1e ziracchedana aTai agati |(ja)
+
+<P1>338|1 len~cha--nIca |
+
+[MBO-10(1)-41]
+
+<P>japa mantra dhyAy1e zAhAsra anutrame
+
+<P>anukSaNe sumarai citte muM zrIrAmara nAme | 347 |
+
+<P>se beni akSara yAhAra nAmagoTi
+
+<P>kin~chite boile koTiy1e brahmANDa yAiM ghoTi | 348 |
+
+<P>swAmI tabalay1e anubrate karai muhiM AzA
+
+<P>yamadaNDa ban~chAibAku baLAili manIyA | 349 |
+
+<P>dibA rAtre talay1e zrIrAma nAmaku
+
+<P>y1e ghora saMsAru swAmI pAri karibA muku | 350 |
+
+<P>swAmI mAy1A dauDire bandhana muM baDa aparAdhI
+
+<P>rAga moha ahaMkAra hiMsA apabAda baDa trodhI | 351 |
+
+<P>aniryyApa saMsAraku y1e sakaLa san~chA
+
+<P>mana caitana nAtha tu praLay1a kALa ban~chA | 352 |
+
+<P>madhyare aNAkAra y1e pASaNara bheLA
+
+<P>bhAsili kaLIkALe na pai taba kuLA | 353 |
+
+<P>swAmI trailokya bhitare yAhA nAma aTe zreSTha
+
+<P>day1A karantu se rAma sahite kaniSTha | 354 |
+
+<P>yogIjana jIbana nAtha parama jyotimartti
+
+<P>talay1e prApata mote bhakati mukati gati | 355 |
+
+<P>swAmI yAbata candra ye dibAkara Adi
+
+<P>zaraNa rakSaNa nAtha nabasruSTi sampAdi | 356 |
+
+<P>kALa kAma nidrA swAmI samasta kalu tejyA
+
+<P>nirAkuLa puruSa tu swAmI kSIrodre ananta zayyA | 357 |
+
+<P1>350|2 agAda jaLaku swAmI bhay1a achai muku |(ja)
+
+<P1>350|2 agAda sAgare kaLa baDa bAdhA muku |(tha)
+
+<P1>351 dibArAtre sumarai ramanAma zuddhi
+<>swAmI mAy1A dauDire bandhana muM bahuta aparAdhI |(Ta)
+
+<P1>354|2 saday1e kari natha pheDibA mora kaSTa |(ja)
+
+<P1>357|1 swAmI kALa antakALe tu samasta kalu tejyA |(ja)
+
+
+[MBO-10(1)-42]
+
+<P>agAda samodre swAmI phuTilA kamaLa
+
+<P>tumbha nAma sumari ye pAili thaLakULa | 358 |
+
+<P>asaMkhya akaLita san~chilA bAkyadebI
+
+<P>nAtha tumbhara prasAde muM ye y1ehAnta bighAsibi | 359 |
+
+<P>hruda padmare mora zrIrAma nAma goTi
+
+<P>zrIkruSNaMka caraNe puNa puNa zira mama loTi | 360 |
+
+<P>abhay1e maGgaLA mA go yAhAra nAma zatazriy1A
+
+<P>kamaLa mALa hoi go biGghasa mora hiA | 361 |
+
+<P>durAnteka saMsAru tuhi se karu pAri
+
+<P>badanti sAroLa dAsa zrIhari nAma dhari | 362 |
+
+<P>zrI bAkyadebI prasade muM kali mahAbhAratha
+
+<P>y1ehA zuNi nare hoiebe mukata | 363--436 |
+
+<H>{@zrIkruSNaGkara indraprastha Agamana pAntabaGku pAn~chALI
+<>pan~chaputra saha dhrusTadyumna ziracchedana bArttA pradAna
+<>o azwatthAmA astra haraNa@}
+
+<P>maGgaLa dadhibAna jay1a tu bighnarAja
+
+<P>bhagata janabandhu pArbatI Atmaja | 1 |
+
+<P>swarga man~cha pAtALa ananta koTi brahmANDa
+
+<P>sakaLa bizrAmaiM yAhAra udare pruthI nabakhaNDa | 2 |
+
+<P1>360 hruday1a kamaLe tulay1e mohora rAmanAma
+<>zrIrAma caraNe mora zatesahasra paraNAma (ja)
+
+<P1>362 zrI puruSottama nAmagoTi sumarai niti
+<>badanti zudramuni sAroLa dAsa zrIrama hrudagati |(ca, Ga, jha; Ta)
+
+[MBO-10(1)-43]
+
+<P>yamadaNDa phiTai yAhAra nAma sumarante
+
+<P>bighna binAzana nAtha cinte mama hrudagate | 3 |
+
+<P>bistAra hruday1a yAhAra udara thantala kruzabAhu praLamba
+
+<P>amruta laDu bhman~ju jay1a tu bighnadeba | 4 |
+
+<P>airAbratara nandana suhastA nAme hAthI
+
+<P>pUSpadanta mahAnAma yAhAra paNanAti | 5 |
+
+<P>se nAgara badana yAhAra bakSasthaLe
+
+<P>meru TaLai yAhAra nrutyarasa kALe | 6 |
+
+<P>koTiy1e parbata yAhAra caraNe ghAghuDimALa
+
+<P>ananta nAga paitA yAhara bakSasthaLa | 7 |
+
+<P>yajana yAjana yAra citA mARataNDa
+
+<P>anubrate madane bhoLa bhairoba nAma yAhAra pracaNDa | 8 |
+
+<P>prazu mudugara pAza aMkuza tIkSamUnA
+
+<P>bhababhan~jana nAtha haratANDaba rasana | 9 |
+
+<P>koTiy1e gogI gale yAhAku ArAdhi
+
+<P>zUnyakai kAraNa yAra niran~jana prabodhi | 10 |
+
+<P>caraNe nUpura ruNujhuNu bAjai yAra pAuM
+
+<P>taba badana dekhile duSukruta mora yAu | 11 |
+
+<P>zaiLajAra nandna atalay1e mamahrude
+
+<P>kALa bimicana karibi natha tumbhara prasAde | 12 |
+
+<P1>5 airAbatara nandna abairAbata hAthI
+<>puSpadanti nAma tora aTai gaNapati |(jha, Ta, ga, Ga)
+
+<P1>7 koTiy1e azwa (kandara) yAhAra caraNare miLi
+<>ananta koTi brahmaNDa praLay1a bakSasthaLI (ca, kha, jha, Ta, ra)
+
+<P1>8 anubrate maddoLa bhairaba yAra kaLA
+<>bharahara nAy1aka ye tANDaba rasabhoLA |(gha)
+
+[MBO-10(1)-44]
+
+<P>se nAthara pAdapaMkaje anubrate sebi
+
+<P>sAroLa dAsa icchai hebApAiM kabi | 13 |
+
+<P>jay1a tu jay1a tu deba zazAMka mauLi
+
+<P>jay1a tu jay1a tu deba mahamatta bhoLi | 14 |
+
+<P>jay1a tu jay1a tu deba anAdi susAdhu
+
+<P>jay1a tu deba dInabandhu jay1a krupAsindha | 15 |
+
+<P>jay1a tu jay1a tu deba bhagatamatsaLa
+
+<P>bhUSaNa hoichuM sadA bakSare kapALa | 16 |
+
+<P>jay1a tu jay1a tu deba agni sUryyacandra netrA
+
+<P>jay1a tu jay1a tu deba ananta nAga yAhAra pabitrA | 17 |
+
+<P>swAmI taba padmapAde ye binay1e bhagati
+
+<P>kahibi biSNu purANa yeNe se mukati | 18 |
+
+<P>yaGkherapura bAsinI abhay1e maGgaLe
+
+<P>janme janme zaraNa muM tumbha padmapAda taLe | 19 |
+
+<P>abheda swargakiLA kaLikALa darpa dhwaMsi
+
+<P>tAreNI baiSNabI go kALaphANi nAzi | 20 |
+
+<P>anubrate Ananda mA go parama anAdi
+
+<P>surasiddha muni yAra caraNare bandi | 21 |
+
+<P>muhiMta maneba janma go sarba maGgaLe
+
+<P>mama AtmA rahu mA go taba pAdakamaLe | 22 |
+
+<P>kumArI rUpe mA go kheDu kutUhoLe
+
+<P>bhagata jana macchaLI go sadA tu maGgaLe | 23 |
+
+<P>se debI caraNe muM anubrate sebi
+
+<P>mama mana antra go nohu bAkyadebI | 24 |
+
+<P1>18|2 AgyAM dia lekhibi zrI bhAratha bhAratI |(kha)
+
+<P1>19|2 mama AtmA ucchargili taba pAdataLe |(ga)
+
+[MBO-10(1)-45]
+
+<P>yAhA se mote AgyAM dile zrIcaNDi sAroLe
+
+<P>zUdramuni sAroLa dAsa bhabanti hruday1a kamaLe | 25 |
+
+<P>baibasuta manu ye agastiMki kale pucchA
+
+<P>samaste paDile Ara ke ke hele rakSA | 26 |
+
+<P>zuNa baibasuta manu baday1anti agasti
+
+<P>dwArikA bhmabanare ye pANDabe achanti | 27 |
+
+<P>rajanI prabhAte kruSNaMku boile dharmarAy1e
+
+<P>bho hari yibA chala indra prazasta yAy1e | 28 |
+
+<P>gobinde boile deba Ajaka raha y1etha
+
+<P>muhiM yAiM bujhai mAnagobinda kalA kemanta | 29 |
+
+<P>swAmI y1ethira carita jANi Asai bhale
+
+<P>tumbhanta nei nuArai driyodhana prANethile | 30 |
+
+<P>pANDabanta samArji se caLile janArddana
+
+<P>bijay1e jagamohana bainetra bAhAna | 31 |
+
+<P>beLa tinighaDi tahiM hoile prabeza
+
+<P>indraprazaste yAiM prabeza hoile hruSIkeza | 32 |
+
+<P>bAhAnuM uturi kari pazile bhitare
+
+<P>dekhile bhairoba rUpa rahiNa acchi dwAre | 33 |
+
+<P>sannidhyare prabeza hoile deba hari
+
+<P>bhagna hoiacchi dekhile gaDa dakSiNa ADara pAcerI | 34 |
+
+<P>gobinde bijr kale bhagna gaDAdwAre
+
+<P>dekhile beni kSeuNI baLa paDichanti bhitare | 35 |
+
+<P>dekhi nArAy1aNaMkara na phurai kicchi
+
+<P>dekhile bhitara dwAre dhruSTadyumana paDiacchi | 36 |
+
+<P>mane mane bichArile swAmI debarAje
+
+<P>uttara dwAre yAiM gobinda kale bije | 37 |
+
+<P1>26|2 y1ethu kebaNa kathA hoilA mote kahibA bahmabacchA |(Ga, jha, Ta)
+
+<P1>29|2 muhiM yAiM bujhai mAnagobinda achai kemanta |(kha, ca)
+
+[MBO-10(1)-46]
+
+<P>anwiSi nArAy1aNa candrazALA pure
+
+<P>skandhe muNDa nAhiM paDichanti dekhile pAn~chALI kumare | 38 |
+
+<P>tahuM caLigale deba manare bisari
+
+<P>byAsa sarobara tire yAiM bije kale debahari | 39 |
+
+<P>dekhile mAnagobinda paDicchi mahIloTi
+
+<P>chAmure paDicchi An~chALI kumaraMka muNDa pAn~chagoTi | 40 |
+
+<P>khagabara piThiru uturile deba ye zrIbaccha
+
+<P>dekhile mAnagobinda sImasthAne basicchi drudakSa | 41 |
+
+<P>zrIkruSNaMku dekhi drudakSa hoilA asASTama
+
+<P>bho kruSNa buDilA ohokuLa dharma | 42 |
+
+<P>hArile kaurobe ye sArile saMpada
+
+<P>jagajjitA pANDabanta kimpe paDilA y1eDeka pramAda | 43 |
+
+<P>swAmI pAn~chALI kumaraMkara dekhi muNDa pAn~chagoTi
+
+<P>zarIru AtmA chaDilA rAja dhrutirASTi | 44 |
+
+<P>swAmI abaraNe zwetaduba ye mathAreNa gheni
+
+<P>azastamA senApati hoilA Ajara ray1eNI | 45 |
+
+<P>duikSeuNI baLa dhruSTadyumanaku pakAilA mAri
+
+<P>pAn~chALI kumaraMka muNDa ANila bhAra kari | 46 |
+
+<P>dhUru driyodhana pANDabaMka prAy1e maNi
+
+<P>aneka puruSArtha bacana se bhaNi | 47 |
+
+<P>pANDabaMka muNDa boli rAjA toSa ye hoilA
+
+<P>sannidhye dekhi cihni se aneka zokakalA | 48 |
+
+<P>aneka jhiMghAsa tAku kala kururAja
+
+<P>azastamA pAilA ye bahuta puNa lajja | 49 |
+
+<P>pAn~chALI kumaraMka muNDa lagAi hrudare kururAjA
+
+<P>hA hA boli kahi se manodukhe prANa kala tejyA | 50 |
+
+<P1>42|1 zrIkaSNaMku dekhi drudakSa hoilA sASTama |(Ga, ka)
+
+[MBO-10(1)-47]
+
+<P>zuNiNa birasa se ye hoile nArAy1aNa
+
+<P>puNa puNa drudakSaku bolanti bacana | 51 |
+
+<P>kruSNa boile drudakSa thAA tu y1ehiThAre
+
+<P>pANDabanta gheni muM AsaiM byAsa sarobara tIre | 52 |
+
+<P>bainetra piThire Arohi caLile jagannAthe
+
+<P>dwArikA bhmabane yAiM bijay1e turite | 53 |
+
+<P>aneka sAnande bije pANDabaMka sannidhyAne
+
+<P>kuzaLa bAratA ye pucchanti kruSNaMku pan~chujane | 54 |
+
+<P>galu ye bAsudeba bhmabana indraprazaste
+
+<P>bhale achantiTiki pAn~chALI kumare dhruSTadyumana sahite | 55 |
+
+<P>samasta kuzaLa ye kahanti madhuripu
+
+<P>bijay1e karibA y1ebe jaintA bhmabanaku | 56 |
+
+<P>Asa yibA boli bolanti jagamohana
+
+<P>y1ekAnta hoile deba sahadeba sannidhyAne | 57 |
+
+<P>zrI gobinde boile he zuNa sahadeba
+
+<P>azastamA senApati hoi mAilAka sarba | 58 |
+
+<P>duikSauNI baLa tule dhruSTadyumanaku
+
+<P>Abara nAzakalA pAn~chALI kumAraMku | 59 |
+
+<P>krupa azastamA hoile y1ekasthAna
+
+<P>tAhAnta dekhite bhay1a lAgilA mora mana | 60 |
+
+<P>Ajaka tumbhe rahiNa thAa y1e dwArikA
+
+<P>krupa azastamA tahiMki muhiM yibi y1ekA | 61 |
+
+<P>pANDabe rodana karanti pAn~chALIkumAra hata zuNi
+
+<P>gata Agata duikuLa budAilu nrupamaNi | 62 |
+
+<P>dropatIMkara trodha kahite ki pAri
+
+<P>sannidhye basi sambodhanA karanti narahari | 63 |
+
+<P1>54|1 pANDabe haraSa kruSNaMku dekhi sannidhyAne |(Dha)
+
+<P1>55|2 bhala mandara bAratA kahatu samucite |(kha)
+
+[MBO-10(1)-48]
+
+<P>mahAkakSA kale droapda kumArI
+
+<P>zarIra bisarjana mora karibi banamALI | 64 |
+
+<P>puNa bolanti ho zuNa catrapANi
+
+<P>mora putra bairi mAribu y1ehikSaNi | 65 |
+
+<P>dropatIki sambodhanA kariNa debarAje
+
+<P>bainetra bAhAne kaleka deba bije | 66 |
+
+<P>guruDa bAhAne caLile debarAje
+
+<P>nandIkezwara bane zrI bAsudeba bije | 67 |
+
+<P>sehi bane gupata hoi rahile bainetre
+
+<P>brAhmaNa rUpa se ye dhaile jagannAthe | 68 |
+
+<P>zrIbacchalAn~chana dwAdaza zata haste kuzabiDi
+
+<P>gopyAna hoiNa dohorA kAkhe jAkichanti beda ye karAnti | 69 |
+
+<P>zukaLa dhoti chatA gaDu uturi purANa ye pothi
+
+<P>tapodhana rUpa dhari bacaste buluchanti | 70 |
+
+<P>andheka boliNa kari y1ekai nadIgoTi
+
+<P>tahiM yAiM krupa azastamAkaiM bheTi | 71 |
+
+<P>azastamA boile paNDAy1e tumbhe kebaNa dezI
+
+<P>Ambhara tule tumbhe hoila banabAsI | 72 |
+
+<P>gobinde boile Ambhe thAuM sarbatIrthe
+
+<P>susthAna susaGga pAile rahu pan~chu dibasa pan~chu rAtre | 73 |
+
+<P>kupa boile Ambhe nohunA susaGga
+
+<P>aneka pAtaka kalA Ambhara y1ehi aGga | 74 |
+
+<P>Ambhe bhAratha yuddhe hoithilu senApati
+
+<P>gohatyA brahmatyA Ambhe kalu apramiti | 75 |
+
+<P>droNaMka zaLA Ambhe AmbhanAma krupabrahmA
+
+<P>Ambhar abhaNan~jA y1e nAma azastamA | 76 |
+
+<P>prazurAma prasanne y1e hoilA trijIbI
+
+<P>mAnagobinda boilA muM tote senApati karibi | 77 |
+
+[MBO-10(1)-49]
+
+<P>pitA nidhana hoile y1ehAMkara bhAratha yuddhe
+
+<P>zahasra y1e tejyA kale pitAMkara trodhe | 78 |
+
+<P>adabhmate gale y1ehi paradina rAtre
+
+<P>sAta sAta baraSara dropatIMka putre | 79 |
+
+<P>tAhanta nAzakala y1ehu binA yuddhe
+
+<P>kumbhIpAka rauraba pAi adoSe bALabadhe | 80 |
+
+<P>y1eteka pAtaka ye arjiachuM Ambhe
+
+<P>kemante Ambhara tule thibaTi hAde tumbhe | 81 |
+
+<P>krupaMka bacana zuNi bolanti debarAy1e
+
+<P>tumbhe bedamantre nirjita brAhmaNara poy1e | 82 |
+
+<P>brAhmaNa hoi yebe sAdhila chatrI bidyA
+
+<P>sAMgrAme ziracchedana tumbhana aTai kisa bAdhA | 83 |
+
+<P>ziracchedanuM bhay1e kala ye beni
+
+<P>y1ebe caLa tumbhe Ambhara bacana gheni | 84 |
+
+<P>tapara phaLa ye nohai rajaguNi
+
+<P>mantra arthe thibA kimpe zahasra gheni | 85 |
+
+<P>zahasra thile rAga tame hoy1e bAda
+
+<P>rajaguNe abazya paDai paramAda | 86 |
+
+<P>puNi gobinde pratibAkya dianti kapaTe
+
+<P>tumbhara dhanu troNa thuasi brukSa troTe | 87 |
+
+<P>gamibA gaGgA gay1A kruSNAbeNI Adi kari
+
+<P>narmadA saraswatI gautamI kaberI | 88 |
+
+<P>nArAy1eNI hemakedAra pray1Aga baitaraNI gaNDukI
+
+<P>lokAloka giri AdinAtha setubandha yibA dekhi | 89 |
+
+<P1>84 y1ebe Ambhara bacana zuNa tumbhe beni
+<>mantra pUta hoiNa ye kara bedadhuni |(kha, Tha, da)
+
+<P1>86 rAga dweSare samasta hoithAiM badha
+<>rAga dweSa thile nice paRe paramAda |(kha, Tha, da, ca)
+
+[MBO-10(1)-50]
+
+<P>kruSNara bacane se hoile ye baza
+
+<P>zahasramA abuDAile kapALezwara tIrtha | 90 |
+
+<P>mahAoDapA gaGgottarI sarita bhitare
+
+<P>samasta zahasramAna buDAile agAda gabhIre | 91 |
+
+<P>chADile chatrIbrutta kapALezware kari sAkSI
+
+<P>gomatI tIrtha toSanti mAtA piGgaLAkSI | 92 |
+
+<P>dineka gamile se gaNDukIra tIrthe
+
+<P>loDile zALagrAma biSNupUjA arthe | 93 |
+
+<P>se gaNDukI nadI tIre ratnagiri nAma parbatare
+
+<P>bajakITa nAme poka thAnti tA bhitare | 94 |
+
+<P>ziLAy1eka karai sahasre baraSa mUrtti
+
+<P>nibADi ziLA goTiy1e ye karai utapatti | 95 |
+
+<P>nirantare se kITa ye ziLA karibAre lAgithAnti
+
+<P>y1ehirUpe ziLA se ye nirbANa karanti | 96 |
+
+<P>hIrA nILA mANikya aSTaratne nirmita tAra kAy1e
+
+<P>nay1ana dizai tAra markata liGga prAy1e | 97 |
+
+<P>danta prabALa tAra hIrA jhaLi jANi
+
+<P>sahasra baraSe y1eka ziLA niribANi | 98 |
+
+<P>mahApratApI se aTai bajrakITa
+
+<P>mahApraLay1a kALe se thAi parbatara troTa | 99 |
+
+<P>jaLa anaLa tAraNa yAhAra kAy1e
+
+<P>mahApraLay1a gale maNaiM dibasa anta prAy1e | 100 |
+
+<P>se ziLA nibADai ye ananta koTi mUrtti
+
+<P>sehi se jANai sinA ziLAMkara saGgati | 101 |
+
+<P1>92|2 gamanti nAnA tIrthe toSanti kamaLAkSI |(jha, Ta)
+
+<P1>93|2 loDanti zALagrAma, ziLA gheni bAchanti hAthe mUrttibante |(ja, jha, Ta, Dha)
+
+<P1>100|1 jaLa anaLa dahana nohai tAhAra kAy1e |(Dha)
+
+[MBO-10(1)-51]
+
+<P>sehi nadIkULe rahile krupa azastamA mAdhaba
+
+<P>rAtreNa tAhAnta ye chaDile bAsudeba | 102 |
+
+<P>gaNDukI nadIra IzAnya bhAge thile
+
+<P>saGga chaDi hari parbate bije kale | 103 |
+
+<P>tatakSaNe sumaraNA kale khagezware catradhara
+
+<P>ramyaka dwIparu rAtra pAn~chaghaDire miLilA chamura | 104 |
+
+<P>bije kale bhagabAna bainetrey1a piThi
+
+<P>kapALa locana tIrthe pAiM bheTile ye kUTa kapaTi | 105 |
+
+<P>krupa azastamA yete zahasra thileka luchAi
+
+<P>jaLe buDiNa thA ye ANile yadusAiM | 106 |
+
+<P>garuDa piThire nei thoile dhanuzara
+
+<P>yAiM rAtre bije kale prabhma dwArAbatIpura | 107 |
+
+<P>kruSNa bije karibAra jANiNa dropatI
+
+<P>kAnda kAnda hoiNa se Asi miLileka kati | 108 |
+
+<P>gobinde boile zuNa go dropada kumArI
+
+<P>astra ANili go to putra bairi chaLikari | 109 |
+
+<P>dropatI chamure dileka debahari
+
+<P>dekhi sAnanda hoile ye dropada kumArI | 110 | 545 |
+
+<H>{@zrIkruSNaGkaThAru nanda o basudebaGkara mahAbhArata
+<>yuddhabruttAnta zrabaNa@}
+
+<P>zrIkruSNaMka bije dekhi pucche Anande ugrasena
+
+<P>nanda basudeba yAiM bheTile sannidhAna | 1 |
+
+<P>basudeba boile dekhi nuArai tote dibArAtre
+
+<P>kimbhUta kAraNe tumbhe y1eDe cintA arthe | 2 |
+
+<P>gobinda boile tAta kahaiM muhi sAdhye
+
+<P>pANDabapriy1a hoi pazili mahAbhAratha yuddhe | 3 |
+
+[MBO-10(1)-52]
+
+<P>basudeba boile mahAbhAratha yuddha kathA
+
+<P>san~chapi kahibA mote zuNimA mahAbhAratha bAratA | 4 |
+
+<P>Adi anta madhye tumbhe hoithila rathabAhI
+
+<P>keteka paDile kete chanti rahi | 5 |
+
+<P>gobinde boile tAta zuNa sAbadhAne
+
+<P>prathama yuddha makara mAsa zukLapakSa pratipadAdine | 6 |
+
+<P>budhabAra sedina dhaniSThA nakSatra
+
+<P>kumbhare candra makara rAzire Aditya | 7 |
+
+<P>bALaba nAme karaNa parigha nAme yoga
+
+<P>tiniUNA zatANoy1I sahasra rAjA driyodhanara bhaga | 8 |
+
+<P>tinipadma rathI batiza padma hAthI
+
+<P>bizAzate padma azwa tini bAstarI kSauNI pAdAnti | 9 |
+
+<P>y1ete saina sAhA hoile kaurabe
+
+<P>y1ekaUNA tinisahasra nrupati hoile pANDabe | 10 |
+
+<P>bAstarI kSauNI pAdAnti marbhmateka rathI
+
+<P>dui marbhmata hAthI chAri marbhmata azwa hoile pANDabaMkara kati | 11 |
+
+<P>bhISma droNa karNNa zalya Abara azastamA
+
+<P>bhUrisarba somadatta bAhlika ye krupabrahmA | 12 |
+
+<P1>12|2 keteka pothire yadyaratha pATha acchi o somadatta nAhiM|
+<>tha, Ta, Ga, ja pothire somadatta o (yadyaratha) jay1adratha
+<>ubhay1a nAma acchi |
+
+<P1>12|2 ``bhUrisarba somadatta bAhlika ye krupabrahmA'' pare
+<>(kha, tha) re pATha :--
+
+<P1>abhimanyu arjuna ye pANDabaMka kati
+
+<P1>kaurobaGkara hoile tAta naba mahArathI
+
+<P1>dropada birATa zweta uttara dhruSTadyumana zrIkhaNDI |
+
+<P1>y1ete mahArathI ye pANDabaMkara kati
+
+<P1>pANDabaGkara Au ye nAhAnti mahArathI |
+
+[MBO-10(1)-53]
+
+<P>kaurobe hoile tAta naba mahArathI
+
+<P>y1ekA mahArathI arjuna hoile pANDabaMkara kati | 13 |
+
+<P>bhISma senApati hele prathama dibase
+
+<P>beni kSauNI baLa gheni drudakSa zaraNa pazilA pANDabaGkara pAze | 14 |
+
+<P>prathama dina yuddhe bhISma mahArathI
+
+<P>pANDabaGkara katire paDile dazasahasra rathI | 15 |
+
+<P>pan~chadaza sahasra paDile mattahAthI
+
+<P>koDiy1e sahasra azwa chALizi sahasra pAdAnti | 16 |
+
+<P>prathama yuddhe y1eteka saina nAzagalA
+
+<P>mAnagobindara thAThuM marbhamateka rathI paDilA | 17 |
+
+<P>duimarbhmata gaja pAn~chamarbhmateka azwayodhI
+
+<P>dazalakSa pAdAnti paDile y1e bidhi | 18 |
+
+<P>puNi samara hoilA makaramAsa zukLapakSa dwitIy1Ara tithi | 19 |
+
+<P>zatabhiSA nakSatra ye bAra bruhaspati
+
+<P>kauLaba nAme karaNa ziba nAme yoga
+
+<P>se dina aMsakSepa hoilA raNaraGga | 20 |
+
+<P>kaurobaGkara aTanti bhISma mahArathI
+
+<P>dwitIy1a dina samare bhISma pADile koDiy1e sasra rathI | 21 |
+
+<P>pAn~cha ahibrate azwa tini marbhmateka hAthI
+
+<P>beni koTi yoddhA ye samare nipAti | 22 |
+
+<P>chAi kSaraNI pAdAnti pADile samare
+
+<P>y1eteka paDile ye pANDabaGka thAThare | 23 |
+
+<P>mAnagobindara paDile benikoTi rathI
+
+<P>nabakoTi azwa pan~chakoTi hAthI | 24 |
+
+<P1>13 kaurobe hoile pache bhISme senApati
+<>pANDabaGkara katire ye zweta mahArathI |(ka)
+
+<P1>20|2 sedina sainaMku paDilA raNabhaGga |(gha)
+
+<P1>22|1 pAn~chamarbhmata azwa nabamarbhmata hAthI |(ka)
+
+[MBO-10(1)-54]
+
+<P>SoLa kSauNI ye pAdAnti samare paDilA
+
+<P>dwitIy1a dina samara y1etekeheM rahilA | 25 |
+
+<P>bho tAta makaramAsa zukLapakSa trutIy1A bhrugubAra dina
+
+<P>pUrbabhAdra nakSatra ye aTai bidyamAna | 26 |
+
+<P>taitiLa name karaNa ziba nAme yoga
+
+<P>se dina samara ye hoilA raNaraGga | 27 |
+
+<P>samare se dina saja hoile bhISma mahArathI
+
+<P>pANDabaGka thAThe zweta kumara hoile senApati | 28 |
+
+<P>lakSeka ratha rathI ye benilakSa hAthI
+
+<P>chArilakSa azwa yoddhA pAn~chalakSa pAdAnti | 29 |
+
+<P>bhISma badhakale ye pANDabaGka y1ete baLa
+
+<P>baDAi samara kalA birATAra bALa | 30 |
+
+<P>mAnagobindara paDilA ey benilakSa rathI
+
+<P>sAtalakSa gaja nabalakSa azwa SoLa kSauNI pAdAnti | 31 |
+
+<P>samara karanteNa Aditya astagalA
+
+<P>ohobaLa saina sedina samara bhUmire rahilA | 32 |
+
+<P>bho tAta makaramAsa zukLapakSa cauThi zauribAra
+
+<P>uttarabhodua nakSatra biSTi karaNa siddhi nAme yogara | 33 |
+
+<P>mahAgoLa samara goTiy1e hoilA se dinara
+
+<P>aSTAdaza kSauNI sainya paDile kaurobaGkara | 34 |
+
+<P>pANDabaGkara paDile ye sainya pAn~chakSauNI
+
+<P>zweta kumAra paDilA se dinara ray1eNI | 35 |
+
+<P>makara mAsa zukLapakSa pan~chamI rabibAra
+
+<P>rebatI nakSatraku bhogya se dinara | 36 |
+
+<P>biSTi nAme karaNa ye prIti nAme yoga
+
+<P>ohobaLa hoilA se dina raNaraGga | 37 |
+
+<P1>32|2 y1egAra kSauNI saina paDile kaurobaMkara |(jha, Ta)
+
+[MBO-10(1)-55]
+
+<P>kaurobaGka aTanti bhISma mahArathI
+
+<P>pANDabaGka kati se dina arjuna ye rathI | 38 |
+
+<P>pANDabaGka kati se dina paDile pAn~chazata nrupati
+
+<P>azi sahasra rathI beni sahasra hAthI | 39 |
+
+<P>chArilakSa azwayoddhA pAn~chakSauNI pAdAnti
+
+<P>y1ete saina mAile bhISma mahArathI | 40 |
+
+<P>driyodhanara paDe nabazata pAridaNDa
+
+<P>nabalakSa azwa ahibrate hAthI mrutupiNDa | 41 |
+
+<P>SoLakSauNI ye saini nAzakalA
+
+<P>beLa tini praharaku ye samara rahilA | 42 |
+
+<P>bho tAta makara zukaLa hoy1e SaSThI candra bAra
+
+<P>azwinI nakSatra kauLaba karaNa zukLayoga se dinara | 43 |
+
+<P>sehina samara kale bhISma mahArathI
+
+<P>pANDabaGka thAThe mAile dazasasra rathI | 44 |
+
+<P>pAn~cha ahibrata hAthI benilakSa hay1e
+
+<P>pandara kSauNI pAdAnti tinisasra rAy1e | 45 |
+
+<P>y1eteka saina paDile ye kaurobe
+
+<P>pANDabaGkara paDile tinikSauNI baLa sarbe | 46 |
+
+<P>bho tAta makara zukaLapakSa saptamI bhaumabAra
+
+<P>(dwijA) bharaNI nakSatra ye bhogya se dinara | 47 |
+
+<P>gara nAme karaNa brahma nAme yoga se dinara
+
+<P>daza sahasra yoddhA paDile kauroba thAThara | 48 |
+
+<P>lakSeka rathI ye benilakSa hAthI
+
+<P>pAn~cha ahibrata azwa chArikSauNI pAdAnti | 49 |
+
+<P>y1eteka saina ye pANDabaGkara bhISme nAzakale
+
+<P>lakSeka yoddhA kaurobaMkara paDile | 50 |
+
+<P>chArilakSa azwa paDile koDiy1e kSauNI pAdAnti
+
+<P>pAridaNDa paDile sahasreka senApati | 51 |
+
+[MBO-10(1)-56]
+
+<P>aSTamI budhabAra kruttikA nakSatra
+
+<P>sedina gAGgabe pADile rathI bAra ye sahasra | 52 |
+
+<P>sAta sahasra tini ahibrta nAga
+
+<P>bAra kSauNI pAdAnti tinikSauNI turaGga | 53 |
+
+<P>kaurobaGkara paDilA bAra sahasra pAridaNDa
+
+<P>nabalakSa rathI pandaralakSa gajadaNDa | 54 |
+
+<P>tinikoTi turaGga bArakSauNI pAdAnti
+
+<P>y1eteka saina mAri raNa jay1akale bhISma maharathI | 55 |
+
+<P>bho tAta makaramAsa zukaLapakSa nabamI gurubAra
+
+<P>rohiNI nakSatra aTai se dinara | 56 |
+
+<P>bALaba nAme karaNa baidhruti nAme yoga
+
+<P>sedina bhISme pADile nabalakSa turaGga | 57 |
+
+<P>tini sahasra pAridaNDa chari sahasra rathI
+
+<P>lakSeka gaja azwa chAri kSauNI pAdAnti | 58 |
+
+<P>y1eteka pANDabe mAile kaurobaMkara kati
+
+<P>y1etekeheM samara rahilA adyApiTi | 59 |
+
+<P>bho tAta makaramAsa zukaLapakSa dazamI zutrabAra
+
+<P>mrugazirA nAme nakSatra biSakumbha yoga taitiLa karaNa se dinara | 60 |
+
+<P>koTiy1e ratha pADile bhISma senApati
+
+<P>y1egAra sahasra ye maile nrupati | 61 |
+
+<P>bizAzata marbhmata ye mAile mattanAga
+
+<P>bAizikSauNI saina nabalakSa turaGga | 62 |
+
+<P>dazamI dinara samare gaGgAra AtmajA
+
+<P>arjunara bANe se kale samara zeyyA | 63 |
+
+<P>bho tta makaramAsa zukaLa y1ekAdazI zauribAra
+
+<P>ArdrA nakSatra prIti name yoga sAra | 64 |
+
+<P>y1e dina mukuTa bAnddha senApati hoile gurudroNe
+
+<P>catrabhmaa gotay1e kaleka bhiANe | 65 |
+
+[MBO-10(1)-67]
+
+<P>se bhmaa Abori bahuta samara kalA sohodrA tanu | 66 |
+
+<P>pAn~chalakSa rathI mArilA y1ekA abhimanyu
+
+<P>AThalakSa gaja yoddhA dazalakSa hay1e
+
+<P>AThalakSa pAdAnti paDile abhimanyura ghAy1e | 67 |
+
+<P>samare nuAri driyodhana kalAka kUTa
+
+<P>goLayuddha kari se beDhile sarbathATha | 68 |
+
+<P>dhuzAsana badhakalA deba kumAra abhimanyuku
+
+<P>arjunaku gheni muM gali jaLandhara bhmaaku | 69 |
+
+<P>arjuna sedina jaLandhara bhmaa bhedI
+
+<P>caudalakSa sainya se pakAilAka chedi | 70 |
+
+<P>bho tAta makaramAsa zukLapakSa dwAdazI arkabAra
+
+<P>punarbasu nakSatra ye bhoga se dinara | 71 |
+
+<P>zakaTa bhmaa goTiy1e bhiAile droNa senApati
+
+<P>bhmaa bhedi galA y1ekA arjuna mahArathI | 72 |
+
+<P>sAtuki bhImasena aile tAhAra pacha
+
+<P>mukuTabandhA yoddhA paDile teralakSa | 73 |
+
+<P>gaja yoddhA koTiy1e pAn~chakoTi azwayoddhA
+
+<P>bhUrisarbaMka tule y1eteka gale badhA | 74 |
+
+<P>bhmaadwara kati thile batizasahasra rAy1e
+
+<P>y1eteka badhakale pANDaba dhanurjay1e | 75 |
+
+<P>yadyaratha paDilAka Aditya astakALe
+
+<P>SoLakSauNI paDile ye sedianra roLe | 76 |
+
+<P>sehi rAtre punI samara ye helA
+
+<P>karNNara bajrazakti ghAte ghaTautkaTa nAzagalA | 77 |
+
+<P>ghaTautkaTa nandana ghaTukA mahAchatrI
+
+<P>y1ehAra tule paDile dazasahasra rathI | 78 |
+
+<P>pAn~chALa dezara rAjA dropadezwara rAy1e
+
+<P>pAn~cha ahibrata yoddhA gheni paDile droNaMkara ghAy1e | 79 |
+
+[MBO-10(1)-58]
+
+<P>tinikSauNI baLa saGge ye gheniNa se thATha
+
+<P>pAn~chazata pArArddha tule paDilA birATa | 80 |
+
+<P>maruta dezara rAjA bhIma catrabratI
+
+<P>krupaMka samare se paDile tule gheni ahibrateka hAthI | 81 |
+
+<P>gobinde boile tAta goLayuddha hoilA sedinara rAti
+
+<P>samare paDile tahiM aneka nrupati | 82 |
+
+<P>maGgaLa dezara rAjA mAnaarajuna
+
+<P>azastamA samare se hoilA nidhana | 83 |
+
+<P>padmadaLa dezara rAjA padma ye kezarI
+
+<P>dhuzAsana nAzakala tule azwa gaja lakSa chAri | 84 |
+
+<P>brundAarka deza rAjA aTe manasija
+
+<P>durjay1a mAilA tAra tule nabasahasra hAde gaja | 85 |
+
+<P>mahlAra dezara rAjA aTai trigartta
+
+<P>karNNa mAilA tAra tule ahibrateka ratha | 86 |
+
+<P>nirjhara dezara rAjA aTai gaNapati
+
+<P>drubinda nAzakala tule sAtasahasra hAthI | 87 |
+
+<P>zrIgobinde boile tAta goLayuddha ghora ye andhara nizArAti
+
+<P>pANDabaMka thAThe paDile y1egArazata pan~chastori nrupati | 88 |
+
+<P>marbhmateka rathI ye pAn~cha marbhmateka gaja
+
+<P>naba marbhmata azwa nabakSauNI pAdAnti rAja | 89 |
+
+<P>kruSNa boile he tAta muM yeteka kahili
+
+<P>pANDabaGka ADe y1eteka paDilA tumbha Age boili | 90 |
+
+<P>driyodhana pakSaru raNe paDile yeteka saina
+
+<P>thokAy1e kahibi tAta sAbadhAne zuNa | 91 |
+
+<P1>81|1 maruta dezara rAjA mAnacatrabratI |(Ta, gha)
+<>maruta dezara rAjA bhISmeka catrabratI |(Ga, tha, Dha)
+
+<P1>87|2 dhUzAsana nAzakalA tule sAtasahasra rathI |(gha, Ga, tha)
+
+[MBO-10(1)-59]
+
+<P>ghaTautkaTa samare paDilA aLambuSa
+
+<P>aLAy1udha tule male marbhmate rAkSasa | 92 |
+
+<P>driyodhana zwazura aTai bhUmanyu
+
+<P>sAtasahasra rAjA tule trigartta rAjA tejilAka tanu | 93 |
+
+<P>mALaba dezara rAjA nAma krutabarmA
+
+<P>nabalakSa gun~jara gheni paDilA tAhAra hAthI azastamA | 94 |
+
+<P>bIrabhaGga dezara rAjA bIramALi
+
+<P>lakSeka yoddhA tule se paDilAka DhaLi | 95 |
+
+<P>kumuda dezara rAjA candranaumI
+
+<P>tinisahasra rAjA saha paDilAka bhUmi | 96 |
+
+<P>candrabAhu subAhu ye kundhANa baGgarAy1e
+
+<P>pAn~chakSauNI baLa tule ye paDile benirAy1e | 97 |
+
+<P>azastamA hata zuNi prabhAte zasra ye chaDile droNaguru
+
+<P>dhuSTadyumana zira chedile tAhAMkara dUruM | 98 |
+
+<P>basudeba boile prazurAma sAdrize droNa yodhI
+
+<P>binA yuddheka kimpe y1eDeka aparAdhI | 99 |
+
+<P>gobinde boile tAta aniryyApa helA zara bruSTi
+
+<P>azastamA gajaku bhIma gadAy1e nei piTi | 100 |
+
+<P>azastamA hata boli ohobaLe zubhilAka bANI
+
+<P>droNaguru zahasra chadileka tAhA zuNi | 101 |
+
+<P1>95|2 lakSeka rAjA tule se hoilA panthALi |(Dha)
+
+<P1>97|2 ``pAn~chakSauNI baLa tule ye paDile benirAy1e'' pare
+<>`ja' pothira pATha :--
+
+<P1>azastamA ratha sahite phiGgidilA bhImasena
+
+<P1>sAMgrAma bhUmi chaDi paDilA bizAzate yojana |
+
+<P1>teNu se putraku ye na dekhile droNe
+
+<P1>putra hata zuNi zasra chaDile bay1ANe |(ja)
+
+<P1>94|2 gun~jara--kun~jara, hastI |
+
+[MBO-10(1)-60]
+
+<P>dhruSTadyumanaMkara se pitAra bairi
+
+<P>dhAtikAre droNaMku se pakAile mAri | 102 |
+
+<P>droNaMkara paDante driyodhaan baikulya
+
+<P>mukuTa bAnddhale senApati karNNa muhAmalla | 103 |
+
+<P>zrIgobinde boile tAta makaramAsa zukaLa pakSa paurNNamI budhabAra
+
+<P>maghAgate pUrba phAlagunI nakSatra aTai se dinara | 104 |
+
+<P>baba nAme karaNa atigaNDa nAme yoga
+
+<P>makara saMtrAntiki ye aThara dina bhoga | 105 |
+
+<P>yuddha hoilA zeSa pan~chadaza dibasa
+
+<P>Ara dibasa senApati hoilA rAdhebara ziSa | 106 |
+
+<P>SoLa dinare se senApati hoilAka karNNa
+
+<P>driyodhanara satANoi bhAi sAMgrAme mAilA bhImasena | 107 |
+
+<P>pan~cha ahibrata rathI daza ahibrata hAthI
+
+<P>bAizi kSauNI tAta paDile pAdAnti | 108 |
+
+<P>pANDabaGka katiru paDilA tinisahasra ratha
+
+<P>pAn~chasasra gaja azwa tini ahibrata | 109 |
+
+<P>Aradina puNi samara kalA bIra karNNa
+
+<P>sedinara samara ye hoilA maharaNa | 110 |
+
+<P>bho tAta kumbhamAsa kruSNapakSa gurubAra dina
+
+<P>hastA nakSatra se dina biSTi nAme karaNa | 111 |
+
+<P>nablakSa kun~jara gheni kalIGgasena thilA
+
+<P>bhIma gadA bulAnte gagane uDigalA | 112 |
+
+<P>sAtakSauNI baLa nabakSauNI mAtaGga
+
+<P>agAda sAgare yAiM se paDileka bega | 113 |
+
+<P>suhastA hAthI caDhiNa bhagadatta rAy1e
+
+<P>lakSe yoddhA tule tAku mAile dhanurjay1e | 114 |
+
+<P>gujjara magadha saurASTra marahaTA(?) kauzika
+
+<P>kubuja kanaUja rAjA paDile aneka | 115 |
+
+[MBO-10(1)-61]
+
+<P>y1emanta samay1e tAta beLa pAn~chaghaDi
+
+<P>bhIma dhuzAsana duhiMkara bheTapaDi | 116 |
+
+<P>dhuzAsana bhmaja upADi brikodara
+
+<P>rudhira bruSTikalA nei dropatIra zira | 117 |
+
+<P>basudeba boile dropatI paramalakSmI
+
+<P>rudhira srAhAna kimpe kalAka raNabhUmi | 118 |
+
+<P>zrIgobinda boile yujheSThi driyodhana pazAkheDe
+
+<P>zakuni kapaTa bhiAilA saMkoDe | 119 |
+
+<P>pazAy1eM yujheSThi hArile rAjyabhAra
+
+<P>sabhAtaLe nei basAilA pANDaba pan~chubIra | 120 |
+
+<P>dropatIki ANa boli boilA mAnagobonda
+
+<P>pabanahuM bege dhAiMlA dhuzAsana manda | 121 |
+
+<P>lucanteNa pAn~chALIra dhailA yAiM bALa
+
+<P>bhUmire caraNa tAra na paDai taLa | 122 |
+
+<P>jAnustana dekhibAku rAjA Ajn~A dilA
+
+<P>sabhAtaLe dropatIMki dhuzA bibasna kala | 123 |
+
+<P>biran~chi nArAy1aNa dekhile nay1ane
+
+<P>satIra jhiMghAsa dekhi bhay1e kale mane | 124 |
+
+<P>pAToLI jhInabAsa ye thilA pan~chAUna koTi
+
+<P>chAy1AkanyA beDhAile ye drpatIra kaTi | 125 |
+
+<P>merutulya hoi basra chAridige chArikuDha paDi
+
+<P>pAmara mUrukhe kehi tA nuArile bAri | 126 |
+
+<P>gobinda boile yahuM jhiMghAsa kale kaurobe
+
+<P>kopAnaLa kari debI chAhiMle apAGge | 127 |
+
+<P>doharA gharu dhatikAre uThilA bahani
+
+<P>aneka abasthA hoile kauroba kAminI | 128 |
+
+<P1>128 deharu tAMkara uThilA bahani
+<>trAse paLAiel sakaLa saini |(jha, Ta)
+
+[MBO-10(1)-62]
+
+<P>keza dhari yeuMdinu ANilA dhuzAsana mahAbaLI
+
+<P>sehidinu keza Au na bAnddhalA jighnasenI bALI | 129 |
+
+<P>rAgeNa dropatI pratagyAM boile Are Are dhusA
+
+<P>kALasarpa chALilu re tora y1eDeka bharasA | 130 |
+
+<P>yebaNa kare dhailu mohora kabatI
+
+<P>se bhmaja upADile rudhire srAhAna muhiM kari | 131 |
+
+<P>tebe sinA bAnddhabi se mohora y1e keza
+
+<P>se rAge keza na bAnddhale cauda baraSa sAtamAsa | 132 |
+
+<P>bho tAta dropatI boli yebaNa jighnasenI
+
+<P>agniru jAta kale koTiy1e ruSi gheni byAsa muni | 133 |
+
+<P>bho tAta pan~chupANDabe tAhAnta gheni lAgi
+
+<P>y1ekai zarIra pAn~chakuhiM diai aGgabhogi | 134 |
+
+<P>pan~chupANDabe karanti bhoga pAn~charAti
+
+<P>prathama dibase zay1ana karanti yujheSThiMka kati | 135 |
+
+<P>rajanI bhAge swAmIki diai aGgabhoga
+
+<P>prabhAte pazai yAiM mAhAanaLa yoga | 136 |
+
+<P>se kAy1AgoTi dahana karai mahAsatI
+
+<P>Ana kAy1A goTiy1e ye karai utapatti | 137 |
+
+<P>se kAy1A goTika puNi bhImasene niyogI
+
+<P>dibasa yAiM rAtre bhImasenaku karai aGgabhogI | 138 |
+
+<P>puNa prabhAtakALe pazai bahani
+
+<P>se kAy1A dahane nabatana kay1A gheni | 139 |
+
+<P>dinaku dinahiM puNa nabatana kAy1e
+
+<P>zarIra samarpai se pANDaba dhanurjay1e | 140 |
+
+<P>se dibaseka rAtrare arjuna hoy1e lAgi
+
+<P>puNi prabhAte agnire pazi zarIra parityAgi | 141 |
+
+<P1>131|2 sehi dinaruM debIra kega ye hoithilA mukuLi |(Ga, Ta, gha)
+
+<P1>138|2 dibArAtre bhImasenaku karAilA lAgi |(jha, Ta, Ga)
+
+[MBO-10(1)-63]
+
+<P>puNihiM nabatana zarIra parakAzi
+
+<P>nakuLe aGgabhoga diai zubhrakezI | 142 |
+
+<P>rajanI prabhAte puNi pazai bahani
+
+<P>se kAy1A dahana kari nabatana kAy1A gheni | 143 |
+
+<P>puNi aGgabhoga diai se sahadebara tule
+
+<P>puNi agnire pazai se prabhAtakALa hele | 144 |
+
+<P>gobinde boile Ahe zuNa deba tAta
+
+<P>brahmA biSNu mahezwara indra maruta pANDaba pan~cha bhrAta | 145 |
+
+<P>samasta mahAsatI karanti jaLare srAhAna
+
+<P>agni srAhAna dropatI karaiM pratidina | 146 |
+
+<P>y1ekai ramaNI Areka utiSTa hoy1e boli
+
+<P>teNu kari piNDaku se dahanti pAn~chALI | 147 |
+
+<P>gobinde boile dropatIMkar ay1esaneka mahimA
+
+<P>tAhAra kopaku bhay1a karnti deba brahmA | 148 |
+
+<P>tAra keza dharibAku sAmartha hoilA dhusA
+
+<P>mUDha kaurobaMkara y1eDeka bharasA | 149 |
+
+<P>teNu bhmaja tAra upADilA bhImasena
+
+<P>paMkajalocanI kalA rudhire srAhAna | 150 |
+
+<P>y1ehA zuNi Azrija hoile kruSNaMkara pitAmAy1e
+
+<P>mUrkhapaNe nAzagale dhrutiraSTra zatapoy1e | 151 |
+
+<P>dhuzAsana paDante hoilA raNagoLa
+
+<P>sedina ziraccheda hoilA rAdhebara bALa | 152 |
+
+<P1>149 tAhAra keza dharibAku sAmaratha hele dhusA
+<>bujhilaki kauroba baLaMkara y1eteka bharasA |(ka, gha, kha)
+
+<P1>150 teNu se bhmajaku upADilA pAbenI
+<>rudhire srAhAna kalA toSahelA jighnasenI |(ja)
+
+<P1>152 dhuzAsana paDante samara kalA bIra karNNa
+<>tAhAra zira ye chedilA bIra arajuna |(ja)
+
+[MBO-10(1)-64]
+
+<P>karNNa tule paDile tinikoTi rathI
+
+<P>pAn~chakoTi azwa ye chArikoTi hAthI | 153 |
+
+<P>pAn~chakoTi pAdAnti paDile karNNa tule
+
+<P>Aradina senApati hoile rAy1e zalye | 154 |
+
+<P>yujheSThiMka samare ye zalye nAzagale
+
+<P>tinizata rAjA pAn~chazata hAthI ye paDile | 155 |
+
+<P>beni lakSa azwa chArikSauNI ye baLa
+
+<P>y1ete sainya gheniNa ye paDileka zalya | 156 |
+
+<P>kumbha kruSNa dwitIy1A dinara bAratA
+
+<P>senApati hoile ye krupa maharathA | 157 |
+
+<P>apAra samara helA sehi ye dinara
+
+<P>y1ekoiza kSauNI baLa paDile pANDabaMkara | 158 |
+
+<P>aneka kaSThore se ye samara karante
+
+<P>krupakaiM samare jiNi ta nuArile bIra pAthe | 159 |
+
+<P>nIlabANa bhmajabANa boliNa zara beni
+
+<P>kopeNa pezile tAhAnta bIra phAlaguni | 160 |
+
+<P>brahmazara aTanti se apAlaTaka beni
+
+<P>krupaMkara zira chedile se tatakSaNi | 161 |
+
+<P>arjuna AgyAMre se kale benikhaNDa
+
+<P>brahmahatyA nimante mana kaleka bikhaNDa | 162 |
+
+<P>mahamantra paDhi dile se mrutyu san~jIbanI
+
+<P>krupaMku jIAMile nILabANa bhmajabANa beni | 163 |
+
+<P>paLAile krupe ye na rahile samare
+
+<P>paLAi pazile yAi nirjhara kandare | 164 |
+
+<P>sedina samar atAta hoilA zeSa gadA
+
+<P>paDile ohobaLa hoileka padA | 165 |
+
+<P1>164 kumbha kruSNapakSa dutIy1Ara dina
+<>se dina krupa AchAryye pazile Asi raNa |(ka)
+
+<P1>165|2 paDile sarbabaLa hoileka padA |(Ta, Tha)
+
+[MBO-10(1)-65]
+
+<P>kaurobaMkara thile ye nabalakSa rathI
+
+<P>tinikoTi turaGga benikoTi hAthI | 166 |
+
+<P>batiza kSauNI pAdAnti sahasreka pAridaNDa
+
+<P>zeSa gadA samare loTilA rAjAmAnaMkara piNDa | 167 |
+
+<P>sAta kSauNI baLa pANDabaMkara thilA
+
+<P>pAn~cha kSauNI nAzagalA beni kSauNI rahilA | 168 |
+
+<P>sedina samara karante hoilA arddharAtri
+
+<P>raNaajy1a kari bAhuDile pANDaba pAn~chamUrati | 169 |
+
+<P>rudhira nadI bhitare driyodhana thilA buDi
+
+<P>niSta hoiNa puNi paLAilA chaDi | 170 |
+
+<P>paLAi yAiM byAsa sarobare pazila zaraNa
+
+<P>se mahataliGga tAku kalAka rakSaNa | 171|
+
+<P>raNajay1a kari pANDabe gale indraprazaste
+
+<P>arghya gheniNa bAhAra hoile debI konte | 172 |
+
+<P>samare mAilA ke re mAnagobindaku
+
+<P>jyeSTha hou kaniSTha hou arghya debi tAku | 173 |
+
+<P>driyodhanaku mAribAra na jANanti kehi
+
+<P>tAhA zuni sarbe puNi bitrami dhAiMle raNabhuiM | 174 |
+
+<P>maDA neuTAi se cihnile sabunti
+
+<P>loDi na pAile kehi mAnacatrabratI | 175 |
+
+<P>sahadebe boile byAsa sarobare acchi pazi
+
+<P>bhImasena mAguM siMghanAda dile kAzI | 176 |
+
+<P>bhImasena siMghanAda diai gaLagAji
+
+<P>re rekAra zabade mAnagobinda lakSmIMki begi teji| 177 |
+
+<P>aneka yuddha hoilA sarobara tIre
+
+<P>driyodhana jAnubhaGga kalAka brikodare | 178 |
+
+<P>mAnagobinda rAjA yahuM hoilA jAnubhagna
+
+<P>pAdare mukuTa marddilA bIra bhImasena | 179 |
+
+[MBO-10(1)-66]
+
+<P>pANDabe caLile hAde raNajay1a kari
+
+<P>prabeza hoile yAiM jay1intA name nagarI | 180 |
+
+<P>muhiM boili zuNimA yujheSThi debaswAmI
+
+<P>pan~churAtra rahi na yogAi raNajay1e bhUmi | 181 |
+
+<P>pANDeba pan~chubhAi dropatI kointA subhadrA uttarAku
+
+<P>nandighose basAi ANili dwArakAku | 182 |
+
+<P>bALuta boli pAn~chALI kumAranta zuAi
+
+<P>dhruSTadyumanaku purare se puanta ailuM jagAi | 183 |
+
+<P>tinisahasra rathI nabasahasra hAthI
+
+<P>batizasahasra azwa dui kSauNI pAdAnti | 184 |
+
+<P>y1eteke rakhAi pAn~chALa kumaraMku
+
+<P>se rAtre senApati kalA mAnagobinda azastamAku | 185 |
+
+<P>se azastamA ailA mahA nizAkALe
+
+<P>dui kSauNI saina se mAilAka heLe | 186 |
+
+<P>gaja azwa yoddhA ye sakaLa pAridaNDa
+
+<P>krupANa dhari chedilA se sabuMkari muNDa | 187 |
+
+<P>dhruSTadyumane dekhi tAhAra pitAra bairi
+
+<P>bhitara dwAre paziNa tAhAkuhiM mAri | 188 |
+
+<P>pAn~chALI kumare zoithile palaMkara
+
+<P>pANDabe boli chedilA tAhAMkari zira | 189 |
+
+<P>pAn~chaMkari muNDa gheni galA bhArakari nizArAti
+
+<P>driyodhana chamure yAiM miLilA pAhAnti | 190 |
+
+<P>dekhiNa aneka haraSa hoilA kurunAhA
+
+<P>sAdhu sAdhu azastamA tohora benibAhA | 191 |
+
+<P>aneka prazaMsA karu pAhilA rajanI
+
+<P>pAn~chALI kumAra boli rAjA driyodhana cihni | 192 |
+
+<P1>187|2 biNApatre chedilA se sabuMkari muNDa |(gha, ja)
+
+[MBO-10(1)-67]
+
+<P>haraSa chaDi rAjA biraSa hoilA
+
+<P>aneka dhikAra kari azastamAMku boilA | 193 |
+
+<P>pAn~chALI kumAranta chAhiM hrdare lagAilA
+
+<P>pAn~chamuNDa dhari koLe prANa bisarjilA | 194 |
+
+<P>zuNa deba pitAmaha pachArila yAhA
+
+<P>sAbadhAna hoi tallekara muM kahilaiM tAha | 195 |
+
+<P>karkaza madhupiGgaLa mAnacatrabratI
+
+<P>aSTadine pradAna se hoy1e bhAnumatI | 196 |
+
+<P>anubrate barabeza hoithAi kurubIra
+
+<P>debAsura brahmAMku nuhai namaskAra | 197 |
+
+<P>kurupANDabaMkara tAta y1eDeka mahimAM y1eDebaDa baMza
+
+<P>y1ekA driyodhana jaNake ohokuLa galA nAza | 198 |
+
+<P>uttare y1ekaUNA chALiza sahasr anruapati
+
+<P>pacchime duiUNA pAn~chasahasra nrupati | 199 |
+
+<P>y1ekaUNA sAtasahasra rAjA dakSiNe
+
+<P>y1ekaUNA tinizahasra rAjA pUrbadiga IzAnya koNe | 200 |
+
+<P>brahma kSatriy1a baizya zUdra daita pichaNa rAkSasa
+
+<P>kandha mahlAra chaNDALa Adi yete baMza | 201 |
+
+<P>y1e bidhire aSTAdaza baMze nimantraNa pAi aile chAriUNA lakSe rAjA
+
+<P>ye yAhAra anarUpe AsiNa kale pAdapUjA | 202 |
+
+<P>chAridigare satANoisahasra nrupati
+
+<P>y1eteka rAjA hoile mAnagobindara kati | 203 |
+
+<P1>197|2 mAtA pitA debatA brAhmaNanta se na kare namaskara |(ja)
+
+<P1>198|1 bho tAta kurupANDuba ye jagata tAraNa baMza |(ja)
+
+<P1>195|1 pitamaha--pitA, maha zabda pUjA arthare pUjyapitA |
+
+[MBO-10(1)-68]
+
+<P>chAri digaru chariUNA tini sahasra rAjA
+
+<P>sarbe y1eteka kale pANDebaMku pUjA | 204 |
+
+<P>bho tAta pAn~chapadma rathI bAstoripadma hAthI
+
+<P>bizAzate sAgara azwa azisahasra mukuTabandha yoddhA mAangobindara kati | 205 |
+
+<P>bho tAta pANDabaMkara tini marbhmata rahI batiza marbhmata hAthI
+
+<P>pan~chabrunda azwa bAstari kSeuNI pAdAnti | 206 |
+
+<P>pANDabaMka thAThe thile y1eteka ye baLa
+
+<P>dui bAstori kSauNI baLa thile mAnabobinda mahIpALa | 207 |
+
+<P>pUrbe pANDabe ye pacchime kaurobe
+
+<P>prathame senApati ye hoile gAGgabe | 208 |
+
+<P>dazadina samare zarazeyyA kaleka gAGgabe
+
+<P>droNa ziraccheda hele pAn~chadina madhye | 209 |
+
+<P>karNNa krupa zalya hoile tinidina
+
+<P>aSTAdaza dibasena hata hoile sarba saina | 210 |
+
+<P>y1eteka saina tAta ohobaLara male
+
+<P>Aja dina sariki tAta terajaNa ye rahile | 211 |
+
+<P>basudeba boile bAbu zuNa nArAy1aNa
+
+<P>y1eDebaDa samare rahile ke ke terajaNa | 212 |
+
+<P>gobinde boile tAta zuNimA sAbadhAna
+
+<P>prathame barttile ye pANDaba pAn~chajaNa | 213 |
+
+<P1>205 bho tAta pANDabaMkara tini marbhmata rathI batiza marbhmata hAthI
+<>pan~chAza marbhmata azwayoddha tini kSauNI padAnti |(jha, Ta)
+
+<P1>209 dazadina ante bhISme kale zarazayyA
+<>pAn~chadine droNaMkara ziracchedana kale dropada tanujA |(ja)
+
+<P1>210 karNNa zalya damara kale tini ye dibasa
+<>aThara dinare bho tAta samaste gale nAza |(ja)
+
+[MBO-10(1)-69]
+
+<P>azastamA krupa AchAryya bidura dhrutirASTi
+
+<P>san~jay1e muhiM sAtuti drudakSa driyodhanara kaniSTha | 214 |
+
+<P>yujheSThi tahiM drudakSa pazila zaraNa
+
+<P>bidura bratilA ye na pazila raNa | 215 |
+
+<P>mote lekha tAta terajaNara madhye
+
+<P>AumAne sabu ye paDile ghorayuddhe | 216 |
+
+<P>zuNi ugrasena bahuta kalA stuti
+
+<P>tu deba praLay1Ante sabunti kalu utapatti | 217 |
+
+<P>sthAbara jaGgama kITa pataGga chArikhAni
+
+<P>caurAzIlakSa jIba ye y1e tohora san~chaNi | 218 |
+
+<P>parbatamAnanta ye AthalakSa gaNi
+
+<P>chapanakoTi jIbgajantu y1etekeNa gaNi | 219 |
+
+<P>swAmI debaloke nabalakSa tAraka | 220 |
+
+<P>bizAzatelakSa ye jaGgama bakhANi
+
+<P>y1ekoizalakSa swedaja ye puNi | 221 |
+
+<P>pAtALare nabalakSa achanti nAgaloka
+
+<P>catulakSa jIba ye achanti yamaloka | 222 |
+
+<P>y1ekoizalakSa ye aNDaja gaNibaiM
+
+<P>y1e bidhire benilakSa jIba ye phuTai | 223 |
+
+<P>kSIrapAne aSTalakSa jIba ye khaTai
+
+<P>tiraNa cari ban~chai pAn~chalakSa jIbai | 224 |
+
+<P>y1ekalakSa jIba jArajakhAni aTai
+
+<P>AThalakSa jIba ye jaLare bratai | 225 |
+
+<P>nabalakSa brukSara ye nAhiM gandha bAsaiM
+
+<P>chArilakSa brukSara ye gandha Amodai | 226 |
+
+<P1>218 swAmI y1epari chArikhAnire caurAazi jIba
+<>samastaMka gatidAtA aTa tu mAdhaba |(kha, tha)
+
+[MBO-10(1)-70]
+
+<P>mULe thokAy1e phaLanti AThalakSa brukSa
+
+<P>dALe phaLa phaLanti ye y1ekoiza lakSa | 227 |
+
+<P>swAmI chArikhAni y1e y1ekoiza jIbajantu
+
+<P>swedaja aNDaja ubhija jAraja jAtakalu tattu | 228 |
+
+<P>swAmI pruthI Apa teja ye bAy1iba AkAza
+
+<P>y1e pan~chabhmata ye tora zarIruM parakAza | 229 |
+
+<P>sthAbara jaGgama kITa pataGga Adi kari
+
+<P>tuhi sinA sarjanA nAtha kalu debahari | 230 |
+
+<P>swarga marttya pAtALa sutaLa rasAtaLa
+
+<P>ataLa bitaLa taLAtaLa mahAtaLa | 231 |
+
+<P>kSIra baikuNTha nILa baikuNTha ananta baikuNTha
+
+<P>bhrugu bailuNTha satya baikuNTha zUnya ye baikuNTha | 232 |
+
+<P>jaLadhara baikuNTha zuddha baikuNTha mAdhuryya baikuNTha
+
+<P>sAdhu baikuNTha bhmaja baikuNTha sumadhya baikuNTha | 233 |
+
+<P>dhruba baikuNTha meru baikuNTha urddhwa baikuNTha
+
+<P>adha baikuNTha indra baikuNTha baLay1A baikuNTha | 234 |
+
+<P>mAdhaba baikuNTha zamana baikuNTha ghora baikuNTha
+
+<P>sarju baikuNTha zoSeka baikuNTha ye jaiminI baikuNTha | 235 |
+
+<P>kamaLA baikuNTha Abara gopALa baikuNTha
+
+<P>y1e bidhire hoilA ye satAiza baikuNTha | 236 |
+
+<P>satAiza baikuNTha to dehuM utapatti
+
+<P>to lomamULare kete brahmANDara sthiti | 237 |
+
+<P>matsya kacchapa koLa nrusiMgha bAmana prazurAma
+
+<P>zrIrAma baLarAma baudha kaLi ante kaLakI paraMbrahma | 238 |
+
+<P1>229|2 y1e pan~chadhAtu ye deba tohora uddezya |(gha, ca, ja, tha)
+
+<P1>237 beLe beLe abatAra romAn~chai ye mUrati
+<>satAiza baikuNTha to tahuM utapatti |(gha, Ta, tha, ka, ja)
+
+<P1>228|2 jAraja--jarAy1uja |
+
+[MBO-10(1)-71]
+
+<P>kAkarudra rUpe dahana saMsAra
+
+<P>jAta anta madhye aTu kALakAma sAra | 239 |
+
+<P>puruSaMka uttama yebaNa swAmI nAma
+
+<P>ke tote san~chapi karita aTai kSama | 240 |
+
+<P>tuLusAra ballabha talay1e mama hrude
+
+<P>badanti zUdramuni sAroLa dAsa parama Ananda | 241--786 |
+
+<H>{@pANDaba badhArtha azwatthamAra kAin~zikA zara pray1oga@}
+
+<P>baibasuta manu pucchA kale agastiMki
+
+<P>kruSNa bhaNDi aile krupa azastamA duhiMki | 1 |
+
+<P>y1ehAnt aloDile Tiki rajanI prabhAte
+
+<P>y1ehA san~chapiNa kahibA muni mote | 2 |
+
+<P>basana kuNDaLa ratnamALa pAdya arghya Asane
+
+<P>gandha puSya tAmboLa catusama lepane | 3 |
+
+<P>sASTAGge praNapatya caraNa taLe sahasre daNDa
+
+<P>kahibA muni mote aISika paboGgkhaNDa | 4 |
+
+<P>zuNa baibasuta manu badanti brahmabettA
+
+<P>koTiy1e koTiy1e kalpa yebaNa muni gyAMtA | 5 |
+
+<P>bALutakALe muni kheLai kutUhoLe
+
+<P>y1ekA caLuke kSIrodra gaNDUSa kale baLe | 6 |
+
+<P>se mahApraLay1a kALe biSNura garbhare pazai
+
+<P>jAta anta madhye se samasta bhUta bhabiSya gyAMtA abyakatai | 7 |
+
+<P>se munira mahimA na sarai kahante
+
+<P>namai mAhezwaI saday1a kara mote | 8 |
+
+<P1>4|2 aISaka--aiSika, ISikA truNa nirmita bANabizeSa |
+
+[MBO-10(1)-72]
+
+<P>pratakSe hiGuLA jaGkherapurabAsI
+
+<P>kaLikALa dhaMsinI mAgo bhagata jana toSi | 9 |
+
+<P>na paRhi paNDita muM siddha sAroLA prasanne
+
+<P>janmaru mUrukha muM khaNDili taba darazane | 10 |
+
+<P>teNu kari lekhante mote hoilAka druza
+
+<P>tAhAMka prasAde muM kahai dibyarasa | 11 |
+
+<P>se munira AgyAMy1e muM talay1e kari gheni
+
+<P>tuLusAballabha caraNe Aza sAroLa dAsa zUdramuni | 12 |
+
+<P>baibasuta manu hoiachanti zrotA
+
+<P>mahApaNDi brahmabettA agasti sway1eM bakatA | 13 |
+
+<P>y1e zrI mahAbhAratha kara rAjA hetu
+
+<P>bandhana phiTai mrutu phiTai zuNile purANa tattu | 14 |
+
+<P>yebaNa zAhAsra zuNante roga na pIDai
+
+<P>jarA mrutu khaNDai Abara putrazoka na lAgai | 15 |
+
+<P>dharma artha kAma mokSa miLe caubarga
+
+<P>yamadaNDa ban~chAi se basai akSay1a swarga | 16 |
+
+<P>Ay1uSa dhana sampada mokSa kAraNa ye acchi
+
+<P>biSNuloke basiba hrudagate yAhA bAn~ccha(?) | 17 |
+
+<P>Aho caitanya krupa azastamA bhay1eNa ananta
+
+<P>dwArakA puruM bAhAra kari nuAranti pANDabanta | 18 |
+
+<P>teNu se kapaTa kale ye deba daitAri
+
+<P>tAhAMkara dhanu zahasra ANile chori kari | 19 |
+
+<P>rajanI prabhAte krupAchAryya azastamA
+
+<P>parbate uThi Dakadyanti keNe gala ho mahAtamA | 20 |
+
+<P>rajanI prabhatare loDante caukati
+
+<P>na puNa bipraku byAghra bhAluMka nAza karithAnti | 21 |
+
+<P1>10|2 janme janme mUrkha muhiM mote dile lekhana |(jha, Ta)
+
+[MBO-10(1)-73]
+
+<P>preta bhUta daita ye dAnaba rAkSasa
+
+<P>na puNa brAhmaNa goTiki pAi hAde kale | 22 |
+
+<P>apAra gahane yahuM na pAile loDi
+
+<P>kapALalocana tIrthe Asile bAhuDi | 23 |
+
+<P>oDapAra tuThe loDanti upanesi
+
+<P>apAra pAda san~chA acchi ke abA thilA y1ethe pazi | 24 |
+
+<P>puNa dekhile bAhuDa pAda acchi paDi
+
+<P>bighaMsita padmacihna acchi tahiM jaDi | 25 |
+
+<P>kebaNa rAjA y1ethi bhitare thilA pazi
+
+<P>Ambha zahasramAnanta ke ghenagalA Asi | 26 |
+
+<P>dhyAna kari tAhA jANile krpa ye AchAryya
+
+<P>kapaTe dhanuzasra harile debarAja | 27 |
+
+<P>samAdi jANile azastamA baDa doSI
+
+<P>agyAna bALapuanta anamite nAzi | 28 |
+
+<P>krupAcharyye boile zuNa ho azastamA
+
+<P>pAn~chALI kumara nAzakalu ho mahatamA | 29 |
+
+<P>teNu kari zrIkruSNaMku lAgilA baDa bhay1e
+
+<P>jagabandana nAtha ran~chile upAy1e | 30 |
+
+<P>Ambhara tule thile se bipra rUpa dhari
+
+<P>kapALezwara tIrtharu nele zahasra chori kari | 31 |
+
+<P>dhyAne jANiNa yahuM kahile krupabrahmA
+
+<P>rAgeNa adhara kAmoDila azastamA | 32 |
+
+<P>y1eheneka krutya yebe kalAka debarAja
+
+<P>kebaNa mate pANDabanta se rakSA karibai Aja | 33 |
+
+<P>mAribi pAntabanta zrIkruSNa sahite
+
+<P>dwArikA pura Aja karibi bhaganaste | 34 |
+
+[MBO-10(1)-74]
+
+<P>krupa AchAryye boile zuNa azastamA
+
+<P>zrIkruSNara tule tora kisa y1eDeka gArima | 35 |
+
+<P>azastamA boile zuNa mAmuM krupa
+
+<P>zrIkruSNe Azre kari pANDabaMkara y1eDe darpa | 36 |
+
+<P>aneka pratagyAM ye karai mahAchatrI
+
+<P>krupe boile kisa gheni kruSNara tule y1eDeka aprIti | 37 |
+
+<P>hAthe nAhiM tora sahasr aAy1udha
+
+<P>kisa gheni kruSNa pANDaba tule karibu tu yuddha | 38 |
+
+<P>krupaMkara bacane bhAradwAdazaMka nAti
+
+<P>kAiMza brukSa goTie opADile tatakSaNAnti | 39 |
+
+<P>pabana Agata prAy1e kampai tAra kay1e
+
+<P>AtroSi upADanti kAiMza goTAy1e | 40 |
+
+<P>nahe ciriNa tAhA beniphALa kari
+
+<P>baDAphALa gotiy1e dhanu kari dhari | 41 |
+
+<P>sAnaphALa karu anta ye cchiNDAi
+
+<P>yatana kari moDi guNa kari caRhAi | 42 |
+
+<P>nArAja kalA tahiM kaiNza agragoTi
+
+<P>se dhanure basAnte teja agniprAy1e ghoTi | 43 |
+
+<P1>43|2 ``se dhanure basAnte teja agniprAy1e ghoTi'' y1ehi pAdAnta
+<>pare ``Ga, tha,'' pothire adhi pATha :--
+
+<P1>brahmamantra teja baLe azastamA dharai
+
+<P1>zahasra tejare kehi rahi nuArai |
+
+<P1>AkAza tejiNa paLAile debagaNa
+
+<P1>tinipure Dakanti kruSNare zaraNa |
+
+<P1>mahA brahmamantre pUroilA mahAbaLI
+
+<P1>pUrAbante teja ghotila aMzumALi |
+
+[MBO-10(1)-75]
+
+<P>mahA brahmamantra paRhiNa mahabaLI
+
+<P>oTArante dhanu teja ghoTilA aMzumALI | 44 |
+
+<P>azastamA boilA ho yibu tu brahmazara
+
+<P>y1ehikSaNi ziracchedana kara pANDaba pAn~chabIra | 45 |
+
+<P>tAhAnta yebe Aborai catradhArI
+
+<P>tAhAku sahite pakAibu mAri | 46 |
+
+<P>puNi boilA yAdaba harira satabaMza
+
+<P>sabunti chedipakA na thAu tAMka leza | 47 |
+
+<P>aneka tiAri se peSile mahAmanta baLe
+
+<P>caLilA nArAja ye gagana maNDaLe | 48 |
+
+<P>y1ekA nimiSake dwArikA pura bheTi
+
+<P>gamai antarIkSe AkAza maNDaLe ghoTi | 49 |
+
+<P>Aho caitana yesane ulukApAta dizai AkAzuM
+
+<P>nabadwIpa sapatasAgara khalabaLa houacchi kAiMzikA zara AsuM | 50 |
+
+<P>zUnyabhedi yehne Asai puNa puNa
+
+<P>tinibhmabana ghoTi Asuacchi azastamAra bANa | 51 |
+
+<P>pabana phAndilA Aditya teja jyoti
+
+<P>dwArikA lokamAne khaLabaLa ta houchanti | 52 |
+
+<P>bho kruSNa rakha boli adabhmate zUnye zubhai bANI
+
+<P>AuTi houacchi sapatasindhu pANi | 53 |
+
+<P1>44|1 ``mahA brahmamantra paRhiNa mahAbaLI'' pare Ta, ja re adhikA pATha :--
+
+<P1>mahAmantra paRhiNa dhanu pUroi mahAbaLI
+
+<P1>nArAje adruzya hele aMzumALI |
+
+<P1>mantra:-- on~brahmA boile ajaTa mantra phuMki
+
+<P1>bAsudeba kaTAri pruthI nAzakara |
+
+<P1>brahmA biSNu rudra tetiza koTi deba mAra
+
+<P1>y1e zaraku nAhiM pratikaccha zara |
+
+[MBO-10(1)-76]
+
+<P>zrIkruSNa pachArile Aho zuNa sahadeba
+
+<P>yuga antakALa prAy1e dizai asambhana | 54 |
+
+<P>sahadeba boile zuNimA madhuripu
+
+<P>tu deba saMsAra say1aLa Adhipu | 55 |
+
+<P>krupa azastamAra yahuM harilu dhanutroNa
+
+<P>teNu kope azastamA peSilA kAiMzikA brahmabANa | 56 |
+
+<P>azastamAra mantre se brahmazara aTai
+
+<P>paDile abazya deba merugiri tuTai | 57 |
+
+<P>yadyapi to dwArikAre paDiba y1ehikSaNi
+
+<P>chapanakoTi yAdaba satabaMze nimniSake yiba hANi | 58 |
+
+<P>zuNiNa kopAnaLa deba ye zrIbaccha
+
+<P>y1ehAku kisa zara peSibA samakaccha | 59 |
+
+<P>zrIkare kodaNDa ye dhariNa debahari
+
+<P>azastamAra zaraku zrIkruSNa pratikaccha zara mAri | 60 |
+
+<P>parbatA zahasreka peSile banamALI
+
+<P>kAiMzikA zara teje zrIkruSNaMkara zara galA jaLi | 61 |
+
+<P>lakSeka parbata yahuM hoilAka bhasma
+
+<P>dekhiNa bismay1e ye hoile zrIpuruSottama | 62 |
+
+<P>lakSeka yojane ye kAiMzikA zasra thilA
+
+<P>azisasra yojanare AsiNa hoilA | 63 |
+
+<P>kopeNa kezaba nirghAta bANa peSi
+
+<P>kAiMzika zaraghAte hoilA bhasmarAzi | 64 |
+
+<P>puNa peSile swamI sahasradhArA zakati
+
+<P>kAiMzikA zare paDi hoilA bhasmagati | 65 |
+
+<P>azisahasra yojane kAiMzikA zara thilA
+
+<P>SAThiy1esahasra yojane AsiNa miLilA | 66 |
+
+<P>puNa peSile deba amogha zakati
+
+<P>kAiMzikA zara upare paDi dahija helA tatakSaNAnti | 67 |
+
+[MBO-10(1)-77]
+
+<P>puNa nArAy1aNa ye binddhale tIkSamunA
+
+<P>kAiMzikA zare paDi hoilAka cUnA | 68 |
+
+<P>SAThiy1esahasra yojane kAiMzikA zara thilA
+
+<P>puNi chALizasrahasra yojane bikAzila | 69 |
+
+<P>chAlIzisahasra yojane kAiMzikA rahilA
+
+<P>maha trodhabhare tAra teja ye achargaLA | 70 |
+
+<P>kope kezaba binddhale tejAnaLa bANa
+
+<P>kAiMzikA zarare paDi libhilA takSaNa | 71 |
+
+<P>chALizasahasra yojane kAiMzikA zara thilA
+
+<P>koDiy1esahasra yojane AsiNa hoilA | 72 |
+
+<P>bajrAbaLI gadA ye chela catrakAnti
+
+<P>kAiMzikA zaraku ye mAile zrIpati | 73 |
+
+<P>paDiNa gadA catra ye dhULi hoigalA
+
+<P>mahAteja hoiNa ye kAiMzikA zara uThilA | 74 |
+
+<P>koDiy1esahasra yojane kAiMzikA zara thilA
+
+<P>dazasahasra yojane AsiNa hoilA | 75 |
+
+<P>Aho caitana truNakASTha brukSa ye aneka thilA mahIsthaLi
+
+<P>zahasra agni tejare samasta gale jaLi | 76 |
+
+<P>sahadeba boile swAmI na ghun~chai bANa
+
+<P>dwArikA dahana tora hoiba y1ehikSaNa | 77 |
+
+<P>apAlaTaka bANa aTai kAiMzikA
+
+<P>samasta dahana kariba rahi nuAriba dwArikA | 78 |
+
+<P>azastamA boile pan~chupANDaba bAsudeba sahite
+
+<P>dwArikA sAtabaMza chedipakAa kopacitte | 79 |
+
+<P>Ambhanta rakSA yebe karibu nArAy1aNa
+
+<P>bichAra kara kAhAku debA y1ekajaNa | 80 |
+
+[MBO-10(1)-78]
+
+<P>lakSeka yojane se ye bANa rahithilA
+
+<P>tora zahasra bindhante daza sahasre rahilA | 81 |
+
+<P>say1aLa cintAmaNi tu jANu ye kAiMzikA
+
+<P>rahicchi AkAzeNa bichAra ye y1ekA | 82 |
+
+<P>tu deba jagujIbana catrakUTa buddhi
+
+<P>tohora bole se jaNeke hoai prabodhi | 83 |
+
+<P>pANDeba bhitaru se jaNeka prabhma dei
+
+<P>se brahmazaraku ye kahibA binoy1I | 84 |
+
+<P>gobonde boile ho tumbhe pAn~cheheM mohora AtmA
+
+<P>kAhAku bichAri ho debAka mahatamA | 85 |
+
+<P>sahadeba boile hari tohora ye bichAra
+
+<P>y1ehikSaNi biLamba na karibA dAmodara | 86 |
+
+<P>jaNe dile yebe sakaLa hoiba rakSA
+
+<P>y1ehAuM hari Au kisa karu pucchA | 87 |
+
+<P>azastamA peSilATi ye lokanAma dhari
+
+<P>brahmA rudra indra candra dibAkara rakhita nuAri | 88 |
+
+<P>gobinda boile ye kAhAku y1ethe debi
+
+<P>kAiMzikA zaraku dekhi nArAy1aNa zara peSibi | 89 |
+
+<P>y1eteka boliNa deba janArddana
+
+<P>nArAy1aNa zahasra deba peSile tatakSana | 90 |
+
+<P>kAiMzikA zara tule nArAy1aNa zara bheTi
+
+<P>benizara uccastare brahmANDa yAka ghoti | 91 |
+
+<P>bihantA puruSa se kahe caturAnana
+
+<P>mrutumaNDaLa tora y1ehikSaNi hoiba dahana | 92 |
+
+<P>azastamA peSicchi kAiMzikA nArAja
+
+<P>nArAy1aNa zahasra peSile debarAja | 93 |
+
+<P>dui zahasra bheTi hoile paDitALa
+
+<P>y1ehikSaNi dahana hoiba mrutumaNDaLa | 94 |
+
+[MBO-10(1)-79]
+
+<P>kAiMzikA zara peSile droNamkara tanu
+
+<P>samasta bhmabana ghoTilA se zara AdhAnuM | 95 |
+
+<P>mantreNa hoilA se deba brahmazara
+
+<P>nArAy1aNa zahasruM adhika teja tAhAra | 96 |
+
+<P>kAiMzikA zara pratakSe aTai bedabrahmA
+
+<P>nArAy1aNa zara pratakSe aTai ye biSNu mahatamA | 97 |
+
+<P>Aho mahAtamA brahmazara biSNuzara duheM hoile y1ekamukha
+
+<P>zAnti na bhajanti se duheM aTanti mahatIkSa | 98 |
+
+<P>bihantA puruSaMkara bacane aile bedapati
+
+<P>marALa bAhAne deba bijekale tatakSaNAnti | 99 |
+
+<P>bAme gurubadana DAhAne deba dhAtA
+
+<P>Age brahma badana pache biran~chi debatA | 100 |
+
+<P>brahmAMka badane thAi rusi bedagati
+
+<P>DAhANe dhAtA badane yajurbeda uccAranti | 101 |
+
+<P>bAme gurubadane dhanuboGgeda san~chi
+
+<P>zizumAnA beda bhASi maneNa biran~chi | 102 |
+
+<P>y1e bidhire caturbadane bedapati
+
+<P>kAiMzikA zaraku tusti karai apramiti | 103 |
+
+<P>tumbhe ye brahmazara adabhmate Ay1e
+
+<P>aNAkAra brahma tumbhe abyay1e akSay1e | 104 |
+
+<P>anAdi putra se ye bharadwAjaMkara nAti
+
+<P>rAge kAiMzikA zara peSi hoiA ugramUrtti | 105 |
+
+<P>anirbAraNa zara tAra nibAraNa nAhiM
+
+<P>tAra pratikakSA zara na jANanti kehiM | 106 |
+
+<P>zrIkruSNa peSile tote ye aniryyApa bANa
+
+<P>tAMkara zahasra ghAte nohilu nibAraNa | 107 |
+
+<P>kAiMzikA zara teja aTai adyApi
+
+<P>brahmAy1e tAhAnta ajapAy1e japi | 108 |
+
+[MBO-10(1)-80]
+
+<P>pan~chAUna sahasra japile ajapA kALe
+
+<P>zuNi zAnti hoile dhAtAra mantrabaLe | 109 |
+
+<P>bAchA piTAiNa se kahai kAiMzikA
+
+<P>kimbhute bedabara mote kimpAi jagu y1ekA | 110 |
+
+<P>dhAtA boile tu chaDi trodhamati
+
+<P>teja gopyAna kara bhajimela zAnti | 111 |
+
+<P>bolai kAiMzikA mohora kisa doSa acchi
+
+<P>droNaMkara nandna aazastamA mote ye peSicchi | 112  |
+
+<P>pan~chupANDaba bAsudeba sAtabaMza sahite
+
+<P>dwArikA nAzakara boli boilA azastamA mote | 113 |
+
+<P>brahmA boile se peSilA atirAge
+
+<P>semAne nAza na yAnti kehuNasi yoge | 114 |
+
+<P>pAntaba pan~chabhAi zrIkruSNa Adi kari
+
+<P>bhArAbhara nibAribA nimante achanti mAnabe abatari | 115 |
+
+<P>dwArikAra loka aTanti adoSI
+
+<P>tu ho brahmazara kemante tAhAnta yibu nAzi | 116 |
+
+<P>bahuta binoy1I ye boile padmayoni
+
+<P>yAa yAa bAhuDi tu mohora bola gheni | 117 |
+
+<P>kAiMzikazara bolai pan~chu pANDabanta chaDili yebe y1eNe
+
+<P>pAntaba samAna kari debAka mote jaNe | 118 |
+
+<P>dhAtA boile birATara jhia utturI
+
+<P>abhimanyu bhAriyA ye hoicchi garbhadhArI | 119 |
+
+<P>tAhAra garbheNa acchi yebaNa ye baLA
+
+<P>tAhA chedana kari tu bahana hoi paLA | 120 |
+
+<P>dhAtA stuti kale puNa nArAy1aNa zaraku
+
+<P>tu bege bAhuDi yAa ye baikuNTha bhmabanaku | 121 |
+
+<P>namai nArAy1aNa ye aNAkAra mUrati
+
+<P>sakaLa bhmabanare tora bikAzai jyoti | 122 |
+
+<P1>110|1 bAchA--bAkya |
+
+[MBO-10(1)-81]
+
+<P>namaiM nArAy1aNa parama day1ALu
+
+<P>cauda bhmabana lokanta tuhi se pratipALu | 123 |
+
+<P>namaiM nArAy1aNa cauda bhmabana adhipati
+
+<P>tuhi san~chiacchu nAtha kemante karibu binazyati | 124 |
+
+<P>namaste nArAy1aNa ye zaraNa pan~jara
+
+<P>namaiM nArAy1aNa ye kopa zAntikara | 125 |
+
+<P>bahuta binoy1I kahile nArAy1aNa zaraku
+
+<P>santoSa hoiNa se kahile bidhAtAku | 126 |
+
+<P>bAhuDi yibu Ambhe baikuNTha bhmabanaku
+
+<P>kAiMzikA zaraku tumbhe bAhuDAi nia nija puraku | 127 |
+
+<P>pitAra bacane se pazilA pAtALe
+
+<P>kAiMzikA pazilA ye uttarA zira sthaLe | 128 |
+
+<P>Aho caitana tALura bATe acchi brahmadwAra
+
+<P>se dwAra bhedilA azastamA kAiMzikA zara | 129 |
+
+<P>tALure pazi garbhe pazi phuTi
+
+<P>garbhe dekhila se ye bALuta putra goti | 130 |
+
+<P>se bALakara tALure zara gaLi
+
+<P>aSTAGga bhediNa pAdeNa nikiLi | 131 |
+
+<P>bANa pazilA se zUnya bhmabanare
+
+<P>mUrcchAgata hoi uttarA paDilA asASTamare | 132 |
+
+<P>Aho caitana sAtamAsa sAtadinara aTai santati
+
+<P>azastamAra zara paDi hoilA binazyati | 133 |
+
+<P>dropatI kointA sohodrA thile zoi
+
+<P>dekhile uttarA zarIre prANa nAhiM | 134 |
+
+<P>kointA sohodrA uThile taDati
+
+<P>dekhile uttarA tahiM nAhiMta jIbati | 135 |
+
+<P>sohodrA bolanti uTha kinA mAy1e
+
+<P>samAsyA na pAi se dharanti nATikAy1e | 136 |
+
+[MBO-10(1)-82]
+
+<P>acetana dekhi tAku dhaichanti koLa kari
+
+<P>pabana phAndai dekhiNa bisari | 137 |
+
+<P>mukhe neiNa ye zItaLa jaLa sin~chi
+
+<P>kAna phukiNa AlateNa bin~chi | 138 |
+
+<P>dekhile mrutazaba hoicchi uttarA bALI
+
+<P>adabhmate zabada paDilA bobALi | 139 |
+
+<P>antezwara bhitare uccasware trodhabANI
+
+<P>debakI yazodA bijekale tAhA zuNi | 140 |
+
+<P>gahaLa can~chaLa ati trodha kathA
+
+<P>dwArikA bhmabanare ye phuTilA bAratA | 141 |
+
+<P>sohadrA debIra aneka rodana zuNi
+
+<P>bije kale jambhubatI satyabhAmA rukmiNI | 142 |
+
+<P>amiy1a bacane ye sundara mukhagoTi
+
+<P>sundara badana Arakti bimbAdhara oSThI | 143 |
+
+<P>aneka zAnti kari ye phuMkile debImAne
+
+<P>kin~chite pabana bahai nAsAreNe | 144 |
+
+<P>rukmiNI boile go kalma AI kisa
+
+<P>biSNu baMzaku y1e kathA aTai bhabiSya | 145 |
+
+<P>zrIkruSNara ballabhI yAiM koLa se karante
+
+<P>asASTama uttarA pAilA jIbite | 146 |
+
+<P>asASTama hoi chAhaiM ye nay1aNa chALi
+
+<P>pabana phAndilA se uttarA nAme bALI | 147 |
+
+<P>kumArI sASTame ye bahilA rajadhAra
+
+<P>nijasthAna chaDilA ye garbhara kumAra | 148 |
+
+<P>garbharu paDilA tAra yebaNa bALuta putragoTi
+
+<P>zirara zoNita caraNa dei phuTi | 149 |
+
+<P1>137|2 bisari--bichAri |
+
+[MBO-10(1)-83]
+
+<P>Aho caitana kumbha mAsa kruSNapakSa pan~chamI gurubAra
+
+<P>swAmI nakSatra ye bhoga se dinara | 150 |
+
+<P>tattuly anAme karaNa dhruba nAme yoga
+
+<P>nabame candra pan~chame rAhu bhoga | 151 |
+
+<P>prathama chAridaNDa ye guruMkara beLA
+
+<P>kumbha lagne jAta ye abhimanyu baLA | 152 |
+
+<P>saptame zubhasthAne pApgraha nAhiM sabaMzubha
+
+<P>mrutapiNDa paDilA zarIre nAhiM jIba | 153 |
+
+<P>pabana phAndai ye cakSu na caLai
+
+<P>hasta pAda nizcaLe ye paDiNa achai | 154 |
+
+<P>debakI yazodAre nirekhiNa chAhiM
+
+<P>boile ye putragoTira ta zarIre prANa nAhiM | 155 |
+
+<P>putrara mrutapiNDa dekhiNa uttamA ye bALI
+
+<P>Are Are nandana boli dilAka bobALi | 156 |
+
+<P>bAbu sujANi suThANi pUrNNamI chAndagoTi
+
+<P>kALindI sarobare yehne padma phuTi | 157 |
+
+<P>lILAre khan~jaNI cikure kabarI
+
+<P>tahiMra apAda re paDunA mohora upari | 158 |
+
+<P>bAbu jhaLi ta ratna prAy1e tohora lalATa pATi
+
+<P>tahIMra apAdare paDuy1e mohora druSTi | 159 |
+
+<P>bAbu can~chaLa Akruti locana tora beni
+
+<P>tahiMra apAda muM yAiM kinA gheni | 160 |
+
+<P>mohora kaSTa dekhi na chAhuM nay1ane tuhi kinA
+
+<P>tohora druSTipAte zarIra mohora thiba sinA | 161 |
+
+<P>garuDa upamA bAbu tohora nAsikA
+
+<P>tahiMra parimuNDA yAiM kinA y1ekA | 162 |
+
+<P>bAbu zuddha ghaTaNa jANi tohora karNNahiM
+
+<P>tahiMra apAdare muhiM gheni yAiM | 163 |
+
+[MBO-10(1)-84]
+
+<P>amUlya atulAita tohora beni oSTha
+
+<P>raGga kusuma jANi cahaTai caupAza | 164 |
+
+<P>drahasita ho kahu kinA kathA
+
+<P>tohora Apada re paDu mohora mathA | 165 |
+
+<P>bAbu aneka abasthAre rodana karai baNI
+
+<P>tohora niuMcchuNA yAiM kinA y1ehikSaNi | 166 |
+
+<P>atianta sughaTaNa aTai gaNDasthaLa
+
+<P>tahiMra Apada paDu mohora kapoLa | 167 |
+
+<P>gaja mastaka jANi tohora beni kandha
+
+<P>nILarekha romAbaLI baiDuryya tALu bodha | 168 |
+
+<P>karIkara prAy1e aTai tohora bAhu
+
+<P>padmaphula nay1ana goTi kimpA ye na chAhuM | 169 |
+
+<P>zatadaLa pada prAy1e tohora pApuli
+
+<P>kanaka campA kaRhi jANiNa aGguLi | 170 |
+
+<P>y1eDeka lakSaNa bAbu pAibaiM kAhiM
+
+<P>y1eDe zrIbanta putragoTi jIbante ta nAhiM | 171 |
+
+<P>bAbu benibhmaje dhari re bhiDa mohora hiy1A
+
+<P>hrude lmaLu mora kamaLamALa rehA | 172 |
+
+<P>sughaTANa causara tohora bakSasthaLa
+
+<P>tahiMra apAda re paDu mohora kapALa | 173 |
+
+<P>bAbu puruNI patra prAy1e tohora peTagoTi
+
+<P>muM tahiMra ghenai re apAdagoTi | 174 |
+
+<P>hema jhaLita tohora hruday1a ye goTi
+
+<P>atianta zItaLa re tohora kaTigoTi | 175 |
+
+<P>prabodha kapoLa re tohora beni jAnu
+
+<P>tahiMra apAda re mathAre mora ghenu | 176 |
+
+<P1>167|2 kapoLa--kapALa |
+
+[MBO-10(1)-85]
+
+<P>bAbu bALuta can~chaLa re AdityAn~chaLagoTi
+
+<P>sphaTika poy1eLA jANi tohora aGguSThi | 177 |
+
+<P>bAbu birAja badhuka prAy1e tohora oSThagoTi
+
+<P>y1e tohora dekhili muhiM re baDa kaSTi | 178 |
+
+<P>bAbu caraNa halAi re kimpAiM n akAndu
+
+<P>dukhIra saGghAta re mohora prANabandhu | 179 |
+
+<P>bAbu abhay1e somabaMza boli re Azakali
+
+<P>daibara yogare tote muM pAili | 180 |
+
+<P>kebaNa gurujanara paDilAnA mote zApa
+
+<P>azastamA zara tote peTare nAzilA re bApa | 181 |
+
+<P>aSTamAsa pariyante dhaili tote garbhe
+
+<P>koLare dharite tote nuArili y1ebe | 182 |
+
+<P>Aho caitana uttarAra trodha kahita ki pAri
+
+<P>somabaMza kuLadIpara ye garbhadhArI | 183 |
+
+<P>putrakaiM koLe dhariNa saubhadrA
+
+<P>boile kimarthe putra re bhagnakalma mudrA | 184 |
+
+<P>uttarakaiM koLe ye dhaile rukmiNI
+
+<P>mAgo masa(?)dezara kanyA somabaMza kuLara maNDaNI | 185 |
+
+<P>abhute maraNa mAgo kAhuM ailAka y1etha
+
+<P>kebaNa daiba tote bihilA y1eDe krutya | 186 |
+
+<P>putramukha dekhiNa ye zrIkruSNara bhagnI
+
+<P>janma hoilma putra ture mrutuku saGge gheni | 187 |
+
+<P>somabaMza maNDana re anAstAra baLA
+
+<P>ubhay1a kuLaku bAbu lagAilma kaLA | 188 |
+
+<P>bAbu tohora ThAru baMza buDilA re bALabacchi
+
+<P>keuNa pAtakaru mote chaDilA re lacchI | 189 |
+
+<P>bAbu zate candrabadanara yAiM muM niuMchuNA
+
+<P>ubhay1a kuLara bAbu re aTu tu dulaNA | 190 |
+
+[MBO-10(1)-86]
+
+<P>dazadiza andhAra kalmare mote baLA
+
+<P>agAda samodre mora buDAilma bheLA | 191 |
+
+<P>kebaNa pAtaka muM ye kariacchi pUrbe
+
+<P>azastamA zara kimpe pazilA tora garbhe | 192 |
+
+<P>bAbu somabaMza rakSAphaLai galma kAhiMki
+
+<P>mukhe mUkha lagAi trodhe garu DAki | 193 |
+
+<P>bAbu kebaNa gurujana ye zApa mote dilA
+
+<P>tenu se nandana mora prANatyAja hoilA | 194 |
+
+<P>sohodA rukmiNI satyabhAmA jambobatI
+
+<P>kALindI satyA lakSmaNAdi samaste robanti | 195 |
+
+<P>Are mora dukhIra saGkhALianAthara bandhu
+
+<P>maunabrate zutilma tu kimpAiM na kAndu | 196 |
+
+<P>akALe kipAiM bAbure kalma mrutyuzayyA
+
+<P>manakaSTa dekhi putra re karibunA nidrA tejyA | 197 |
+
+<P>bALuta putra hoi tu y1eDeka nirdday1A
+
+<P>kAhAra mukha na chAhuM re pASANa tora hiy1A | 198 |
+
+<P>mukhe mukha lagAi karNNare dianti ye phaMki
+
+<P>bAbu somabaMza tejyA kari galmare kAhiMki | 199 |
+
+<P>rasANilA patra prAy1e to lalATa pATi
+
+<P>taraLa taraGga prAy1e tohora cakSu benigoTi | 200 |
+
+<P>paMku bimbaphaLa jANi tohora oSTha beni
+
+<P>y1e mora apAda yAiMkinA muhiM gheni | 201 |
+
+<P>bAbu rodana zubhantA tora aNDira kokiLa jANi
+
+<P>dwArikA ucchaba hou tohora rodana zuNi | 202 |
+
+<P>bistAra bakSasthaLa kaTi bitrama kezarI
+
+<P>bAbu bAhAnAda dei putra uTha mUrttibanta hoikari | 203 |
+
+<P1>201|1 paMku--paka |
+
+[MBO-10(1)-87]
+
+<P>say1aLajana tAraNa aTanti yujheSThi
+
+<P>tAhAMkara puNya gheni putra chAhuMkinA druSTi | 204 |
+
+<P>y1ekaAtmA abheda ye zrIkruSNa phAlaguni
+
+<P>tAhAMka Ay1iSa gheni putra hoilma kimpe tUni | 205 |
+
+<P>padmanADa jiNi tora bhmaja duigoTi
+
+<P>campaka kaRhi jANi tohora aGguSThi | 206 |
+
+<P>ati alokita zobhAbana kAy1e
+
+<P>Ambhara abastA dekhi kimpAi na basai tora day1e | 207 |
+
+<P>olaTa kadaLI jANi dizai tora benijAnu
+
+<P>nILArekha romAbaLI zobhita tora tanu | 208 |
+
+<P>mrutupiNDa putragoTi tu mohucchu jagata
+
+<P>rARha debatA yama, tote nebAku baLilA kehne citta | 209 |
+
+<P>rukmiNI sohodrAMka zuNi aneka zokabANI
+
+<P>tahiM bijay1e kale deba catrapANi | 210 |
+
+<P>khaNDe dUruM sohodrA zrIkruSNaMku dekhi
+
+<P>bajrAghAta jANi paDilA zuzimukhI | 211 |
+
+<P>sohodrA mUrcchAgata zrIkruSNara Age
+
+<P>tohora bole muM na dhaili putrazoge | 212 |
+
+<P>hari tohora kathAy1e y1ebe jANili y1ete kUTI
+
+<P>kapaTA yuddhe marAilma cauda barakSa putragoTi | 213 |
+
+<P>keuM doSa kali muM tote ho zrIpati
+
+<P>y1ee kimpe kapaTare marAilma mohora nAtigoTi | 214 |
+
+<P>zrIkruSNa boile mAgo raha raha sohodrA
+
+<P>mrutugata nohoi putra asASTama nidrA | 215 |
+
+<P>sadA maGgaLa ye y1e mohora purI
+
+<P>Ananda chaDi kimpAiM anamite trodha kari | 216 |
+
+<P1>213 bho hari tumbhara jANili y1eheneka krutya
+<>kapaTA yuddhe marAilu cauda baraSa bALaputra |(jha, Ta)
+
+[MBO-10(1)-88]
+
+<P>sohodrA praNapatya kruSNa padmapAde
+
+<P>yAbata abasthA hari tohora parasAde | 217 |
+
+<P>muhiM ye kAhAri bola na kali
+
+<P>kakSAbarI hoi lajjA upekSili | 218 |
+
+<P>muhiM kAhiM arjuna kAhiM mote y1ekaThAba kalma
+
+<P>madhye yadubaMza aneka gan~jAilma | 219 |
+
+<P>AgahuM ta bhAGgithile bLadeba y1ehA
+
+<P>baMzika boli arjunaku mote kale behA | 220 |
+
+<P>hari arjunara oprodhe na boilma mote kicchi
+
+<P>bizwAsaghAtakI mote karAilma zrIbatsi | 221 |
+
+<P>saMsAra kAraNa heuchanti tohora parasAde
+
+<P>pANDabanta bihilma y1eDeka paramAde | 222 |
+
+<P>hari zatadhanu bibAde arjuna tote jiNi
+
+<P>teNu hrudare kUTa dhailma ki puNi | 223 |
+
+<P>hari satyabhAma peSi mote kalma y1ete yoga
+
+<P>tohora sAhAre pANDabanta y1eDeka biy1oga | 224 |
+
+<P>hari boilma ye somabaMzare upujile putragoTi
+
+<P>sehi se dhAraNa hoiba nA nabasruSTi | 225 |
+
+<P>arjuna pradAna karAilma y1esaneka bhALi
+
+<P>y1ebe ki tAhA tu pAsorilma banamALI | 226 |
+
+<P>hari saMsAre bolanti ye pANDabe biSNu Azray1are
+
+<P>ubhay1a kALaku nAzakalma ho abichAre | 227 |
+
+<P>ati niSThura tu tohora kisa baheNI bhaNan~jA
+
+<P>hrudare hiMsA dhari bolAu debarAjA | 228 |
+
+<P>yazodA debIMkara muhiM ye dohitA
+
+<P>uttarA mohora kuLabadhu ghenilma tAhAra hatyA | 229 |
+
+<P1>229|1 yazodA mohora mAtA muhiM tohora anujA |(ka, tha)
+
+<P1>220|2 behA--bibhA |
+
+<P1>228|1 baheNI--bhaginI, bhauNI
+
+[MBO-10(1)-89]
+
+<P>y1ebe pAilma hari ho bALuta hatyA doSa
+
+<P>ihaloke apakhyAti paraloke apayaza | 230 |
+
+<P>kALe jANili tora arjunaku abhAba
+
+<P>keuMNa droha kale tote pan~chaiM pANDaba | 231 |
+
+<P>kauraba baMza hari nAzakalma kUTe
+
+<P>pANDabaMka baMza y1ebe marAilma kapaTe | 232 |
+
+<P>zrIkruSNa boile mAgo na bola mote y1ehA
+
+<P>zuNile kopa mote karibe tora nAhA | 233 |
+
+<P>sohodrA boile hari pANDabanta yebe tora bhay1e
+
+<P>somabaMza buDilA hari kisa tohora upAy1e | 234 |
+
+<P>sohodrA bacana zuNi zrIkruSNa boile
+
+<P>ye yAhAra baMza tAra pAtake nAzagale | 235 |
+
+<P>sohodrA boile hari tora nAma jagata tAraNa
+
+<P>teNukari pANDabe tohore pazile zaraNa | 236 |
+
+<P>hari sudrizena catra ye sahasreka dhAra
+
+<P>dibArAtre bulmathAi dwArAbatI pura | 237 |
+
+<P>mAcchi tiraNa paDile ye sahasreka khaNDa
+
+<P>teNu y1e bhmabane na pazai yamarAjAra kALadaNDa | 238 |
+
+<P>niroga pura y1e hari kAhAra nAhiM y1ethi mrutu
+
+<P>nAtigoTi nAzakalma kaha keuM hetu | 239 |
+
+<P>anantakoTi brahmANDe tu aTu adhikArI
+
+<P>to bina AgyAMre yama pArai ki hari | 240 |
+
+<P>hari cauda baraSara putra abhimanyu
+
+<P>raNabhUa karAi mAilu mora tanu | 241 |
+
+<P>hari samaste kAreNi hele dwArikAra jana
+
+<P>muhiM se kebaNa pApa kaliTi hAde puNa | 242 |
+
+<P>sabu stirImAne y1ethi aheo sulakSaNI
+
+<P>hInastirI saGgate muM hoili ta gaNi | 243 |
+
+[MBO-10(1)-90]
+
+<P>hari putra putrIThAre nAhiM mohora ye Aza
+
+<P>nAti goTiki Aza karithili se hoilA binAza | 244 |
+
+<P>bijekarNNakaTAra gheniNa saubhadre
+
+<P>beke koThAra basAnte dhaile kruSNacandre | 245 |
+
+<P>zrIkruSNa boile mA go chaDasi trodhabANI
+
+<P>garbharu mruta jAta ke jIAiM deba puNi | 246 |
+
+<P>sohodrA boile hari tohora yebe pANDabanta nikaLaMka
+
+<P>kin~chaita prasAde tohore jIiMba bALai | 247 |
+
+<P>kin~chite kari yebe tumbhe deba amruta ye druSTi
+
+<P>y1ehikSaNi jIiMba hari bALuta putragoTi | 248 |
+
+<P>AdihuM ye bola somabaMzara putragoTi
+
+<P>tumbhe day1A kariba yadi somabaMza chAriyuge thibaTi | 249 |
+
+<P>y1eheneka kari karAilma tu nirAza
+
+<P>bAchA bicaLita y1ebe karucchu pItabAsa | 250 |
+
+<P>sohodrA bikaLa dekhi say1aLa jana bhASi
+
+<P>y1ebe pANDabanta nirmoha hoile hruSIkezi | 251 |
+
+<P>tu deba jagata kAraNa janArddana
+
+<P>tuhi sruSTi karatA tuhi se jagata jIbana | 252 |
+
+<P>yadi asthi mAy1eMsa yAi paDai hAte loTi
+
+<P>amruta druSTire chAhiMle jIaMi putragoTi | 253 |
+
+<P>Aho caitana bAratA pAile dropatI kointI
+
+<P>se yAiM prabeza hoile sohodrAra kati | 254 |
+
+<P>Aho caitana kontA dropatI yazodA debIMka trodhabANI
+
+<P>parbatuM pASANa jhaDiba tAhAMka rodana zuNi | 255 |
+
+<P1>252 tu deba jagata jIbana bAsudeba
+<>tu san~chilu deba say1aLe jana jIba |(Ga, tha)
+
+[MBO-10(1)-91]
+
+<P>yujehSThi bhIma arjuna nakuLa sahadeba
+
+<P>tahiM prabeziel yAi pan~chu ye pANDaba | 256 |
+
+<P>yAiM dekhile putra prANatyAga kuLabadhU
+
+<P>pAntabe mUrcchAgata ye sohodrA kAndu kAndu | 257 |
+
+<P>yujehSThi bhIma arjuna sahadeba nakuLa
+
+<P>sabuMkari nay1anu bahai azrujaLa | 258 |
+
+<P>yujehSThi boile daiba tohora y1eheneka gati
+
+<P>dharme Azre kari muM na dekhili putranAti | 259 |
+
+<P>hari sodaranta nAzakalmaM rAjyabhAta nimante
+
+<P>Ambhara baMza buDilA hari jIbana kisa arthe | 260 |
+
+<P>yujehSThi deba boile tumbhe zuNa naranArAy1aNa
+
+<P>janme janme Ambhe tohore zaraNa | 261 |
+
+<P>hari day1AsAgara tu ey bhakatamatsaLa
+
+<P>tohora Azreke hari Ambhara baLadarpa sarbakALi | 262 |
+
+<P>hari keuNa abhagate helma tu nirdday1e
+
+<P>teNu se Ambhara ye baMza galA kSay1e | 263 |
+
+<P>arjuna boile Ambhanta gheniailma rakSAkaribu bola
+
+<P>tote Azre kari hari baMzanAza kali | 264 |
+
+<P>mrutapiNDa goTi koLe dhaile kointI
+
+<P>badana niropi bAhunanti dropatI | 265 |
+
+<P>debakI yazodA ye aneka trodha kari
+
+<P>nanda rapananda ragrasena Adi kari | 266 |
+
+<P>kruSNara batiza sahasra nArI aSTa pATabaMzI
+
+<P>mahotrodhabhare ye beDhile sarbe Asi | 267 |
+
+<P>samaste bichAra karanti mane mane guNi
+
+<P>kebaNa bichAri y1ehA kale catrapANi | 268 |
+
+<P>yebaNa bhmabanare nAhiM jaA roga byAdhi
+
+<P>y1etekALe yama y1ethi kimpe kalAka abidhi | 269 |
+
+[MBO-10(1)-92]
+
+<P>samaste rodana ye karanti bikaLe
+
+<P>dwArikA pura chaDibA ho bipatti paDilA y1etekALe | 270 |
+
+<P>bahuta kuTumba yahuM dwArikAre byuha
+
+<P>teNu kari hari dwArikAku chaDilma seneha | 271 |
+
+<P>ki abA kebaNa mAy1Akale puruSottam
+
+<P>pUrAa mahata bAcha udita hou dharma | 272 |
+
+<P>ke bolai kruSNara kopa achai pANDabanta
+
+<P>ke bolai mAy1Adhara mAy1A kariacchi mana biDibAku | 273 |
+
+<P>ke bolai kruSNara arjunaku acchi kopa
+
+<P>zatadhanu rakhi harilA ye nArAy1aNa darpa | 274 |
+
+<P>ke bolai arjuna sohodrAku harinebAra beLe
+
+<P>bahuta apamAna tahiM pAile kAmapALe | 275 |
+
+<P>zrIkruSNara nAme samaste dile apacchAti
+
+<P>y1e mAy1AkrutayAka ye aTai zrIpati | 276 |
+
+<P>se rAga khaNDika hari dhariacchi hrude
+
+<P>teNukari putra mrutugata hAde | 277 |
+
+<P>aneka kALara bhmabana dwArabatI
+
+<P>gobindaMka nAme samaste dile apacchAti | 278 |
+
+<P>sohodrA boile hari sAbadhAne zuNa
+
+<P>tohora kalA kruta puNa nohai se Ana | 279 |
+
+<P>nanda basudeba ugrasena yAdaba
+
+<P>saburi trodha baikulya dekhanti bAsudeba | 280 |
+
+<P1>270|2 dwArikA puraku dharma chaDilA y1etekALe |(kha, Tha)
+
+<P1>271|1 bahuta kuTumba yahuM dwArikAre samUha |(keteka pothi)
+
+<P1>272|1 phiTi, pheRa mahaTha bAkya (bAn~cchA) udita hou dharma |(gha, ja, tha)
+<>putra ban~chAibe abA ude kari dharma |(tha)
+
+[MBO-10(1)-93]
+
+<P>sakaLa jana trodha dekhi arjuna boilA
+
+<P>kuru pANDaba yuddhe aneka saina malA | 281 |
+
+<P>ghaTautkaTa paDilA malA abhimanyu
+
+<P>lakSmaNa kumAra paDilA pAn~chALIra pAn~chatanu | 282 |
+
+<P>y1e putrara prANatyAja hoilA yetebeLe
+
+<P>rabitaLe buDilA somabaMza ihakALe | 283 |
+
+<P>swAmI ubhay1a kuLaku ye paDilA kaSaNa
+
+<P>y1e kaSaNuM rakhantA tuhi se nArAy1aNa | 284 |
+
+<P>arjuna boilA swAmI bAchAy1eka phiTu
+
+<P>nidrAgata prAy1eka hoi bALuta putra uThu | 285 |
+
+<P>yujehSThi deba boile hari agocara nuheM tote
+
+<P>rakSA karibu boli ye dwArikAku ANilma mote | 286 |
+
+<P>Ana ThAbe yebe hoantAnA mrutu
+
+<P>jana mukhe kimpe apacchAti zrIkruSNa pAAntu | 287 |
+
+<P>to azakya yebe hoilAka hari
+
+<P>Abara pAntabanta pAibu kAhiM lodi | 288 |
+
+<P>yujehSThi deba boile kara citA AropaNa
+
+<P>putra gheni Ambhe dahana hoibuM pAn~chajaNa | 289 |
+
+<P>chADilma rAjyabhAra hoilmaM nirAza
+
+<P>nikaTa nohai samodra nohile diantu jhAsa | 290 |
+
+<P>swAmI pannaga bhakSaNe gareDiA mukha chAhiM
+
+<P>tesaneke prAy1e deba hoiacchu tuhi | 291 |
+
+<P1>281|1 say1aLa jana trodha dekhi atrura boilA |(jha, Ta)
+
+<P1>283 y1e putragoTira pANa yetebeLe yiba
+<>budilA somabaMza Au kisa thiba |(jha, Ta)
+
+<P1>284 y1e dusaha saMkaTu nAtha tuhi se uddhAraNa |(Ga, tha)
+
+<P1>289 citA AropaNa kara tumbhe begi
+<>putragoTi gheni pAn~cheheM udabegi |(keteka pothi)
+
+[MBO-10(1)-94]
+
+<P>swAmI say1aLa saMsAra samasteheM hoibe mrutu
+
+<P>y1ebe tohora AgyAMre bALuta pua boGgcu | 292 |
+
+<P>y1ethaku yebe cintA na karibu debarAja
+
+<P>Ambhara baMza budile tumbhanta hoiba lAja | 293 |
+
+<P>Ambhe yebe indraprazaste rahithAAntu
+
+<P>pApahiM hou ki puNyahiM hou karma boli Adarantu | 294 |
+
+<P>bhagnIjAra putra tora garbhmaM mrutu jAta
+
+<P>saMsAre apacchAti tote ye bahuta | 295 |
+
+<P>tAraNa kara nAtha andha paTaLa phiTu
+
+<P>amruta druSTire chAhim putra mo jIiM uThu | 296 |
+
+<P>yujehSThi deba baikula dekhiNa jagannAthe
+
+<P>badana heThamAtha deba bruSTi anumate | 297 |
+
+<P>arjuna boile swAmI chaDimela mohora rAga doSa
+
+<P>anugraha kara nAtha rakSAkara mora baMza | 298--1083 |
+
+<H>{@zrIkruSNaGka dwArA parIkSitaGka jIbadAna@}
+
+<P>zrIkruSNa badana chAhiM debakI boile
+
+<P>hari tohora nAy1e ye samaste apacchAti dile | 1 |
+
+<P>bAbu y1e bALuta bratibAku acchi yebe buddhi
+
+<P>zUnye bruSTi hou amara mauSadhi | 2 |
+
+<P>ApaNA koLe lAi chAhAM amtuta druSTi
+
+<P>saMsAre dhani hou kumara basu uThi | 3 |
+
+<P>mAtAMka bacane santoSa debaswAmI
+
+<P>bichArile kezaba, mote apacchAti dile ANi | 4 |
+
+<P1>3|2 jana mukhe sAdhu dhuni uThu putra Anande basu uThi |(ja)
+
+<P1>1|2 apacchAti--apakSAti |
+
+<P1>3|2 dhani--dhanya |
+
+[MBO-10(1)-95]
+
+<P>yujehSThi baikulya dekhiNa debahari
+
+<P>mrutapiNDa goTiki ye koLa kari dhari | 5 |
+
+<P>ApaNe kezaba toLi dhaileka koLe
+
+<P>adhara AuMSucchanti debakIra bALe | 6 |
+
+<P>zuNa baibasuta manu badanti agasti
+
+<P>samastaMka bacane kruSNa hoile parama zAnti | 7 |
+
+<P>koLare dhaile prabhma mrutupiNDa goTi
+
+<P>zarIra AzwAsanA kari chAhiMle amruta druSTi | 8 |
+
+<P>badana dizai tAra nirmaLa candra jANi
+
+<P>y1ekalay1a kari chAhiMle deba catrapANi | 9 |
+
+<P>sumaranti dadhibAbana aNAkAra
+
+<P>yebe mrutu maNDaLe mora manuSya abatAra | 10 |
+
+<P>yebe muhiM biprare bhagati nAmakarme
+
+<P>mora nitikarme thAi bhASai yebe dharme | 11 |
+
+<P>para upugAra yebe muhiM karai citte
+
+<P>paradArA para upahAsa nAhiM ye yugate | 12 |
+
+<P>beda mantra zAsre yebe Anandita karme
+
+<P>yebe mote dhIrajana bhagati kari marme | 13 |
+
+<P>muhiM yebe gobanddhana dharai sarbakALe
+
+<P>yebe gobarddhanadhArI nAhiMTi say1aLe | 14 |
+
+<P>yebe trailokya AtayAta karai mahIbhAra
+
+<P>teNu kari nAmagoTi yebe mahIdhara | 15 |
+
+<P>yebe muhiM nare nArAy1aNa mama nAma
+
+<P>yebe mora brAhmaNe Anandita mana | 16 |
+
+<P>yebe muhiM nirAkAre rAtra dibasa bhajai
+
+<P>mama karme yebe pare nirANa karai | 17 |
+
+<P>muhiM yebe hiMsA pare na karai
+
+<P>yebe beda mantra zAhAsre Anandita aTai | 18 |
+
+[MBO-10(1)-96]
+
+<P>yebe muM nindai pApIloka mandakarma gati
+
+<P>yebe muhiM dhIrajana paNDite bhagati | 19 |
+
+<P>japI tapodhane Anandita mana
+
+<P>sAbadhAne sugyAne na pazanti yebaNajana | 20 |
+
+<P>tAhAMku hrude yebe acchiTi mamagyAna
+
+<P>prAtakALe srAhAna karanti yebaNa jana | 21 |
+
+<P>tAhAMkara hite thAi yebe basi
+
+<P>yebaNa jana hoanti tIrthabAsI | 22 |
+
+<P>se loka mohora hrudare pazanti
+
+<P>mukati gati arthe yebe huanti pathazrAnti | 23 |
+
+<P>tAhanta yebe sulabha thAiTi mora mane
+
+<P>hari upabAsa karatni yebaNa jane | 24 |
+
+<P>anubrate cintA ye karai mamagyAne
+
+<P>se loka yebe mo pan~chaatmAne | 25 |
+
+<P>bibAda karme na laGghanti sImA
+
+<P>beni bAde yehne nohai AgaLima | 26 |
+
+<P>meRha maNDopa puSkariNI yehu dianti
+
+<P>se lokaMkaThAre yebe thAi citta brutti | 27 |
+
+<P>brAhmaNa hoi ki zUdra hou abA
+
+<P>bhikSuka hou yebe moraThAre sebA | 28 |
+
+<P>duSTa jananta dekhi yebe karaiM bhay1e
+
+<P>dharma zAhAsra paNDitajananta yebe karai saday1e | 29 |
+
+<P>satI prasaGge yebe mama prakruti
+
+<P>raja mukhe yebe caLai pruthI | 30 |
+
+<P>hrudare cintA mohora pratilokanti niti | 31 |
+
+<P>abadake yebaNa loke karanti bAstari upabAsa
+
+<P>se lokanta dekhile mane pAithAi prAsa | 32 |
+
+<P1>24|2 hari upabAsa--zrIekAdazI brata |
+
+<P1>11|2 nitikarma--nityakarmare
+
+[MBO-10(1)-97]
+
+<P>mama nAma saMketa yehu karai cintA
+
+<P>AhAra maithuna nidrA nAhiM se karantA | 33 |
+
+<P>jananta AdaraNe yebe janArddana nAma
+
+<P>puruSamAnanta pArakarai puruSottama mora nAma | 34 |
+
+<P>naraka tAraNa mora nArAy1aNa nAma
+
+<P>paramAduM tArai yebaNa kruSNa nAma | 35 |
+
+<P>paraMku zirIdei yebe zrIrAma mora nAma
+
+<P>para dukhe kare muM paraku parasanna | 36 |
+
+<P>para dukha yebe mun~ nuArai dekhi
+
+<P>saday1e cintA muhiM karai nirimAkhI | 37 |
+
+<P>karame yebaNa jane huai Abaddha
+
+<P>muhiM bizrAmai ye tAhAMkara kandha | 38 |
+
+<P>nimaryyAdAre yebe na chaDai kSaNe
+
+<P>acchaba lokaMkara tule muM thAi teNe | 39 |
+
+<P>jagata uddhAri jagannAtha mora nAma
+
+<P>muhiM pALai yebe sakaLa lokadharma | 40 |
+
+<P>muhiM yebe aTai jagata jana bandhu
+
+<P>bhagabAna nAma mora praLay1a tAraNa sindhu | 41 |
+
+<P>kIrtti karama karai yebe akIrtti jane
+
+<P>y1ete kathAre thAi yebe mora mane | 42 |
+
+<P>muhiM yebe godhana tArai sarbakALe
+
+<P>gobarddhana nAma mora aTai say1aLe | 43 |
+
+<P>muhiM yebe AtayAta karai samasta mahIra
+
+<P>teNukari nAma mora aTai mahIdhara | 44 |
+
+<P>sAdhuy1e mane yebe cintanti sarbakALe
+
+<P>teNu mAdhaba nAma mora bidita say1aLe | 45 |
+
+<P>muhiM yebe saMsAra jana cintAy1e thAiTi
+
+<P>teNu muM bahai sudrizena catragoTi | 46 |
+
+[MBO-10(1)-98]
+
+<P>catradhara nAma yebe mohora sata
+
+<P>leuTi jIbana pazu jIuM y1e bALuta | 47 |
+
+<P>Aho caitana putra koLe dhari dianti cumbana
+
+<P>amruta kariNa ye chAhAnti nay1ana | 48 |
+
+<P>he pitAmaha bichAra tumbhe y1ehA
+
+<P>baMza buDilA saMsAre ran~chibu tu kAhA | 49 |
+
+<P>muhiM yebe tohora bacane prajApati
+
+<P>digapALa hoi yebe muM mAnabe utapatti | 50 |
+
+<P>muM yebe utapatti bhArA nibAraNe
+
+<P>janem janme jAta hoi nara nAray1aNe | 51 |
+
+<P>yebe muhiM maccha kUrma barehA abatAra
+
+<P>nrusiMgha bAmana prazurAma Abara kodaNDadhara | 52 |
+
+<P>yebe muM abatAra abanIra chaLe
+
+<P>yebe mo daza abatARa sarbakALe | 53 |
+
+<P>yebe mohora pitA bhagati sarbadAy1e
+
+<P>aNAkAra nAthaku yebe mohora thAy1e dhyAy1e | 54 |
+
+<P>muhiM yebe sakaLa debaMkara mukhyapAna
+
+<P>yogIjanaMkara muM dhyAnare darazana | 55 |
+
+<P>yebe mo deba brAhmaNe achai bhagati
+
+<P>yebe saMsAra jananta pALai muM niti | 56 |
+
+<P>yebe muM pruthiki anubrate kare cintA
+
+<P>yebe muM bhagata jananta uddhArantA | 57 |
+
+<P>japa mantra dharmeta bratanti yete prANI
+
+<P>yebe muhiM tAhAMkara apAda ye khaNDai beLa jANi | 58 |
+
+<P>yebe muM thAiTi jantu hrudagate
+
+<P>paradukhe kAtara muMsarbadA yebe nitye | 59 |
+
+<P>yebe muM rakSa bhakSaku mAili dharma yuddhe
+
+<P>heit praheti nAzili pitAmahara trodhe | 60 |
+
+[MBO-10(1)-99]
+
+<P>AkAza manthile yebe mALI ye sumALI
+
+<P>muhiM tAhanta badha kari uddharili mahIsthaLI | 61 |
+
+<P>jagujana sodara yebe jagannAtha mora nAma
+
+<P>dharma artha kAma mokSa yebe diai cartubarga dharma | 62 |
+
+<P>pruthI uddhAraNa nimante yebe dharaNI dharai muhiM
+
+<P>say1aLa jana nimante yebe bhArAbhara bahi | 63 |
+
+<P>pruthI Apa teja bAy1aba AkAza
+
+<P>y1e pan~cha dhatuku yebe mohora prakAza | 64 |
+
+<P>janme janme yebe durjana lokaMka garbagan~jA
+
+<P>bhagata jana matsaLa muM yebe debAdhi debarAjA | 65 |
+
+<P>muhiM yebe nikaLaMka y1ekAdazabedI
+
+<P>mama arthe bhagatare yebe kAyya aTai siddhi | 66 |
+
+<P>yebe muhiM y1eka mAtA y1eka pitAy1e jAta
+
+<P>yebe muhiM mAtA pitAy1e gurujanare bhagata | 67 |
+
+<P>narkuM uddhAraNa yebe aTai nArAy1aNa
+
+<P>anAsta janaMkara yebe bhagati karaNa | 68 |
+
+<P>athabA ye yAhAra brata dharme brtanti yebe prANI
+
+<P>tAhAMkara cinTa gheni mo nAma cintAmaNi | 69 |
+
+<P>yebe muhiM pitAmaha bikaLe zaGkhAsura darpa gan~ji
+
+<P>abanI chaLe yebe hiraNya hiraNAkSya pakAili pin~ji | 70 |
+
+<P>muhiM yebe pAtALe chApilaiM baLi
+
+<P>jagujana mohana nAma mora yebe banamALI | 71 |
+
+<P>yebe muM prazurAma rUpe durbhAra baLa gan~ji
+
+<P>jAnakI haraNe yebe bizrabAsuta pin~ji | 72 |
+
+<P>muM yebe raGgA abatAra hoili medinI
+
+<P>aSTamalla mULe kaMsara prANa gheni | 73 |
+
+<P1>72|2 rAbaNaku mAri yebe sItay1A mana ran~ji |(ja)
+
+[MBO-10(1)-100]
+
+<P>yebe mote yogIjana muni karanti dhyAy1e
+
+<P>baikuNThe ThAba diai sadA ye binay1e | 74 |
+
+<P>yebe mote bhagati yujehSThi mahAtamA
+
+<P>yebe pANDabe mohora aTanti pan~chuAtmA | 75 |
+
+<P>yebe mohora pANDabanta aTai nikaLaMka
+
+<P>arjuna mana AtmA aTai yebe mora y1eka | 76 |
+
+<P>yebe muMhi nikaLaMka citte pradAna karAili sohodrAku
+
+<P>nikaLaMke sebA yebe baLadeba ThAkuraMku | 77 |
+
+<P>zrIbanta lokanta yebe mohora hrude sohodara acchi
+
+<P>teNu kari nAma mora aTai zrIbacchi | 78 |
+
+<P>janajantu ran~janaru yebe na rucai Ana
+
+<P>teNu kari nAma mora aTai bhagabAna | 79 |
+
+<P>yadi muhiM tuLasA bahai mama hrude
+
+<P>yadi muhiM baLiki mAgili nabadwIpA pruthI sapta pAtALa y1ekapAde | 80 |
+
+<P>yebe mohora bhmabanaku nAhiMTi apAda
+
+<P>bhagata janaMku ye dhaMsai tAhAku hrudare biSAda | 81 |
+
+<P>yebe y1emAna hAde aTai satya satya
+
+<P>y1ethaku sAkSya muM kalaiM bihantA puruSanta | 82 |
+
+<P>bho dazadigapALa tumbhe samaste hoa sAkSI
+
+<P>paradukhe muhiM ye sarbadA dInadukhI | 83 |
+
+<P>sarbadA prANI hiMsA na kare mama hrude
+
+<P>tAhA muhiM na sahai kathA prastApe | 84 |
+
+<P>bhAratha yuddhahiM mora pANDabaGka hite
+
+<P>brahma chatrI baizya zUdra badha y1ehAMkara arthe | 85 |
+
+<P1>75|2 yebe pANDabe mohora aTanti y1ekaAtmA |(ka)
+
+<P1>78|1 sohodara--sneha, bhAtrubhAba |
+
+[MBO-10(1)-101]
+
+<P>yebe se y1emAna mohora aTai satya satya
+
+<P>mama ASya ghenikari bratu y1e bALuta | 86 |
+
+<P>zuNa Aho caitana kruSNara y1esana bAkya zuNi
+
+<P>jIbadAna pAilA kumara cUDAmaNi | 87 |
+
+<P>jIbanyAsa kari tAku chahiMle amruta ye druSTi
+
+<P>kAy1A moDi dei putra tatakSaNe kandi uThi | 88 |
+
+<P>nay1ana niropi ye chAhiMlAka bALa
+
+<P>kara caraNa halAi ye toLai bakSasthaLa | 89 |
+
+<P>dekhiNa cakita hoile sarbaloka
+
+<P>AtmA bighaMsita chaDile sabaMzoka | 90 |
+
+<P>putragoTi koLe basAi jagatajana bandhu
+
+<P>trailokya zubhilA kruSNa muhimA sAdhu | 91 |
+
+<P>sAdhu sAdhu dhuni uThilA sarbamukhe
+
+<P>haraSa dhuni uThilA pAragalA sarbadukhe | 92 |
+
+<P>Aho dekhiNa sAnanda hoile saubhadre
+
+<P>kumara dekhibA nimante bijay1e zrIrAmacandre | 93 |
+
+<P>baLadeba bolanti zrIkruSNara agocara mAy1A
+
+<P>jagabandana nAtha ye kaleka suday1A | 94 |
+
+<P>mrutupiNDa bratilA se somabaMza heba mokSa
+
+<P>parIkSAru uturilA y1ehAra, nAma ye parIkSa | 95 |
+
+<P>...Aho aneka parIkSa yahuM kahile zrIbaccha
+
+<P>se putrara hari, nAma dileka parIkSa | 96 |
+
+<P>brati uThilA se ye arjunara nAti
+
+<P>nay1ana druSTikari chAhiMle zrIpati | 97 |
+
+<P>putrara nidhane ye uttarA moha yAithilA
+
+<P>punarapi jIba tAra neuTi na pazilA | 98 |
+
+<P1>88|2 kuAMrAba deiNa putra tatakSaNe uThi |(ja)
+
+<P1>93|1 debakI kointA subhadrA aneka Anande |(ja)
+
+[MBO-10(1)-102]
+
+<P>brahmazara ghAy1e se ye hoilA aceta
+
+<P>teNu kari prANa tAra hoilA nihata | 99 |
+
+<P>gaGganadI kULe kjUi AropaNa kaLe pan~chubIre
+
+<P>mukha agni dile se parIkSa kumare | 100 |
+
+<P>bAhuDi prabeza hoile dwArAbatI pure
+
+<P>arjunara trodha kahile na sare | 101 |
+
+<P>badhU badhU boli sohodrA kontA dropatI rodana
+
+<P>prabodha karanti ye prabhma bhagabAna | 102 |
+
+<P>putraku dekhi prabodha hoile yujehSThi
+
+<P>sAdhu sAdhu bAsudeba taba nAma goTi | 103 |
+
+<P>say1aLa jana cintAmaNi puruSaMka uttama
+
+<P>ananta koti brahmANDa yAhAra udare bizrAma | 104 |
+
+<P>bhUta bhabiSya bratamAna samasta tu jANi
+
+<P>upAy1e bhArAbhara tu nAzilu catrapANi | 105 |
+
+<P>yadubaMza ziromaNi tu dukhIjanaMkara cintA
+
+<P>parama Ananda swAmI tu durita dahantA | 106 |
+
+<P>gaGgA gay1A godAbarI gaNDukI barataraNI
+
+<P>tora nAmagoTi sakaLa tIrtheNa cintAmaNi | 107 |
+
+<P>dibA nizi sAdhujane tora nAmaku karanti lay1e
+
+<P>parama gati dei ye tote karai dhyAy1e | 108 |
+
+<P>zrIbAsudebaMkara caraNe daini
+
+<P>baday1anti sAroLA caNDI dAsa zUdramuni | 109 |
+
+<P>jay1atu jagabandana jay1atu pItabAsa
+
+<P>jagata jana tAraNa jay1a hruSIkeza | 110 |
+
+<P>jay1atu mAdhaba yama darpa gAn~jA
+
+<P>jay1atu mAdhaba prasanne debAdhi debarAjA | 111 |
+
+<P>jay1atu mAdhaba puruSaMkara uttama
+
+<P>jay1atu mAdhaba prasanna parabrahma | 112 |
+
+[MBO-10(1)-103]
+
+<P>jay1atu mAdhaba ho zaraNa uddhAri
+
+<P>jay1atu mAdhaba saday1a daitAri | 113 |
+
+<P>jay1atu mAdhaba zaraNa rakSaNa
+
+<P>jay1atu mAdhaba jagata kAraNa | 114 |
+
+<P>jay1atu mAdhaba madhukaiTabha darpa gan~jA
+
+<P>jay1atu mAdhaba krutAnteka baLabhan~jA | 115 |
+
+<P>jay1atu mAdhaba trailokyara Adhipati
+
+<P>jay1atu mAdhaba ho dadhibAbana mUrati | 116 |
+
+<P>jay1atu mAdhaba yAbata jana jIbadAtA
+
+<P>jay1atu mAdhaba ho jagatajana uddhArantA | 117 |
+
+<P>jay1atu mAdhaba yogI parama yogI
+
+<P>jay1atu mAdhaba ho sakaLa jana bhogI | 118 |
+
+<P>jay1atu mAdhaba ananta nAma goTi
+
+<P>zUdramuni sAroLA dAsa taba caraNe loTi | 119--1202 |
+
+<P1>TekSTabuk pres bhmabanezwaraGka dwArA pru 49--pru 103 mudrita |
