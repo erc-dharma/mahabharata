@@ -140,6 +140,7 @@ def translit(s):
 
 def translit_file(inp, out):
 	for line in inp:
+		assert line.endswith("\n")
 		line = unicodedata.normalize("NFC", line)
 		ret = translit(line)
 		out.write(ret)
