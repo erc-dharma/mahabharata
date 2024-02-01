@@ -1,4 +1,4 @@
-# Vernacular Mahābhārata
+# ସାରଳା ମହାଭାରତ: Sāraḷā Dāsa's Mahābhārata
 
 The `iast` directory contains the "work" version viz. the one that should be
 amended if need be.
