@@ -80,6 +80,7 @@ consonants = {
 	"s": L("sa"),
 	"h": L("ha"),
 
+	"ṛ": L("dda") + "\N{oriya sign nukta}",
 	"ḷ": L("lla"),
 	"ẏ": L("yya"),
 }

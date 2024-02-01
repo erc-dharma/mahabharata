@@ -42,7 +42,7 @@ paṣī bibaraṇa ...142
 <>daśasahasra yoddhāṅka patana ... 163
 <P>17 | bhīkṣmaṅa nikaṭage pugehitaṅkara annnidāna
 <>kathā barṇona ... 188
-<P>18 | bhīkṣmaṅkara tṛtīẏa dina yuddha o caturtha
+<P>18 | bhīkṣmaṅkara tr̥tīẏa dina yuddha o caturtha
 <>dine śveta senāpati pade niyukti ... 200
 <P>19 |pañthama dibasa yuddha ... 137
 <P>20 |ṣaṣṭha dina yuddhare bhīṣmaṅka amogha śakti
@@ -66,20 +66,20 @@ paṣī bibaraṇa ...142
 <P>muhiṃ tote bheṭili śvetagaṅgara kūḷa | 2 |
 <P>ādi abatāre śūdrika nāme brahmā
 <P>aneka kāḷa bañthāilī yebaṇa mahātamā | 3 |
-<P>bharaharaṣa nāyaka nṛtyarase bheḷā
-<P>mahārase rasika nātha tāṇḍaba nṛtyakaḷā | 4 |
+<P>bharaharaṣa nāyaka nr̥tyarase bheḷā
+<P>mahārase rasika nātha tāṇḍaba nr̥tyakaḷā | 4 |
 <P>sita pīta kuṃkuma yāra śirare sitāṃśu
 <P>dinakara teja harai yāhāra śrībhuje tīkhaparaśu | 5 |
 <P>yogānanda puruṣa tu bale mahāmeru
 <P>tu yāku prasanna gata āgata tāku ṣphuru | 6 |
 <P>svāmī kārttaka prahāra ye kale bāma pādaghāte
 <P>daṣi ṇa danta bhagnagalī anujara kopa catte | 7 |
-<P>se bhagnadanta paḍḍalī upare pṛthī se bhagnadantabhare | 8 |
+<P>se bhagnadanta paḍḍalī upare pr̥thī se bhagnadantabhare | 8 |
 [MBO-07-2]
 <H1>{@mahābharata@}
 <P>yahuṃ se baḍa ārata hoilī dharaṇī
 <P>basudhā rāsāiṅgate tusti kale śūḷapāṇi | 9 |
-<P>sacarācara pṛthrabīki ḍaddhara parśupāṇi
+<P>sacarācara pr̥thibīki ḍaddhara parśupāṇi
 <P>bāma bhmaje saṃharaṇa nātha kalu tāhā āṇi | 10 |
 <P>kope śāpya tāku dilu ye turite
 <P>galūta kuṣṭhabyādhna hoilā kārttikara | 11 |
@@ -118,11 +118,11 @@ paṣī bibaraṇa ...142
 <P>khaṭanti bilāsuṇī nr̥tya raṅgarasa bheḷe | 27 |
 <P>guṇasāgara nātha bheleṇa mahāprahu
 <P>asaṃkhya mahimā sañṣepi heba kāhuṃ | 28 |
-<P>yāhāra nṛtyaku abadhārī br̥ndāarke
+<P>yāhāra nr̥tyaku abadhārī br̥ndāarke
 <P>mohilu sadānanda svāmī bhajile nāgaloke | 29 |
 <P>ananta nāga indranātha mekhaḷā śobhi kaṭi
-<P>nāśilu sabon pāpa hṛdagate ghoṣiṇa taba nāma goṭi | 30 |
-<P>śrī bighnagjaṃka caraṇa sebā mohora hṛde
+<P>nāśilu sabon pāpa hr̥dagate ghoṣiṇa taba nāma goṭi | 30 |
+<P>śrī bighnagjaṃka caraṇa sebā mohora hr̥de
 <P>bañchali kr̥tāntaka bhaẏaru nātha tohora parasāde | 31 |
 <P>manmatha sundara nīḷendī yāra barṇṇa
 <P>draśane harai sakaḷa bighnamāna | 32 |
