@@ -1,16 +1,16 @@
 # ସାରଳା ମହାଭାରତ: Sāraḷā Dāsa's Mahābhārata
 
-The `iast` directory contains the "work" version viz. the one that should be
+The `iso` directory contains the "work" version viz. the one that should be
 amended if need be.
 
 The `ori` directory contains an automatic conversion in the Oriya script of the
-contents of the `iast` directory. The conversion is done with `translit.py`. To
+contents of the `iso` directory. The conversion is done with `translit.py`. To
 update the `ori` directory, run:
 
 	make
 
 The file `missing_alpha.txt` contains a frequency table of alphabetic characters
-in `iast` that are not converted to the Oriya script. These are characters we do
+in `iso` that are not converted to the Oriya script. These are characters we do
 not know how to transliterate.
 
 The `orig` directory contains Arlo's original data (which dates from august
@@ -21,6 +21,6 @@ ignore the original data. We don't have access to the original converter.
 Apparently, there are transliteration problems between the original (Malten) and
 the generated (UR).
 
-To help identify problems, I created three additional files: `malten_full.txt`, `iast_full.txt` and `ori_full.txt`. They hold the full text of the respective versions, concatenated into a single file, and without markers.
+To help identify problems, I created three additional files: `malten_full.txt`, `iso_full.txt` and `ori_full.txt`. They hold the full text of the respective versions, concatenated into a single file, and without markers.
 
-There are about 40 less lines in malten_full than in iast_full and ori_full, probably because some markers from malten_full where incorrectly transliterated. In malten_full itself, there are quite a few weird character sequences, like "coÔøΩkhaÔøΩ", which are preserved in iast_full but obviously should have been transliterated to something more meaningful.
+There are about 40 less lines in malten_full than in iso_full and ori_full, probably because some markers from malten_full where incorrectly transliterated. In malten_full itself, there are quite a few weird character sequences, like "coÔøΩkhaÔøΩ", which are preserved in iso_full but obviously should have been transliterated to something more meaningful.

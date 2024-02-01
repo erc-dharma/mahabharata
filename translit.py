@@ -100,7 +100,7 @@ other = {
 	"||": "\N{devanagari double danda}",
 	"'": "\N{oriya sign avagraha}",
 	"ḥ": "\N{oriya sign visarga}",
-	"ṃ": "\N{oriya sign anusvara}",
+	"ṁ": "\N{oriya sign anusvara}",
 }
 
 charset = sorted(initial_vowels | intra_vowels | consonants | other, key=len, reverse=True)
