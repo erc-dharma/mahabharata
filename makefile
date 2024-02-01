@@ -3,7 +3,12 @@ output := $(addprefix ori/,$(notdir $(input)))
 
 all: $(output)
 
-.PHONY: all
+debug:
+	cat iast/* | python3 ~/dharma/cleanup.py | sed -e 's,<[^>]*>,,g ; /MBO/d' > iast_full.txt
+	python3 translit.py < iast_full.txt 1> ori_full.txt 2> missing_full.txt
+	grep -Ev '[[:cntrl:]]|[[:space:]]|[[:punct:]]' missing_full.txt | grep . | freq > tmp && mv tmp missing_full.txt
+
+.PHONY: all debug
 
 ori/%.txt: iast/%.txt translit.py
 	mkdir -p ori
