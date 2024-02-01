@@ -80,7 +80,8 @@ consonants = {
 	"s": L("sa"),
 	"h": L("ha"),
 
-	"ḻ": L("lla"),
+	"ḷ": L("lla"),
+	"ẏ": L("yya")
 }
 
 other = {
