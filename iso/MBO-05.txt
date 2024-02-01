@@ -1312,7 +1312,7 @@
 <P>upare khaṇḍā nei rājā piṭile mohori | 298 |
 <P>se brāhmaṇa koḷakari dhaile paṇḍuṁku
 <P>kiṁke nāśakaribu ẏe bāḷuta kumaraku | 299 |
-<P>gchāḍa chāḍa paṇḍāẏe māribi ẏehu duṣṭa
+<P>chāḍa chāḍa paṇḍāẏe māribi ẏehu duṣṭa
 <P>nityāprati maṇohi yogāḍa ẏe karai uttiṣṭa | 300 |
 <P>brahmaṇa boile tu bātuḷa hoilu ki raẏe
 <P>ātmaghātaka apāra doṣa ye nāśakaranti tanaẏe | 301 |
@@ -1537,9 +1537,9 @@
 <P>stambhanamohana baśa uccāṭana guṭikā añjana tāku samasta śikhāi | 389 |
 <P>muhiṁ gopyāna heucchi merutroṭa
 <P>ārādhanā bhagati kari tuhi birañchi nārāẏaṇakaiṁ khaṭa | 390 |
-<P>gchāẏāku samarpiṇa tahuṁ saṁgyāṁala gopye
+<P>chāẏāku samarpiṇa tahuṁ saṁgyāṁala gopye
 <P>merūtroṭe paśila se hoiṇa aśvarūpe | 391 |
-<P>gchāẏā khatilā ye nārāẏaṇa birañchi
+<P>chāẏā khatilā ye nārāẏaṇa birañchi
 <P>saṁgyāṁhuṁ adhika guṇe bhagati sehu sañchi | 392 |
 <P>ẏe bidhire satya tretā dvāpara ye kaḷi
 <P>ẏekastarī gaṇḍā yuga khaṭilā aṁśumāḷī | 393 |
@@ -1558,7 +1558,7 @@
 <P>sehidina kr̥tāntaka chāẏā saṅge kaḷi
 <P>aneka bhracchanā kariṇa chāẏa dile gāḷi | 398 |
 <P>sahi nuāri se kopakaleka yama
-<P>gchāẏāra upare pāda prahāra kalā tama | 399 |
+<P>chāẏāra upare pāda prahāra kalā tama | 399 |
 <P>kopeṇa chāẏā ye śāpyadile heḷuṁ
 <P>yāāre yama tora bāma caraṇa akṣobha hoi gaḷu | 400 |
 <P>athabā yebe muhiṁ aṭai tora māẏe
@@ -1587,7 +1587,7 @@
 <P>teja sahi nuāri saṁkyām āmbhanta kalāka hāde māẏā
 <P>dhyāne jāṇile se ye aṭai debī chāẏā | 411 |
 <P>aṁgyāṁra gopya se jāṇileka deba hr̥de
-<P>gchāẏāku prasanna boile deba parama sānande | 412 |
+<P>chāẏāku prasanna boile deba parama sānande | 412 |
 <P>ẏetekāḷa prakr̥ti jāṇī khaṭilu ye tuhi
 <P>saṁghyāṁ debīra ballabha ye aṭai hāde muhiṁ | 413 |
 <P>saṁgyāṁkaiṁ loḍibāregaleka birañchi
@@ -1832,7 +1832,7 @@
 <P>thambana mohanabaśa uccāṭana kuhika pañchusvara | 509 |
 <P>rādhikā nāma dhari beṇu prathama svare bajā
 <P>hoiba birahitā kariba samasta parityejā | 510 |
-<P>gchāḍiba ghara muhāṁsa kuṭumbha sarbajana
+<P>chāḍiba ghara muhāṁsa kuṭumbha sarbajana
 <P>to tahuṁ byatrake ballabha nohiba ānajana | 511 |
 <P>ābara kathāẏe tu śuṇasi nandabatsa
 <P>ẏe baiṁśīre kamabīja tu jaapibu pratakṣa | 512 |
@@ -2932,7 +2932,7 @@
 <P>tumbhara śāḍhī debā mote bihita ye āse | 21 |
 <P>muhiṁ chāra yujheṣṭhiṁki dekhibi āra kāhiṁ
 <P>yujheṣṭhiṁka samāne tumbhe aṭa ho gosāiṁ | 22 |
-<P>gchāmure birāṭa thoilāka neiṁ śāḍhī
+<P>chāmure birāṭa thoilāka neiṁ śāḍhī
 <P>ājahuṁ gosāiṁ tumbhe āstāne adhikārī | 23 |
 <P>nārāẏaṇa sumari konte ābharaṇa kale basana
 <P>śrīhaste nei āpaṇe thoile sannidhāna | 24 |
@@ -3713,7 +3713,7 @@
 <P>karasthaḷuṁ bege kāḍhi thoilā abanī | 119 |
 <P>āgo sairindhrī aṭu tumbhe mohora rājye gaurobī
 <P>muhiṁ kemante tumbhaṁku śāḍhī upara hāthe debi | 120 |
-<P>gchāmure śāḍhī nei thoilāka matsa rājarāṇī
+<P>chāmure śāḍhī nei thoilāka matsa rājarāṇī
 <P>narāẏaṇa sumariṇa ghenisi mahātmaṇī | 121 |
 <P>śrīhariṁki laẏekari śāḍhī se ghenile
 <P>birāṭara anteśvare sairindrī hoiṇa rahile | 122 |
@@ -4061,7 +4061,7 @@
 <P>gorehā boile mote tohora tahiṁki peṣile kamaḷakara
 <P>rātraka buli tu aśvagoṭi debu ye āmbhara | 140 |
 <P>kṣetrapāḷa boilā tu thāāsi āmbhara pachakati
-<P>gchāḍile aśvaku gheniyimuṁ tu tatakṣaṇānti | 141 |
+<P>chāḍile aśvaku gheniyimuṁ tu tatakṣaṇānti | 141 |
 <P>bhramai kṣetrapāḷa niśi kaṭuāḷa
 <P>tuleṇa tāhāra goḍāiacchi gorehā kṣetrapāla | 142 |
 <P>ẏekā rātrake bulilā se tetiśa koti pura
@@ -4071,7 +4071,7 @@
 <P>gorehā boilā mote deukinā haẏe
 <P>rātra pāhilā āditya hoibe udaẏe | 145 |
 <P>se kṣetrapāḷa boilā muṁ āditya debatāṁku kahiacchi
-<P>gchāḍile aśvaku nemuṁ mo tule thāāsa | 146 |
+<P>chāḍile aśvaku nemuṁ mo tule thāāsa | 146 |
 <P>satyayuga sataralakṣa aṭhāiśa sahasra barṣa galā
 <P>bhojane śaẏane aśva dibārātre na chāḍilā | 147 |
 <P>dineka aśva bāga dhailā gorehā
@@ -7227,7 +7227,7 @@
 <P>ẏeghānti janama lo tumbhe hua mahanarkī | 60 |
 <P>chāṇḍāḷa ghare yāi janmahua karme
 <P>uttiṣṭa bhakṣakara lo ẏethira ye anukarme | 61 |
-<P>gchāra pāmerī lo dūṣita jātihīna
+<P>chāra pāmerī lo dūṣita jātihīna
 <P>starīkuḷe tumbhanta loke kariba lekhana | 62 |
 <P>poḍu poḍu banada lo nr̥pāa kiṁpe lajjā
 <P>yāa tumbhe janme janme paradāreṇī hoi nija svāmīṁki kara tejyā | 63 |
@@ -7847,7 +7847,7 @@
 <>kīcakara lāñcchanā@}
 <P>dropatī binaẏa dekhiṇa kamaḷa locana
 <P>mahābhaẏa upujilā se jagata dhāraṇa | 1 |
-<P>gchāẏā māẏā beni debīnta se sannidhye hakāri
+<P>chāẏā māẏā beni debīnta se sannidhye hakāri
 <P>mañchapurakaiṁ yiba thiba sairindhrīki ābori | 2 |
 <P>kīñchakar abhmabanaku ye yāuacchi jighasenī
 <P>bahana kari tāku āsa tumbhe gheni | 3 |
@@ -7895,7 +7895,7 @@
 <P1>18|1 tohore rakṣā mote achai re saṁghāta |--da, ga, ṇa
 [MBO-05-299]
 <P>ẏekalaẏe kariṇa kīñchaka karai dr̥ṣṭi
-<P>gchāmure sairindhrī thoile supātra lekhagoṭi | 22 |
+<P>chāmure sairindhrī thoile supātra lekhagoṭi | 22 |
 <P>tahiṁra upare thoilā catusama goṭiẏe
 <P>dhātikāre leuṭile paiṇa mahābhaẏe | 23 |
 <P>āsante kīñchaka ye uṭhai taḍati
@@ -8411,7 +8411,7 @@
 <P>sohoḍa sundara bābu bīrabara sāmarathā
 <P>tohara abhabe śatr̥ mote hoilā kaḷantā | 123 |
 <P>konte boile ho birāṭa raha raha
-<P>gchāḍa ẏebe trodhagata kathā dusaha | 124 |
+<P>chāḍa ẏebe trodhagata kathā dusaha | 124 |
 [MBO-05-380]
 <P>paradeśī chāragaṇe thāāntiṭi gupate
 <P>śatr̥ kaḷibeṭi tohora birasa hoante | 125 |
@@ -8421,7 +8421,7 @@
 <P>ẏebe gosāiṁ tumbhe ye yāhāra rājyakaiṁ yibā | 127 |
 <P>mora bhāgye nāhiṁ tumbhanta sebā karibāku
 <P>sarbadāẏe anagr̥ha karithibā muku | 128 |
-<P>gchāḍili nija rājya samapdara āśā
+<P>chāḍili nija rājya samapdara āśā
 <P>gamibai nānā tīrtha pinddhabaiṁ bāsa kaṣā | 129 |
 <P>konte boile rājā nohaiṭi ẏemanta
 <P>binā yuddhe śatr̥ku ghuñchibā nohai yukata | 130 |
@@ -8813,7 +8813,7 @@
 <P>śrīkare macchādhipa ghenilā khaḍaga phaḷā | 27 |
 <P>bikramasiṁgha yehne khepai pādagati
 <P>tesaneka śobhābana ye birāṭa maharathī | 28 |
-<P>gchāgaḷa pale yehne paśai mattabyāghra
+<P>chāgaḷa pale yehne paśai mattabyāghra
 <P>tesaneka samara karai birāṭa atibega | 29 |
 <P>khaṇḍāẏeka gheniṇa ye piṭilā birāṭai
 <P>gajara kumbhasthaḷa benikhaṇḍa hoi cchiḍai | 30 |
@@ -9452,7 +9452,7 @@
 <P1>143 śuṇa baibasuta manu agastiṁka bāṇi
 <>asaṁkṣepa kathā ye kahibā pariṇāmi |--ga, ṭa, ñja
 [MBO-05-419]
-<P>gchāḍidyante trigartta ye ẏeṇe paḷāilā
+<P>chāḍidyante trigartta ye ẏeṇe paḷāilā
 <P>pāṇḍabanta saṅge gheni macchādhipa galā | 144 |
 <P>āpaṇā kaṭake yāiṁ hoile prabeśa
 <P>rājya prajā dekhi sarbe hoile ye toṣa | 145 |
@@ -9723,7 +9723,7 @@
 <P>tāhāra tule āmbhara nicaẏeṭi dvanda | 115 |
 <P>upahāsa karuchanti se kauroba bīre
 <P>dhaiṁṇa sahadeba miḷilā rājāra chāmure | 116 |
-<P>gchāra boli tāhākaiṁ kale sarbe heḷā
+<P>chāra boli tāhākaiṁ kale sarbe heḷā
 <P>rājāra chāmure prabeśa gopāḷa mahābīrā | 117 |
 <P>bāma ḍāhāṇe beni lauḍi bulāi
 <P>driyodhana rathe se prahāra kalā nei | 118 |
@@ -10004,7 +10004,7 @@
 <P>sannidhye ubhāri achanti pādānti sainimāne | 1 |
 <P>jhāḷa rudhira tra paṇḍa tantrīpāḷa gopāḷara kāẏe
 <P>śarīra diśai tāra pāṭaḷi puṣya prāẏe | 2 |
-<P>gchāmure tantrīpāḷa karai guhāri
+<P>chāmure tantrīpāḷa karai guhāri
 <P>surabara sundara sohaḍa kumāramaṇi hoiba abadhārī | 3 |
 <P>kuñjagaḷa deśa rājā mānacakrabratī
 <P>godhana pala hari e neucchi āja rāti | 4 |
@@ -10673,7 +10673,7 @@
 <P>uttara kumarakai goḍāi dhailā phālaguni | 115 |
 <P>koḷa kariṇa arjuna dhailā ātroṣa
 <P>śireṇa kara tāḍi uttara kumara basi | 116 |
-<P>gchāḍa chāḍa br̥hannārī daini karai tote
+<P>chāḍa chāḍa br̥hannārī daini karai tote
 <P>mahābhaẏa lāgilā mote dharu tu kisa arthe | 117 |
 <P1>117|2 ÔøΩdharu tu kisa artheÔøΩ ehi pādānta pare ÔøΩdaÔøΩ pothire pāṭha :--
 <P1>bhagati karucchi sakhi mote kara rakṣā
@@ -11215,7 +11215,7 @@
 <P>pāde pEli rādhā tāhā pakāilā dūrakari | 73 |
 <P>rādhāra birahe se nirāśa upabāse
 <P>niāśri basile hari rātra ye dibase | 74 |
-<P>gchāḍibaiṁ sarba cintā boile na maribi kaṁsa
+<P>chāḍibaiṁ sarba cintā boile na maribi kaṁsa
 <P>manuṣya kāẏā chāḍibi yibi nija bāsa | 75 |
 <P>hariṁka nirāśa dekhi bijaẏe debabrahmā
 <P>nārāẏaṇakaiṁ prasanna ye hoile mahātama | 76 |
@@ -12943,7 +12943,7 @@
 <P>bhīṣma droṇa chāmure nandighoṣa yāiṁ bheṭi | 23 |
 <P>yesaneke mandara hemabanta ākroṣi
 <P>kauroba sainiki nandighoṣa tesaneka diśi | 24 |
-<P>gchāmure arajuna karai sambhaṣa
+<P>chāmure arajuna karai sambhaṣa
 <P>bhīṣme peśile ye nārājā āśiṣa | 25 |
 <P>lāghaba bāṇeka ye bindhai phālaguni
 <P>bhīṣmaṁkara caraṇe se karai daẏinī | 26 |
@@ -13353,7 +13353,7 @@
 <P1>kauroba sainiṁki ẏekā byapilā kirīṭī |
 [MBO-05-567]
 <P>uttara boilā svāmī tohora ākraṣaṇa yemanta
-<P>gchāgaḷa prāẏeka diśanti kauroba samasta | 201 |
+<P>chāgaḷa prāẏeka diśanti kauroba samasta | 201 |
 <P>kaurobe sodara tora aṭanti yugate
 <P>samarakuiṁ ārambha tu kalu kisa arthe | 202 |
 <P>svāmī uprodha yebe basiba chatrīṁkara kāryye
@@ -14100,7 +14100,7 @@
 <P>teṇukari bhitare paśi na dileka hāde | 17 |
 <P>uttara kumāra yāiṁ prabeśa bhitare
 <P>rathagheni br̥hannārī rahiachai siṁghadvāre | 18 |
-<P>gchāmure uttara kumāra karai draśana
+<P>chāmure uttara kumāra karai draśana
 <P>niropiṇa chāhāṁi se kontaṁkara badana | 19 |
 <P>prathame bandilā kontaṁka śrī padmapāda goṭi
 <P>ẏehi caraṇa taḷeṭi lakṣe rājāṁkara śiraloṭi | 20 |
@@ -14268,7 +14268,7 @@
 <P>abhiṣeka hoi āmbhe yibā ẏethuṁ chāpe
 <P>indrapraśasta rājya māḍi basibāka dhāpe | 92 |
 <P>ābara dhr̥tirāṣṭa puanta nāhiṁ mora oprodha
-<P>gchāḍili sudaẏā ẏebe ārambha li yuddha | 93 |
+<P>chāḍili sudaẏā ẏebe ārambha li yuddha | 93 |
 <P>sahadeba boile deba ẏe tohora satya
 <P>śamībr̥kṣa taḷe deba bahai mahātīrtha | 94 |
 <P>maghadeśa matsadeśa pūrba pacchima beni
@@ -14293,7 +14293,7 @@
 <P>kebaṇa dibasaku yogāi anakūḷa bidhāna | 104 |
 <P1>102|2 ẏemanta pabitra rājya nāhiṁ tribhmabane |--tha, da, ja, jha
 [MBO-05-602]
-<P>gchāmure sahadeba kahai pariṇāmi
+<P>chāmure sahadeba kahai pariṇāmi
 <P>ẏeta makara masa pabitra debasvāmī | 105 |
 <P>makara māsa śukaḷa pakṣa tithi ye cauṭhī
 <P>arkabāra rebatī nakṣatra tahiṁ ghaṭi | 106 |
@@ -14427,7 +14427,7 @@
 <P>sannidhye bijekale deba banamāḷī
 <P>paẏare yāiṁ śrīkr̥ṣṇa karanti niugchāḷi | 54 |
 <P>ānande aneka ye prārthanā bākya boli
-<P>gchāmure nārāẏaṇa śutile gaḍaghāli | 55 |
+<P>chāmure nārāẏaṇa śutile gaḍaghāli | 55 |
 <P>dekhiṇa yujheṣṭhi deba uṭhile dhātikāre
 <P>śrībhmaje nārāẏaṇaṁku toḷi dhaile yāiṁ koḷe | 56 |
 <P>digapāḷamāne samasteheṁ uṭhi
@@ -15343,7 +15343,7 @@
 <P>dekhile drahasita badane tāhāku | 176 |
 [MBO-05-641]
 <P>birāṭa dekhilā yahuṁ drahasita badanagoṭi
-<P>gchāmure matsyesvara rahilā parameṣṭhi | 177 |
+<P>chāmure matsyesvara rahilā parameṣṭhi | 177 |
 <P>bhīmasena boilā birāṭa tu dvāre thaa rahi
 <P>ṭhākuraṁka āgyāṁ hoile bhitaraku chāḍipārai muhim | 178 |
 <P>ẏemantara samaẏe arjuna chāhiṁlā ye āstāna taḷe thāi
@@ -15878,7 +15878,7 @@
 <P>tohora āmbhara pūrbe achai ẏesaneka bandhu yoga | 156 |
 <P>kara yāiṁ utsaba ho bibhāra bidhāne
 <P>caḷai birāṭa ye sānanda toṣamane | 157 |
-<P>gchāẏā maṇḍopa ye nirbāṇile nr̥pamaṇi
+<P>chāẏā maṇḍopa ye nirbāṇile nr̥pamaṇi
 <P>pāñchakośa āẏatana gcaẏā maṇḍope parimāṇi | 158 |
 <P>śuddha saṣṭika stambha ye kaṇaẏa chāẏeṇi
 <P>tathira upare panti panti mukutā ratnamaṇi | 159 |
@@ -15911,7 +15911,7 @@
 <P>aḷakāpura jāṇi kuberara ghaṭe | 170 |
 <P>taḷe saṣṭikara pīḍha kanakabanda biḷā
 <P>pābacche birājanti māṇikya jharā poẏeḷā | 171 |
-<P>gchāẏāmaṇḍopa ghaṭita ẏesaneka bidhi
+<P>chāẏāmaṇḍopa ghaṭita ẏesaneka bidhi
 <P>ki aba ratana ye lāgila pañchu nidhi | 172 |
 <P>poẏekāra bande ye mukutā causarā
 <P>lambanti nirantare māṇikyara jharā | 173 |
