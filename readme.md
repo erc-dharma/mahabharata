@@ -20,3 +20,7 @@ The `orig` directory contains Arlo's original data (which dates from august
 ignore the original data. We don't have access to the original converter.
 Apparently, there are transliteration problems between the original (Malten) and
 the generated (UR).
+
+To help identify problems, I created four additional files. malten_full.txt, iast_full.txt and ori_full.txt hold the full text of the respective versions, concatenated into a single file, and without markers. missing_full.txt is a new version of missing_alpha.txt.
+
+There are about 40 less lines in malten_full than in iast_full and ori_full, probably because some markers from malten_full where incorrectly transliterated. In malten_full itself, there are quite a few weird character sequences, like "coÔøΩkhaÔøΩ", which are preserved in iast_full but obviously should have been transliterated to something more meaningful.
