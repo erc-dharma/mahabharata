@@ -15,8 +15,8 @@ not know how to transliterate.
 
 The `orig` directory contains Arlo's original data (which dates from august
 2009). Within this dir, `Text_Files_(UR)` (in IAST) is generated from
-`Text_Files_(Malten)` (in SLP1 or sth) and is newer by a week. The date of
-`Text_files_problems` is unknown. We assume the IAST data is up-to-date and
+`Text_Files_(Malten)` (in SLP1 or some such encoding) and is newer by a week. The file
+`Text_files_problems` was created and last edited on 2009-08-21. We assume that the IAST data is up-to-date and
 ignore the original data. We don't have access to the original converter.
 Apparently, there are transliteration problems between the original (Malten) and
 the generated (UR).
