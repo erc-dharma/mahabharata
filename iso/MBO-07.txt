@@ -126,8 +126,8 @@ paṣī bibaraṇa ...142
 <P>bañchali kr̥tāntaka bhaẏaru nātha tohora parasāde | 31 |
 <P>manmatha sundara nīḷendī yāra barṇṇa
 <P>draśane harai sakaḷa bighnamāna | 32 |
-<Poem>12| 1 <P>saragaṇā--eka prakāra bīṇa, bādvayaei biśeṣa |
-<P>adhāṭi--kāṭha bā rimatāli pari eka prakāra bādya |
+<P1>12 | 1 saragaṇā--eka prakāra bīṇa, bādvayaei biśeṣa |
+<P1>12 | 1 adhāṭi--kāṭha bā rimatāli pari eka prakāra bādya |
 [MBO-07-4]
 <H>{@śiba o biṣṇuṅkara staba@}
 <P>jaẏa jayḷa nātha kāmenī mohana manasija
