@@ -1167,7 +1167,7 @@
 <P>haẏihaẏa baṁśe śveta nāme nr̥pati
 <P>debayāga karibāku kalpaṇā kalā mati | 154 |
 <P1>149| tāhāra tule yete loka huanti śramī
-[$}brāhmaṇa heu ki chāṇḍāḷa heu abaśya huanti svargagāmī |(ṛa, cha, ca)
+<>brāhmaṇa heu ki chāṇḍāḷa heu abaśya huanti svargagāmī |(ṛa, cha, ca)
 <P1>151|2 aśvamedha yāga muṁ kariacchi yāhā |(gha, ḍha)
 <P1>152|2 tumbha anarūpe mote yāganika debā |(cha, gha)
 [MBO-11(1)-43]

@@ -1,4 +1,4 @@
-[MBO-10(2)-Titel-01]
+[MBO-10(2)-title1]
 <H>{@nārī parba@}
 [MBO-10(2)-1]
 <H>{@sāraḷā mahābhārata

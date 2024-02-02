@@ -7,12 +7,12 @@
 <P>oṛiśā sarakāraṅka
 <>sāṁskr̥tika byāpāra bibhāga
 <>dvārā prakāśita
-[MBO-09(1)-Title03]
+[MBO-09(1)-title3]
 <H>{@sāraḷā mahābhārata
 <>karṇṇa parba@}
 <>#{mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka:
 <>{@padmaśrī ḍakṭara (?)ārttaballabhi mahānti,@} em. e., ḍi. liṭ., padmaśrī
-[MBO-09(1)-Title04]
+[MBO-09(1)-title4]
 <P>prathama mudraṇa
 <>1973
 <>oṛiśā sarakāraṅka
@@ -22,7 +22,7 @@
 <>śrī rajanī kānta pāṛhī
 <>śāradā pres
 <>brahmapura (gañjāma)
-[MBO-09(1)-Title05]
+[MBO-09(1)-title5]
 <H>{@karṇṇapaboṅg@}
 <H>biṣaẏa pr̥ṣṭhāṅka
 <P>1| droṇaṅkara pūrba śāpara bibaraṇa, karṇṇaṅku senāpatittve
