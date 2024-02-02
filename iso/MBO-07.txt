@@ -168,7 +168,7 @@ paṣī bibaraṇa ...142
 <P>śrī puruṣottama nāma goṭi mo hr̥de kamaḷa māḷa | 16 |
 <P>tulūsāra ballabha nātha caraṇe muhiṁ nitye sebi
 <P>badaẏanti śr̥dramuni sāreḷā dāsa kabi | 17--49
-<H2>{@śāraḷāṅka bandanā@}
+<H>{@śāraḷāṅka bandanā@}
 <P>kr̥pājaḷa ruṣiṁkara koḷeṇa utapati
 <P>satyapuge nāma yāra narmadā sarasvatī | 1 |
 <P>kalikāḷa dhaṁsinā go jaṅkherapura bāsī
@@ -192,7 +192,7 @@ paṣī bibaraṇa ...142
 <P>muṁ tote pāili go janne janne dhāhi | 8 |
 <P>śrī caṇḍi sārelāṁkara śrī caraṇe dainī
 <P>mukatiki icchilā sāroḷā dāsa muni | 9--58 |
-<H3>{@duryyodhana bhīṣmaṅku senāpati pade baraṇa karibā@}
+<H>{@duryyodhana bhīṣmaṅku senāpati pade baraṇa karibā@}
 <P>ẏethu anantare rājā baibasuta manta
 <P>pādārghyeṇa pūjilā brahmabetti tanta | 1 |
 <P>sādhu mahātamā se paṇḍita agasti
@@ -731,7 +731,7 @@ paṣī bibaraṇa ...142
 <P1>131 pada pare anya pothire adhikā pāṭha --
 <>tuhi hari muhiṁ hari sakala jīde hari
 <>sabuṭhāre sehi prabhma rahicchhanti puri |
-<H3>(abiśiṣga para pr̥ṣṭhāre)
+<>(abiśiṣga para pr̥ṣṭhāre)
 [MBO-07-26]
 <P>putrara bacane kopilā hiraṇya prataṣa
 <P>gajante kampi le mahī sura siddha yaṣa | 133 |
@@ -914,7 +914,7 @@ paṣī bibaraṇa ...142
 <P>brahmaru chāṇḍāla sabu ẏeka kalā tāra aṅga | 220 |
 <P>śrī narasiṁgha nātha caraṇe karai dainī
 <P>praṇapatya nitye sārelā dāsa mūni | 221--384 |
-<H3>bhūriśrabāṅka dvārā śrīkr̥ṣṇa o arjunaṅka bīratya barṇṇona
+<H>bhūriśrabāṅka dvārā śrīkr̥ṣṇa o arjunaṅka bīratya barṇṇona
 <>rathīmānaṅku sainya baṇuna
 <P>āho caitana bhūrisac bonṅaẏe kahile kaureba sabhāẏe
 <P>sañsāra bratuacchi narasiṁgha dhyāẏe | 1 |
@@ -1127,7 +1127,7 @@ paṣī bibaraṇa ...142
 <P>kaureba nātha manuṁ bhrānti ye upeṣi | 94 |
 <P>bājai jaẏeśaṅga śubhai ye maṅgala
 <P>samaraku rājāẏe karanti anakūla | 95--479 |
-<H3>daibaṅka praśna o bhīṣmaṅka saha anukūla pāiñ
+<H>daibaṅka praśna o bhīṣmaṅka saha anukūla pāiñ
 <>kathopakathana
 <P>sudeba paṇḍitaṁku hakāriṇa rāẏe
 <P>baraṇa bidhāne ye bahuta pūjā bidhi kaẏe | 1 |
