@@ -1,5 +1,6 @@
 [MBO-07-title1]
-<P>sa1rala1 maha1bha1rata bhi1s2ma parva
+<H>{@sāraḷā mahābhārata
+<>bhīṣma parba@}
 <P>prathama mudraṇa
 <P>1965
 <P>oṛiśā sarakāraṅka
@@ -6756,8 +6757,8 @@ paṣī bibaraṇa ...142
 <P>kāṇī deśara rājā nāma kāmeśvera
 <P>bhaireba sārathi ye tāhāra rathara | 45 |
 <P1>34|2 kumbhaṁkara nandana se anaṅga sadāśiba (gha,ṭa)
-<P1>37|1 {mahḷāra deśara gajā aṭai bajraketi | (ṅa,jha)
-$}mandāra deśara rājā aṭai mandakeśī | (ñja,tha,na)}
+<P1>37|1 mahḷāra deśara gajā aṭai bajraketi | (ṅa,jha)
+<>mandāra deśara rājā aṭai mandakeśī | (ñja,tha,na)
 <P1>41|1 bhagadattara nandana ye kumāra manamatha | (ñja,jha,ṇa)
 <P1>43|2 tāhāṁkara rathe anupama manuratha | (ṅa,cha,na)
 [MBO-07-242]

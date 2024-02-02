@@ -5,7 +5,7 @@
 <>1970
 <>mudrākara
 <>śrī caudhurī śibarāma dāśa, em. e.
-{$$}śatadaḷa pres
+<>śatadaḷa pres
 <>kaṭaka-9
 [MBO-11(3)-title3]
 <H>{@sūcīpatra
