@@ -76,7 +76,6 @@ paṣī bibaraṇa ...142
 <P>daṣi ṇa danta bhagnagalī anujara kopa catte | 7 |
 <P>se bhagnadanta paḍḍalī upare pr̥thī se bhagnadantabhare | 8 |
 [MBO-07-2]
-<H1>{@mahābharata@}
 <P>yahuṁ se baḍa ārata hoilī dharaṇī
 <P>basudhā rāsāiṅgate tusti kale śūḷapāṇi | 9 |
 <P>sacarācara pr̥thibīki ḍaddhara parśupāṇi
@@ -9214,7 +9213,7 @@ $}mandāra deśara rājā aṭai mandakeśī | (ñja,tha,na)}
 <P1>203|2 kaṣā--pratiñṅka,kīrtti |
 [MBO-07-329]
 <H>{@bhīṣmaparbara adhikā pāṭha@}
-<H1>320 pr̥ṣṭhā 1072 pāṭha pare "dha" pothire:-
+<H>320 pr̥ṣṭhā 1072 pāṭha pare "dha" pothire:-
 <P>śrīkhaṇḍī dhr̥ṣṭaketu ye hoilā sāṁgrāma
 <P>bhīṣme sāṁgrāma kale hoiṇa abiśrāma | 1 |
 <P>sañjaẏa bolanti ho dhr̥tirāṣṭa rāṇa
