@@ -1,9 +1,13 @@
 """
-[MBO-01(1)-1] before each new page; some MBO stuff are transliterated
-but shouldn't be; we also have some parts of the text still in SLP1,
-check uppercase chars.
+[MBO-01(1)-1]
+[MBO-11(2)-title3]
 
-<H>	heading: bigger font, bold and center
+	before each new page; means vol. 1 part 1, p. 1 and so on
+
+we have some parts of the text still in SLP1, check uppercase chars.
+
+<H>	heading: bigger font, bold and center. no distinction
+	between headings levels
 
 	Headings can have cont. lines, as in:
 
