@@ -1,10 +1,6 @@
 """
-Pseudo-tags:
- 172987 <P>
-  17750 <P1>
-    101 <H1>
-
-[MBO-01(1)-1] before each new page
+[MBO-01(1)-1] before each new page; some MBO stuff are transliterated;
+we also have some parts of the text still in SLP1.
 
 <H>	heading: bigger font, bold and center
 
