@@ -5,6 +5,8 @@ Scans are available at https://archive.org/details/odia-mahabharata. Portions of
 * vol. 3 part 2 p. 632
 * vol. 6 p. 344
 * vol. 10 part 4
+* vol. 1 pp. 1058-9 (also missing in scans)
+
 
 Vol. 7 in particular was not input reliably.
 
