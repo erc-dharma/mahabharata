@@ -4507,7 +4507,7 @@ paṣī bibaraṇa ...142
 <P>śūdramūni sāroḷa dāsara nārāẏaṇa pañchuprāṇa | 227 |
 <P>janna maraṇa kāḷara tuhi deba sāhā
 <P>bhegya karanti jana jantu tuhi karu yāhā yāhā | 228 |
-<Poem>namaste dinamaṇi hoibā prasanna
+<P1>namaste dinamaṇi hoibā prasanna
 <P>sāreḷā dāsa nitye sebai caraṇa |
 <P>ẏethu anantare śuṇa ho yogeśvara
 <P>badaẏanti agasti ye kumbharūṣiṁka kumara |
