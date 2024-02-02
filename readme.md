@@ -4,11 +4,13 @@ Scans are available at https://archive.org/details/odia-mahabharata. Vol. 2 is m
 
 Portions of the text are missing in the plain text version:
 
-* vol. 3 part 2 p. 632
+* vol. 1 part 2 pp. 1058-9 (also missing in scans)
+* vol. 2 part 1 pp. 60-5, 219-21, 237-9; part 2 pp. 676-7, 1125-40
+* vol. 3 part 2 pp. 632, 652
+* vol. 5 pp. 164-5 (also missing in scans)
 * vol. 6 p. 344
 * vol. 10 part 4
-* vol. 1 pp. 1058-9 (also missing in scans)
-
+* vol. 11 part 3 pp. 214-5
 
 Vol. 7 in particular was not input reliably.
 
