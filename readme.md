@@ -1,5 +1,7 @@
 # ସାରଳା ମହାଭାରତ: Sāraḷā Dāsa's Mahābhārata
 
+Scans are available at https://archive.org/details/odia-mahabharata. Note that vol. 10 part. 4 is scanned but is not available in plain text.
+
 The `iso` directory contains the "work" version viz. the one that should be
 amended if need be.
 
