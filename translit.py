@@ -98,7 +98,6 @@ other = {
 	"9": D("nine"),
 	"|": "\N{devanagari danda}",
 	"||": "\N{devanagari double danda}",
-	"'": "\N{oriya sign avagraha}",
 	"ḥ": "\N{oriya sign visarga}",
 	"ṁ": "\N{oriya sign anusvara}",
 }
