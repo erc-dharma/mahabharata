@@ -47,7 +47,7 @@
 <P>se amr̥ta dr̥ṣṭire prasanna hoa bege || 17 |
 <P1>12|2 rāmaghāṭa tīrthe saṅgama hoile prasiddhi |
 <P1>7|1 sāṁgrāma–sañgrāma,tripurā-tripurastha asuraṅku |
-<P1>10 |1 śāhāsra=śāsra |
+<P1>10|1 śāhāsra=śāsra |
 <P1>11|2anakūḷa-anukūḷa | 14|2 tribeṇī-gaṅgā, yamunā, sarasvatī |
 <P1>14|2 snāhāna = srāhāna = snāna 15|2 talaẏe–seṭhāre laẏakari |
 [MBO-01(1)-3]
@@ -9204,7 +9204,7 @@
 <P1>34 driyodhana boilā sapakṣa hoilā mohora |
 <P1>38|2 aneka deśa ghoṣa pāile hāde dāne |
 <P1>39|1 śuṇa ho rājana puṇa karānti bidyā upadeśamāna |
-<P1>39| 1 upāsanā–sebā
+<P1>39|1 upāsanā–sebā
 [MBO-01(1)-323]
 <P>ẏekānta kariṇa rāile droṇe āpaṇāra baḷā
 <P>ẏethi thile nandana re maribu, bahana hoi paḷā | 46 |
