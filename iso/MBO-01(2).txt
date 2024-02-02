@@ -1047,7 +1047,7 @@
 <P>yesane narasiṁgha hiraṇya biḍāraṇa kāḷe | 163 |
 <P>yujheṣṭhi dekhi trāsile bhīmasenara mūrtti
 <P>bhaẏeṇa kehi āsi nuāranti kati | 164 |
-<P1>164|2 ``bhaẏeṇa kehi āsi nuāranti kati'' –pāda pare adhikā pāṭha–
+<P1>164|2 “bhaẏeṇa kehi āsi nuāranti kati” –pāda pare adhikā pāṭha–
 <P1>bhaẏa kale dekhi sehi kāḷāntaka mūrtti
 <P1>bhīma dekhi bhīta hele mātā debī kuntī |
 [MBO-01(2)-614]
@@ -2540,7 +2540,7 @@
 <P>pañchāḷa deśe yāiṁ prabeśa turita | 3 |
 <P>bijaẏasena boliṇa aṭai tāra mantrī
 <P>pāñchāḷa deśe yāiṁ prabeśa taḍati | 4 |
-<P1>104|2 ``bichāri dropada pāḷai śubhrakeśī'' pādānta pare anya pothire
+<P1>104|2 “bichāri dropada pāḷai śubhrakeśī” pādānta pare anya pothire
 <>adhika pāṭha –
 <P1>ucchaba kariṇa dine bolai nr̥pati
 <P1>duhitāra nāma dia miḷi biprayati |
@@ -2636,7 +2636,7 @@
 <P>karṇṇara tule jadyarathaku maitra karāilā | 42 |
 <P>aneka binoẏi ye hoilā karṇṇaku
 <P>duśīḷā kanyaku pradāna kara jadyarathaku | 43 |
-<P1>39 ``pāṇḍabaṅku deba yebe tāhāra kumārī |'' pādānta pare anya
+<P1>39 “pāṇḍabaṅku deba yebe tāhāra kumārī |” pādānta pare anya
 <>pothire –
 <P1>pāṇḍabamāne galeni jatu ghare jaḷi
 <P1>ābara kāhāku deba dr̥pada dulāḷī |
@@ -2968,12 +2968,12 @@
 <P>mohora nāma tuḷākarṇṇa muṁ aḷakā catrabratī | 35 |
 <P>amarīdhi nāthara muṁ bhaṇḍāra adhikārī
 <P>mohora mātāra nāma padmābatī apakṣarī | 36 |
-<P1>31|2 ``anusari tāhā bhagata makṣaḷa nātha śuṇi'' pare pothi biśeṣare bhinna pāṭha –
+<P1>31|2 “anusari tāhā bhagata makṣaḷa nātha śuṇi” pare pothi biśeṣare bhinna pāṭha –
 <P1>rāma pāridhire āsithilā tuḷākarṇṇa
 <P1>rodana śabada śuṇi kalā hetu gyāna |
 <P1>tāhāra sannidhye yāi miḷilā gandhabong
 <P1>kebaṇa karaṇe kāndu kaha mora āga |
-<P1>36|2 ``mohora mātā nāma padmābatī apakṣarī'' pādānta pare bhinna pāṭha –
+<P1>36|2 “mohora mātā nāma padmābatī apakṣarī” pādānta pare bhinna pāṭha –
 <P1>mohora bhāriyā ye ballabha nāme nārī
 <P1>rutu saṅyoga ye hoilā tāhāri |
 <P1>31|2 bhagata makṣaḷa – bhakata batsaḷa |
@@ -4142,7 +4142,7 @@
 <P>pua jhia beni goṭi brāhmaṇa brāhmaṇī
 <P>basiṇa rodana ye karanti chāri prāṇī | 125 |
 <P1>119|1 ẏesaneka samaẏe bichāriṇa māẏe |
-<P1>120|2 ``māgo pāda śauca karibā bahana dia pāṇi'' pādānta pare adhikā pāṭha –
+<P1>120|2 “māgo pāda śauca karibā bahana dia pāṇi” pādānta pare adhikā pāṭha –
 <P1>bhīmasena tahiṁ pāṇi dilāka baḍhāi
 <P1>kāṭhuare goḍa dhoi bhitaraku gale chāribhāi |
 [MBO-01(2)-723]
@@ -5305,7 +5305,7 @@
 <P>ẏe kaṣṭa abasthāru karibā deba pāra | 66 |
 <P>he maheśvara deba taba caraṇe namami
 <P>caba padmapade śata sahasra daṇḍa pariṇāmi | 67 |
-<P1>63|1 ``dibaseka yebe bābu se sthānare rahi'' pādānta pare adhikā pāṭha |
+<P1>63|1 “dibaseka yebe bābu se sthānare rahi” pādānta pare adhikā pāṭha |
 <P1>kāṭha loḍi na yibā agni loḍi na yibā
 <P>nabatana hāṇḍi loḍile pāibā |
 <P1>ẏe ye śiśira śīta kāḷa lugā āmbhara nāhiṁ
@@ -5681,7 +5681,7 @@
 <P>dropatī boile śuṇ ago keśinī
 <P>ẏemāne kebaṇa deśaru aile sanya gheni | 1 |
 <P1>146|2 sukumārī stirīṅki ye bahuta aḷaṅkāra bhārā hoi |
-<P1>151|2 ``ẏehāra śobhā...pāiba'' padapare goṭie pothire adhikā pāṭha–
+<P1>151|2 “ẏehāra śobhā...pāiba” padapare goṭie pothire adhikā pāṭha–
 <P>ẏemanta bichāranti sakaḷa narasāiṁ
 <P1>dropatīki keśinī ye meḍhare basāilā nei |
 <P1>sabhāra madhyasthane meḍheka nirmita
@@ -7641,7 +7641,7 @@
 <P>teṇu semāne karanti jana manaṅkara maṅgaḷa abhyāsa | 468 |
 <P>duṣṭa rājāmāne bindha boli maṅgaḷa abhyāsi
 <P>daridra brāhmaṇakai dhana dei nemā śubhrakeśī | 469 |
-<P1>460 ``ẏeteka...garu dhuni'' – ehā pare duiṭi pothira adhikā pāṭha–
+<P1>460 “ẏeteka...garu dhuni” – ehā pare duiṭi pothira adhikā pāṭha–
 <P1>arjuna namaskāra kaḷe driyodhanaku
 <P1>sepiara samāna jyeṣṭhabhrātha āmbhaṅku |
 <P1>sabhāre yete baḍa baḍa loka thile
@@ -7841,7 +7841,7 @@
 <P>ẏehā śuṇi arjuna bichāre mane guṇi
 <P>dusaha saṅkaṭa mote nārāẏaṇa bihileka āṇi | 556 |
 <P1>549|2 rājāẏe nāsti karibe manda gyāṁnu |
-<P1>555|2 tohara āna sinā hoiba satyabrata'' – ehāpae goṭie pothira
+<P1>555|2 tohara āna sinā hoiba satyabrata” – ehāpae goṭie pothira
 <>adhikā pāṭha –
 <P1>ẏe kathā śuṇi arjuna bichārai mane
 <P1>saṅkaṭaru mote nātha tāribu kesane |
@@ -8126,7 +8126,7 @@
 <P>bhīmasena śarīra kampai romāñche | 683 |
 <P>śarīra kampante ye yujheṣṭhi debe chāhiṁ
 <P>kemanta he paṇḍāẏe tumbhe loḍa kinā yāi | 684 |
-<P1>680 ``māra māra boli dhāiṁle dvijabare'' pādānta pare chapābahira
+<P1>680 “māra māra boli dhāiṁle dvijabare” pādānta pare chapābahira
 <>adhikā pāṭha–
 <P1>anyāẏa kari kanyāku nebe yebe āja
 <P1>kāḷe kāḷe āmbhemāne pāibā nā lāja |
@@ -8252,7 +8252,7 @@
 <P>jaḷanā juire āsi deuachu jhāsa | 728 |
 <P>bahana dropatīki chaḍa re brāhmaṇa
 <P>hatyā na bichāri muṇḍa moḍibi ẏehikṣaṇa | 729 |
-<P1>726|2 ``maleheṁ jiṇimā nā bhmabana sañjībanī'' pādānta pare chapā bahire
+<P1>726|2 “maleheṁ jiṇimā nā bhmabana sañjībanī” pādānta pare chapā bahire
 <>adhikā pāṭha–
 <P1>dhr̥ṣṭādr̥mana boile go āsa yibā bege
 <P1>samudra parāẏe yoddhā āsuchanti bege |
@@ -10680,7 +10680,7 @@
 <P>śrirāma kr̥ṣṇaṅka caraṇe karanti daẏini | 13 |
 <P>dropada aneka kale arghyapūjā
 <P>garuḍa piṭhire bijekale debarājā | 14 |
-<P1>11|2 ``yogānanda puruṣa mote daẏā karithibā'' pādānta pare
+<P1>11|2 “yogānanda puruṣa mote daẏā karithibā” pādānta pare
 <>2 ṭi pothira adhikā pāṭha–
 <P1>yujheṣṭhi deba baḷarāmaṅku namanti
 <P1>kalyāṇa kale baḷadeba hoiṇa parama śānti |
@@ -11250,7 +11250,7 @@
 <P>sannidhe sundarī khaṭinti yighnasenī | 275 |
 <P>kumbhamāsa pūrṇṇamī ante cauṭhī
 <P>śaurībāra svātī nakṣatra beḷa beni ghaṭi | 276 |
-<P1>268|2 ``ẏekā duhitā kotiẏe puruṣa mukata kalu mohora'' pādānta
+<P1>268|2 “ẏekā duhitā kotiẏe puruṣa mukata kalu mohora” pādānta
 <>pare adhikā pāṭha–
 <P1>samasta pitr̥loka gale bikuṇṭhapurī
 <P1>ẏekā duhitā mora koṭiẏe puruṣa uddhari |
@@ -11326,7 +11326,7 @@
 <P>astāne bije karichanti kurusāiṁ | 308 |
 <P>sabhāẏeṇa bāsudeba bacana parakāśi
 <P>āho driyodhana pāṇḍabaṅku sambhaḷi thāasi | 309 |
-<P1>303|2 kāminī gaṇamāne dianti ``huḷahuḷi'' pādanta pare adhikāpāṭhi :–
+<P1>303|2 kāminī gaṇamāne dianti “huḷahuḷi” pādanta pare adhikāpāṭhi :–
 <P1>uchuḷe sakaḷa nagra parijana
 <P1>pāṇḍabanta dekhi dhāmanti toṣamana |
 <P1>kebaṇa stirī rūpabantī atanti atulya

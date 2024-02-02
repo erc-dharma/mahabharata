@@ -342,7 +342,7 @@
 <P>sodaranta chaḍiṇa maitra āśrekalu mote | 108 |
 <P1>100|2 thābake buḍilā rājā tinitāḷa gabhīre |(ṭa)
 <P1>101|1 chaṛiṇa dhuśāsanaku nadīkūḷare uṭhai |(ja, ṅa, gha, ta)
-<P1>104|2 ``ẏe rakatanadī pāra hoibāku kaha kisa buddhi'' pādānta pare
+<P1>104|2 “ẏe rakatanadī pāra hoibāku kaha kisa buddhi” pādānta pare
 `gha' pothire adhikā pāṭha :–
 <P1>ẏeteka boli pāda nadilā kurunātha
 <P1>rodhira nadīre sehu buḍile samasta |
@@ -1104,7 +1104,7 @@
 <P>ẏeteka pāpe muṁ hoai adhikārī
 <P>āditya asta pariyante yebe driyodhana na māri | 122 |
 <P1>120|2 mānagobindaku na mārile mātā go na chāhiṁbi tora mukha |(cha)
-<P1>122|2 ``āditya asta pariyante yebe driyodhana na māri'' ehi
+<P1>122|2 “āditya asta pariyante yebe driyodhana na māri” ehi
 <>pada pare `ba' o `ḍha' pothi dvaẏare adhikā pāṭha :–
 <P1>āśa dekhāi ye karai nirāśa
 <P1>lobha kariṇa ye rakhai brahmasva |
@@ -1926,7 +1926,7 @@
 <P>śeṣa kāḷe pāṇḍabe ki chaḍibe dharma ẏebe | 258 |
 <P>tumbhara thāṭare yebe rājā aṭai ho bhīma
 <P>rājāku hāde karibe nāhiṁki samaste pariṇāma | 259 |
-<P1>259|2 ``rājāku hāde karibe nāhiṁki samaste pariṇāma |''
+<P1>259|2 “rājāku hāde karibe nāhiṁki samaste pariṇāma |”
 <>ehi padapare `cha' pothire adhikā pāṭha :–
 <P1>śuṇi bhīmasena bolai bacana
 <P1>kr̥ṣṇa yujheṣṭhi namile chaḍibi parāṇa |
@@ -1959,7 +1959,7 @@
 <P>yujheṣṭhi deba kemante praṇapatya hoile bhīmāku | 269 |
 <P>dr̥ṣṭadumana nakuḷa sahadeba prabhma debarāja
 <P>ẏehāṁkara praṇipatye kiṁpe bhīmasena nohilā dahija | 270|
-<P1>260|2 ``ājahuṁ pañchu kaṭake hou rājā svāmī |'' ehi pada pare
+<P1>260|2 “ājahuṁ pañchu kaṭake hou rājā svāmī |” ehi pada pare
 <>`ca' ba' `ña' o `ḍha' pothire adhikā pāṭha :–
 <P1>māẏādhara puruṣa māẏāpuṇa kale
 <P1>haribaṁśa pothi nei bhīmasena kāndheṇa thoile |

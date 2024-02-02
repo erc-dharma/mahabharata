@@ -201,7 +201,7 @@
 <P>kebaṇa kr̥te guhāri achai tumbhara | 18 |
 <P>tohora bedanā dvija kaha mohora āge
 <P>muhiṁ karibi tāhā kr̥ṣṇaṁka anurāge | 19 |
-<P1>9|1 ``brāhmaṇī boilā paṇḍāẏe nuhaṁtumbhe bikiḷa'' kete
+<P1>9|1 “brāhmaṇī boilā paṇḍāẏe nuhaṁtumbhe bikiḷa” kete
 <>pothire bhinnapātha :–
 <P1>ẏe beḷeka dukha pāra hoiba āmbhara |
 <P1>a medha yāga ye karanti śrīpati baḷaka guhāri kara abaśya śuṇibe dā śa
@@ -2322,7 +2322,7 @@
 <P>rājyara bhitare yāiṁ paśilā bīra pāthe | 220 |
 <P>lakṣeka gaja ye benilakṣa haẏe
 <P>arjanakaim ogāḷinti pāridaṇḍa rāẏe śaẏe | 221 |
-<P1>216|2 ``ẏe sukumāra deha goṭi tu nāśa karāibu'' ehi pāṭha pare
+<P1>216|2 “ẏe sukumāra deha goṭi tu nāśa karāibu” ehi pāṭha pare
 <>`cha' pothire bhinma pāṭha :–[ehi pāṭha samicīna bodhahue]
 <P1>tāhākaiṁ bolai se kaḷapi rājāna
 <P1>ẏehi aśvayoguṁ mora bināśa sanyamāna |
@@ -2839,7 +2839,7 @@
 <P>bajra bighāta prāẏeka māilā ẏekamutha | 137 |
 <P>bhmajeṇa bhmaja dei dharādhari hoi
 <P>pādeṇa pādadei chandāchandi hoi | 138 |
-<P1>129|2 ``moḍhāsura carita śuṇa ho hanumāne'' pare `cha' pothire pāṭha :–
+<P1>129|2 “moḍhāsura carita śuṇa ho hanumāne” pare `cha' pothire pāṭha :–
 <P1>yujheṣṭhi aśvamedha yāga bidhvaṁsilā
 <P1>rāmakr̥ṣṇa sahiteṇa samasta jiṇilā
 <P1>pūrbe tāku bara deiachanti mahādeba
@@ -2896,7 +2896,7 @@
 <P>koḷarūpe nārāẏaṇa dhaile abalakṣa | 162 |
 <P>hiraṇākṣara bhrātha ye hiraṇyakaśipu
 <P>narasiṁha rūpe bidārile tāra bapu | 163 |
-<P1>153|2 ``moha tejile sacarācara bhakṣiba ẏehikṣaṇi'' pare `ḍa' pothire pāṭha–
+<P1>153|2 “moha tejile sacarācara bhakṣiba ẏehikṣaṇi” pare `ḍa' pothire pāṭha–
 <P1>hanumante boileka hasi hasi sahadeba
 <P1>kemante rākṣasa prāṇare nāśayiba |
 <P1>159 medāsura nandana pedāsura nāma
@@ -2978,7 +2978,7 @@
 <P>sañchapi kahibāku muhiṁ kisa sāmarathā | 199 |
 <P>yeteka hatyākari ābara pāpa doṣa
 <P>aśvamedha yāga kathā śuṇile huai sarbanāśa | 200 |
-<P1>193|2 ``askanda banaku se caḷigale hanumāne'' pare ``ka'' pothire pāṭha :–
+<P1>193|2 “askanda banaku se caḷigale hanumāne” pare “ka” pothire pāṭha :–
 <P1>ẏethu anantare yujheṣṭhi daṇḍadhārī
 <P1>bāhuṛi bijekale indra praśasta purī |
 <P1>ye bidhi purāṇe aśvamedha yāga kale
