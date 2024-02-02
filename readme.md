@@ -1,6 +1,8 @@
 # ସାରଳା ମହାଭାରତ: Sāraḷā Dāsa's Mahābhārata
 
-Scans are available at https://archive.org/details/odia-mahabharata. Portions of the text are missing in the plain text version:
+Scans are available at https://archive.org/details/odia-mahabharata. Vol. 2 is missing from scans but is available in plain text.
+
+Portions of the text are missing in the plain text version:
 
 * vol. 3 part 2 p. 632
 * vol. 6 p. 344
