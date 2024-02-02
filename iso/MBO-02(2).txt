@@ -1837,8 +1837,8 @@
 <P>dhanya re sundarī dhanya śobhā tuhi diśu
 <P>dhanya dhanya tuhi kuraṅgī baḷi naẏana prakāśu | 327 |
 <P1>319|1 puāṁi = śaṅkhuḷi |
-[ṁBO-02(2)-676] ṇīḷ
-[ṁBO-02(2)-677] ṇīḷ
+[MBO-02(2)-676]
+[MBO-02(2)-677]
 [MBO-02(2)-678]
 <H>{@śrīkr̥ṣṇa baḷarāmaṅka bidyā paṭhana@}
 <P>baibasuta manu pucchākale agastiṁki
@@ -14666,22 +14666,22 @@
 <P>ākāśagaṅgākūḷe parijātaka taru gheni
 <P>ẏesaneka samaẏe yāi miḷileka kuśapaṇi | 537 |
 <P1>534|2 ghoṭa = goḷa, anartha |
-[ṁBO-02(2)-1125]ṁissing
-[ṁBO-02(2)-1126]ṁissing
-[ṁBO-02(2)-1127]ṁissing
-[ṁBO-02(2)-1128]ṁissing
-[ṁBO-02(2)-1129]ṁissing
-[ṁBO-02(2)-1130]ṁissing
-[ṁBO-02(2)-1131]ṁissing
-[ṁBO-02(2)-1132]ṁissing
-[ṁBO-02(2)-1133]ṁissing
-[ṁBO-02(2)-1134]ṁissing
-[ṁBO-02(2)-1135]ṁissing
-[ṁBO-02(2)-1136]ṁissing
-[ṁBO-02(2)-1137]ṁissing
-[ṁBO-02(2)-1138]ṁissing
-[ṁBO-02(2)-1139]ṁissing
-[ṁBO-02(2)-1140]ṁissing
+[MBO-02(2)-1125]
+[MBO-02(2)-1126]
+[MBO-02(2)-1127]
+[MBO-02(2)-1128]
+[MBO-02(2)-1129]
+[MBO-02(2)-1130]
+[MBO-02(2)-1131]
+[MBO-02(2)-1132]
+[MBO-02(2)-1133]
+[MBO-02(2)-1134]
+[MBO-02(2)-1135]
+[MBO-02(2)-1136]
+[MBO-02(2)-1137]
+[MBO-02(2)-1138]
+[MBO-02(2)-1139]
+[MBO-02(2)-1140]
 [MBO-02(2)-1141]
 <P>ẏemantara samaẏare nārada munibara
 <P>prabeśa hoile yāi hemabanta pura | 163 |

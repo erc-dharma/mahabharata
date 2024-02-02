@@ -4370,8 +4370,8 @@
 <P>aṇḍira lakṣeka batsā duilakṣa māī | 89 |
 <P>ẏeteka gheniṇa se biharai mora goṣṭhe
 <P>yāiṁṇa rahalā se bidhyamāḷa parbata nikaṭe | 90 |
-[ṁBO-05-164]ṁissing
-[ṁBO-05-165]ṁissing
+[MBO-05-164]
+[MBO-05-165]
 [MBO-05-166]
 <P>pr̥thanā boilā sādhu sādhu ho birāṭa
 <P>baṁśai tora sādhu sādhu sādhu tora rāṣṭa | 114 |

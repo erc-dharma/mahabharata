@@ -1763,12 +1763,12 @@
 <P>arjuna boile deba śuṇimā baśyānara
 <P>khāṇḍaba bana dahane kopa karibe sunāśīra | 120 |
 <P1>107| 2 kaicchā = kakṣā |
-[ṁBO-02(1)-60]ṁissing
-[ṁBO-02(1)-61]ṁissing
-[ṁBO-02(1)-62]ṁissing
-[ṁBO-02(1)-63]ṁissing
-[ṁBO-02(1)-64]ṁissing
-[ṁBO-02(1)-65]ṁissing
+[MBO-02(1)-60]
+[MBO-02(1)-61]
+[MBO-02(1)-62]
+[MBO-02(1)-63]
+[MBO-02(1)-64]
+[MBO-02(1)-65]
 [MBO-02(1)-66]
 <P>nārāja kari mote peṣasi phālaguni
 <P>muhiṁ dahana karibi sinā tohora teja gheni | 203 |
@@ -6436,8 +6436,8 @@
 <P1>179|1 jagannātha boile go debīṁki na kara tumbhe kopa | (ja, ṭa)
 <P1>172|1 purasari = puruṣārtha kari |
 [MBO-02(1)-219]
-[ṁBO-02(1)-220]ṁissing
-[ṁBO-02(1)-221]ṁissing
+[MBO-02(1)-220]
+[MBO-02(1)-221]
 <P>satī sābitrī ahalyā rohiṇī
 <P>svāhā saṁgyāṁ hārābatī tārā ẏe aṣṭa baheṇī | 180 |
 <P>ẏe aṣṭakanyā ye aṭanti mahāsvatī
@@ -6927,8 +6927,8 @@
 <P1>384|2 dekhi tohora samāne jaṇe baḍhāa muhāṁsa | (ja, jha, ḍa, ḍha,)
 <P1>386|2 mūrccchāgata hoi paḍilā gosāmaṇī | [ṅa, gha, ca, ṭa]
 [MBO-02(1)-237]
-[ṁBO-02(1)-238]ṁissing
-[ṁBO-02(1)-239]ṁissing
+[MBO-02(1)-238]
+[MBO-02(1)-239]
 <P>nicaẏe sohodrā ye hoilā mr̥taātmā
 <P>ẏebeheṁ sannidhaku āsu kinā mahātamā | 390 |
 <P>bobi dei na marani pātha hoilāka tūnī
