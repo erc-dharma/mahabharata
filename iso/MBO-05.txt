@@ -3433,7 +3433,7 @@
 <P>yujheṣṭhi sabhāpaṇḍā birāṭaku gheni kheḷābanti paśā
 <P>bhīmasena sūpakāra arjuna amānuṣā | 77 |
 <P>arjuna beśakāra br̥hannārī rūpe
-<P>jāṇantā nohile ẏe tiniheṁ rahile ye gopye | 78 | | `405 |
+<P>jāṇantā nohile ẏe tiniheṁ rahile ye gopye | 78 | | ‘405 |
 [MBO-05-128]
 <H>{@draupadīṅkara birāga bhabanare
 <>prabeśa@}

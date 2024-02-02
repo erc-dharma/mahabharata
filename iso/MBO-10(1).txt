@@ -131,7 +131,7 @@
 <>maṇi mukuṭa nāhiṁ karṇṇāñchaḷa hr̥de bhūṣaṇa ratnamāḷā |(jha, ṭa, ḍha)
 <P1>34 aśastamā boile yebe tohora anumate |
 <>pāṇḍabanta māri jaẏalābha debi tote |(ga, ṭha)
-<P1>34|2 “kāryya kale pache semāna bhūṣaṇa kara mote” | pada pare `ṅ' pothire adhikā pāṭha :–
+<P1>34|2 “kāryya kale pache semāna bhūṣaṇa kara mote” | pada pare ‘ṅ’ pothire adhikā pāṭha :–
 <P1>driyodhana boila śuṇa ho biramaṇi
 <P1>sāṁgrāmare tāhāku pāribuṭiki jiṇi |
 <P1>bhīmāra āgare tora kisa ye gārimā
@@ -225,7 +225,7 @@
 <P1>āho caitana aśastamā tahuṁ yeteka uburile
 <P1>mr̥tupiṇḍamānaṁkara saṁgate śutile |
 <P1>47|2 “ẏekā prahārake pāñchaṁkari muṇḍakāṭi” pādānti pare
-<>`ṅa' pothire adhikā pāṭha–
+<>‘ṅa’ pothire adhikā pāṭha–
 <P1>dhanure bhāra kari pañchamuṇḍa ghanaiṁ
 <P1>rakhaṇī ghara loke uṭhile ciāiṁ |
 <P1>samaste dekhanti ye aśastamākaiṁ ||
@@ -578,7 +578,7 @@
 <P>goharaṇa mantra ye jāṇanti aṣṭabasu
 <P>mantradhūḷi pakāile gāī cariāsuṁ | 114 |
 <P1>103 ẏeka roma jhāḍenta koṭi koṭi nārāja baraṣi
-<>ratha gaja aśva chaichāḍe yā'nti phuṭi |(ka)
+<>ratha gaja aśva chaichāḍe yā’nti phuṭi |(ka)
 <P>109 bhagna manoratha hele biśvāmitra napa
 <>mānasare jāta helā atyanta santāpa |(kha, ṭha)
 [MBO-10(1)-20]
@@ -1052,7 +1052,7 @@
 <P1>302 ẏeghānti brahmapada haribi bhiāibi nabakhaṇḍa
 <>mohora teja bijāśiba sapatabrahmāṇḍa |(kha, tha)
 <P1>306 “biśvāmitraṁkara bhaẏe bidyādhara puruṣe rahi nuārile tinisvarge”
-<>pare `ka' pothire bhinma pāṭha :–
+<>pare ‘ka’ pothire bhinma pāṭha :–
 <P1>satyayuge sūryyabaṁśe haricandana nr̥pati
 <P1>kahite asaṁkhya ye tāhāra bibhūti |
 <P1>baḍāi pratāpī se aṭai nr̥pabara
@@ -1088,7 +1088,7 @@
 <P1>308 goḍānte kauśike bidyādhara paḷāile
 <>haricandra rājāṭhāre śaraṇa paśile |(kha, ṭha)
 <P1>317|2 “tohora rājyayāka debu ho nr̥pamaṇi” pare
-<>`ka' pothire bhinma pāṭha :–
+<>‘ka’ pothire bhinma pāṭha :–
 <P1>ẏeteka ratha gaja aśva bhaṇḍāra pādānti
 <P1>santoṣa mane ẏehā debu catrabratī
 [MBO-10(1)-38]
@@ -1708,7 +1708,7 @@
 <P>droṇaguru śahasra chadileka tāhā śuṇi | 101 |
 <P1>95|2 lakṣeka rājā tule se hoilā panthāḷi |(ḍha)
 <P1>97|2 “pāñchakṣauṇī baḷa tule ye paḍile benirāẏe” pare
-<>`ja' pothira pāṭha :–
+<>‘ja’ pothira pāṭha :–
 <P1>aśastamā ratha sahite phiṅgidilā bhīmasena
 <P1>sāṁgrāma bhūmi chaḍi paḍilā biśāśate yojana |
 <P1>teṇu se putraku ye na dekhile droṇe

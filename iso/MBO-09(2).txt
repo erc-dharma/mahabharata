@@ -78,7 +78,7 @@
 <P>āja abaśya tumbhanta samare karibu prāṇe badha | 27 |
 <P>śailyaṁkara bacane arjuna kopiṣṭha
 <P>dhanu ādhyana ye kalāka guṇaghr̥ṣṭa | 28 |
-<P1>20|2 pitāra aprīti pare `ja' re adhikā pada :–
+<P1>20|2 pitāra aprīti pare ‘ja’ re adhikā pada :–
 <P1>tumbhe ẏebe yuddhaku aila ki kāraṇe
 <P1>baṁśahiṁ buḍiba nāśayiba ye āpaṇe |
 <P1>22 karṇṇa paḍilā mātuḷa yaśa acchi tumbhari
@@ -103,7 +103,7 @@
 <P>ẏegāra bāṇa pūroi tāhā binddhalā arjuna | 36 |
 <P>śalyaṁka nārājamāna pakāilā chedi
 <P>puṇa pañchadaśa bāṇa pūroiṇa bhedī | 37 |
-<P1>37 pada pare `ja, ṅa, ta, tha' pothimānaṅkare adhikā pāṭha–
+<P1>37 pada pare ‘ja, ṅa, ta, tha’ pothimānaṅkare adhikā pāṭha–
 <P1>śalyaṁka nārājamāna pakāilā chedi
 <P1>dekhiṇa tabada helā śalya mahāyodhī ||
 <P1>guṇare basāi dhanu ṭāṇante āmāñchi
@@ -114,7 +114,7 @@
 <P>pāñchabāṇa bācchiṇa binddhalā sarbasācī
 <P>śalyaṁkara nārāja chedai puṇa jhāti | 38 |
 <P>pāñchāśa bāṇa ye binddhale śalyarathī
-<P>śatebāṇe chedilā tā' bicitrabīryya nāti | 39 |
+<P>śatebāṇe chedilā tā’ bicitrabīryya nāti | 39 |
 <P>parbatāśareka ye binddhale mādrīdebīra bhrātha
 <P>bajrāśare chedilā tā bīrabara pātha | 40 |
 <P>agniśara kopeṇa ye śalya tahuṁ peṣi
@@ -191,7 +191,7 @@
 <P>antarīkṣe aśva ratha chedilā śakunira chāba | 75 |
 <P>samare biratha yahuṁ hoilā śakuni
 <P>mattagaja ārohilā kare asibara gheni | 76 |
-<P1>67 pada pare `ṭha' re adhikā pāṭha :–
+<P1>67 pada pare ‘ṭha’ re adhikā pāṭha :–
 <P1>puṇa kāḷasarpa bāṇa peṣilā śakuni
 <P1>garuḍāstre nibārile sahadeba mantrī |(ṭa, ṇa)
 <P1>73|1 puṇa pañchāśa bāṇa śakuni ye binddha |(ta, tha, gha, ṅa, ja)
@@ -623,7 +623,7 @@
 <P>nāśile nāśantu abā rakhile rakhantu | 69 |
 <P1>61|1 ohobaḷara = ubhaẏa sainyamāṅkara |
 <P1>66|2 bajrāśare kr̥pāchāryye kale tā chedana pādānta pare
-<>`ṭha' re adhikā pāṭha :–
+<>‘ṭha’ re adhikā pāṭha :–
 <P1>arjuna yeteka bāṇa kopare bindhanti
 <P1>pratiśare kr̥pāchāryya tā chedi pakābanti |
 <P1>jiṇī na pārile pātha kr̥paṁku kāhiṁre
@@ -757,5 +757,5 @@
 <>dhīrajanamāne ṭhāba kara āpaṇā śarīra |
 <>yamadaṇḍuṁ uddhāra nātha tohora parasāde
 <>ẏe anitya saṁsāru mote pārakara hāde |(ja, ta, tha, ṅa)ra bhinma pāṭha
-<P1>125|2 `kali āśā' pādānta pare pothimānaṅkare prakṣipta padamāna
+<P1>125|2 ‘kali āśā’ pādānta pare pothimānaṅkare prakṣipta padamāna
 <>paridr̥ṣṭa hue |

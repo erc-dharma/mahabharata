@@ -316,7 +316,7 @@
 <P>asaṁkṣepa saini gheniṇa kurusāiṁ
 <P>mahācatra bhedi se rahilā niṭhiāi | 113 |
 <P1>105|1 madhyadvāre rahile kr̥pa ye āchāryye |(ca, dha, ka, ḍa)
-<P1>105|2 `tuleṇa achanti tāra tinisasra mahārāje' pare `ṅa' pothire
+<P1>105|2 ‘tuleṇa achanti tāra tinisasra mahārāje’ pare ‘ṅa’ pothire
 <>bhinma pāṭha :–
 <P1>nabalakṣa aśva ye sātalakṣa hāthī
 <P1>pāñchamabhma ta ratha ẏegāra kṣauṇī pādānti |
@@ -705,7 +705,7 @@
 <P>kr̥ṣṇa arjuna rakṣaṇakaiṁ tu śahāsra bakhāṇu | 59 |
 <P>cchiṭi yuddha lagāithiba na bhediba bhūa
 <P>āmbhara āsibā yā(?) bāhāra dvārehiṁ thāa | 60 |
-<P1>50|2 “jāḷandhara bhūabhedi na jāṇanti kehi” pāṭha pare `dha' pothire adhikā pāṭha :–
+<P1>50|2 “jāḷandhara bhūabhedi na jāṇanti kehi” pāṭha pare ‘dha’ pothire adhikā pāṭha :–
 <P1>tinibhmabana madhye śubhilāka dhuni
 <P1>59| sahadeba bole svāmī tu ta sabu jāṇu
 <P1>pāṇḍabaṁku rakṣā boliṇa śrīkr̥ṣṇa āśre śuṇu |(tha, da, ña)
@@ -1157,7 +1157,7 @@
 <P>se tāhāra kahilā mr̥tubheda bidhāna | 253 |
 <P>garbha bhitare acchi tāra amr̥ta ye liṅga
 <P>teṇu utapatti hoẏe muṇḍa tāra aṅga | 254 |
-<P>nābhiki nārāja tā'ra binddhalā lakṣaṇa
+<P>nābhiki nārāja tā’ra binddhalā lakṣaṇa
 <P>tebe se asurara tuṭilā nijaprāṇa | 255 |
 <P>ẏehāra garbhe acchi amr̥ta ye liṅga
 <P>tāhā nāśakale se marai raṇaraṅga | 256 |
@@ -1957,7 +1957,7 @@
 <P>ẏeṇe se aprāṁjaẏe achai āmbha ye chārinti | 237 |
 <P1>237|1–r̥drabara pāilāṭi sindhu ādhipati |(ga, ḍa, ṭa)
 <P1>237|2–ẏeṇe seapacaẏe achai āmbha ye chārinti |(dha, ḍa)
-<P1>237|2–“ẏeṇe se āprāñjaẏe achai āmbha ye chārinti” pare`ña're bhinmapāṭha
+<P1>237|2–“ẏeṇe se āprāñjaẏe achai āmbha ye chārinti” pare‘ña’re bhinmapāṭha
 <>yujheṣṭhi pachārile śuṇa he sahadeba
 <P1>ẏethira caritaye kemanta svabhāba ||
 <P1>karayoḍi kahai sahadeba mantrī
@@ -3939,7 +3939,7 @@
 <P>dūre thāi ẏekamukha hoiṇa aneka nārāja baraṣi | 78 |
 <P1>69|2–robai sarbasacī sañchupāṇa puṭi |(ka, ta, dha)
 <P1>74|2–ākāśe praśaṁsa kale sakaḷa suragaṇa :–
-<>ehi pādapare `ta' `o' `dha'pothire adhikā pāṭha :–
+<>ehi pādapare ‘ta’ ‘o’ ‘dha’pothire adhikā pāṭha :–
 <P1>karṇṇa droṇa bhūrisarba nohile yahuṁ sari
 <P1>bhūabhedi galā ye lakṣe lakṣe yoddhā māri |
 <P1>bhaẏe yoddhāẏe jaṇe kehi na rahile kati
@@ -3966,7 +3966,7 @@
 <P>pañchai pāṇṭabe ye paḍile mahīloṭi
 <P>ātmā uccharganti sumariṇa abhimanyura nāmagoṭi | 87 |
 <P1>81|2–“muhiṁ samara ghora kali thāiṇa tāhāra ye pache”
-<>ehi pāda pare `jha' pithire adhikā pāṭha :–
+<>ehi pāda pare ‘jha’ pithire adhikā pāṭha :–
 <P1>mote kopakalā putra se tohora
 <P1>kṣatrīkuḷaku lajjā karāilu mora |
 <P1>tāhāra bacane muṁ bāhaḍāi bāhili ratha
@@ -4113,7 +4113,7 @@
 <P1>136–hajilā padātha ẏeḍi dila pāṇi
 <>malā lokaku loḍile pāiki hāde puṇi |(ka, tha, ña)
 <P1>140|2–mahāśauryya maṇanti ubhaẏabaḷa thāṭha |(na)
-<P1>144|2–`ta' o `dha' pothidvaẏare “saṁsāra sāgara ẏe daiba
+<P1>144|2–‘ta’ o ‘dha’ pothidvaẏare “saṁsāra sāgara ẏe daiba
 <>racanā” pāda pare adhikā pāṭha :–
 <P1>raṇayagyaṁ kari ho paḍilā tora suta
 <P1>sādhu abhimanyu boli śubhilā jagata |(abaśiṣṭāṁśa para pr̥ṣṭhāre)
@@ -4375,7 +4375,7 @@
 <P1>234|2–chāḍiyānilajja ātmā daiba sumari | jha
 <P1>235|1–mukhe jaḷasiñchi hari phukanteṇa kāna | ta, dha
 <P1>239|2 “teṇu se upekṣā karigalu kire bāpa”–pādapare
-<>`ta' o `dha' pothi dvaẏare adhikā pāṭha :–
+<>‘ta’ o ‘dha’ pothi dvaẏare adhikā pāṭha :–
 <P1>chāḍilaiṁ pitāmātā tohora dekhante
 <P1>mote chaḍi galure tu gagana pathe |
 <P1>240|2–celika baẏase muhiṁ nirāśa hoili re kumara |(ta, dha)
@@ -5629,7 +5629,7 @@
 <P>dharmara nandana ye sāṣṭāma tāhā śuṇi
 <P>uccasvare śubhilā ye pañchajanya śaṅkha bāṇī | 38 |
 <P1>33|2 śakaṭa bhūa bhedi muṁ jiṇimi sabunti |–(ka, ña)
-<P1>34|1 “śakatābhūa bāratā mote kahichanti biśeṣi” pare–`cha' pothire adhikā pāṭha–
+<P1>34|1 “śakatābhūa bāratā mote kahichanti biśeṣi” pare–‘cha’ pothire adhikā pāṭha–
 <P1>uṇeiśa prakāre muṁ jāṇai bhūa bhedi
 <P1>ẏe samasta br̥tta muhiṁ achai sampādi |
 [MBO-08-196]
@@ -7910,7 +7910,7 @@
 <P>abasāna kāḷa beḷahoi caturddaśa ghaṭi | 17 |
 <P>gahanabana jāṇi kaurobabaḷa sanya
 <P>dekhi nuārile jadyarathara barṇṇa cinha | 18 |
-<P1>10|2–`piṭante kaurobabaḷa samasta kalā padā' ẏe pādāṁśa pare `ṭha' re adhika pāṭha acchi :–
+<P1>10|2–‘piṭante kaurobabaḷa samasta kalā padā’ ẏe pādāṁśa pare ‘ṭha’ re adhika pāṭha acchi :–
 <P1>nārāja bindhante diga diśai andhāra
 <P1>nirbhaẏare yuddhakare bāsaba kumara |
 <P1>svabhābe pārtha aṭanti mahā dhanurddhara
@@ -8339,7 +8339,7 @@
 <P>boile pāṇṭabaṁkara bhr̥tya bolāibu sarbakāḷe | 174 |
 <P>abhimāna kari ẏe na galā sindhu deśa
 <P>tapeṇa basilā yāi sehu kapiḷāsa | 175 |
-<P1>166|2–`bāhuḍi śira lāgilā jadyarathara kandha |' sthānare `ṭa' pothire adhika pāṭha :–
+<P1>166|2–‘bāhuḍi śira lāgilā jadyarathara kandha |’ sthānare ‘ṭa’ pothire adhika pāṭha :–
 <P1>puṇa paḍilā muṇḍa yāiṁ lāgilāka kandhe
 <P1>ẏehimati arjuna chāribeḷa bindhe |
 <P1>168|1–dekhiṇa nārāja thambībhūta sarbasācī |(cha, ja)
@@ -8371,7 +8371,7 @@
 <P>pitā tapa karai utrāṁkura tīre
 <P>tāhāra tapa karuthibā pariyante muṇḍa tora lāguthiba kandhare | 187 |
 <P1>183 hara brahmā indra candra sūryya kubera sahite
-<>kāhāri hāthe śiraccheda nohibaṭi tote |`ṭha'
+<>kāhāri hāthe śiraccheda nohibaṭi tote |‘ṭha’
 <P1>184|2–tāhāra hāthe śiraccheda nohibu āpaṇa |(ka)
 <P1>184|2–kāhāra hāthe śiraccheda hoiba nice raṇa |(ṭa, ja, ta)
 [MBO-08-293]
@@ -8572,7 +8572,7 @@
 <P>baḷa bapu thāu muṁ rājyaku kalāiṁ bada sadha | 65 |
 <P1>62|1–śrameṇa basilā belabr̥kṣara taḷe |(ṭa, ṇa, tha)
 <P1>65|2–baḷabapu kāḷe muṁ rājyaku karai śraddhā |(jha, ṇa)
-<P1>65|2–“baḷabapu thāu muṁ rājyaku kalāiṁ baḍa sadha” ẏehi pāṭhapare `ṭa're bhinma pāṭha :–
+<P1>65|2–“baḷabapu thāu muṁ rājyaku kalāiṁ baḍa sadha” ẏehi pāṭhapare ‘ṭa’re bhinma pāṭha :–
 <P1>mantrī boilā satya muṁ karai tora pāśa
 <P1>rājānta kahi tote muṁ diāibi rājyaghoṣa |
 <P1>ẏemante duijaṇaṁkara hoilā bichāra
@@ -10290,7 +10290,7 @@
 <P>indra debatāku āditya kaleka guhāri
 <P>ājahiṁ rāhu mote dilāka āsi dhāḍi | 98 |
 <P1>92|1–ẏe mohora śāpya re prāpata hou tote |(ja, ṭha, jha, dha)
-<P1>92|2–“śrī ramacandrakaiṁ bheṭa tu īskindhyā banaste” pare `ṭha' re adhikā pāṭha :–
+<P1>92|2–“śrī ramacandrakaiṁ bheṭa tu īskindhyā banaste” pare ‘ṭha’ re adhikā pāṭha :–
 <P1>amara hoiṇa tu yuge yuge thibu
 <P1>kiskindhyā parbate rāma sahite bheṭibu |
 <P1>96|2–cauṣaṭhi yojana ẏekā pādakare gamilā bāḷuta |(ja, dha, jha, cha)
@@ -10748,7 +10748,7 @@
 <P>sāta sāta baraṣe śira cchedana hoibe bāḷabhābe | 99 |
 <P>śuṇiṇa bisarile ye rāẏe dhr̥tarāṣṭa
 <P>boile beni badhūṁkara śāpye hoilā ta baṁśa naṣṭa | 100 | 4243 + 100 = 4343
-<P1>98|1–“tu moṛhī āṇṭhakuḍi lo aṭu aputrikī” pare `ṭha' re adhikā pāṭha :–
+<P1>98|1–“tu moṛhī āṇṭhakuḍi lo aṭu aputrikī” pare ‘ṭha’ re adhikā pāṭha :–
 <P1>para pua maṇi tuhi dilu gurudaṇḍa
 <P1>baṁśa buḍāilu niśce buḍila to piṇḍa |
 [MBO-08-377]
@@ -11365,7 +11365,7 @@
 <P>laṁkāẏe rābaṇa mote māilā deba bānddha | 40 |
 <P>bānara saini śuṇi tāhāku jhiṁghāsi
 <P>āre laṁkāku galu asura baḷa nuārilu dhaṁsi | 41 |
-<P1>41|2–“āre laṁkāku galu asura baḷa nuārilu dhaṁsi” | pare `cha' pothire adhikā pāṭha :–
+<P1>41|2–“āre laṁkāku galu asura baḷa nuārilu dhaṁsi” | pare ‘cha’ pothire adhikā pāṭha :–
 <P1>ẏemanta boli samaste dhikkārale tahiṁ
 <P1>malā ki keṇe galā sehi dinuṁ nāhiṁ |
 <P1>mahā mahā bīre achanti yeteka

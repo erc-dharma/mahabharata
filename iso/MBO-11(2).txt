@@ -1295,7 +1295,7 @@
 <P>kahnā abatāra ye hoilā sampūrṇṇa | 88 |
 <P>arghya bandāpanā karanti sakaḷa bidyādharī
 <P>jaẏa jaẏa maṅgaḷa kiranti siukārī | 89 |
-<P1>85|2 “kr̥ṣṇara hāthaku baḍhāi dilā dhanu ye gāṇḍima” ehi pādānta pare `cha' pothire bhinma pāṭha :–
+<P1>85|2 “kr̥ṣṇara hāthaku baḍhāi dilā dhanu ye gāṇḍima” ehi pādānta pare ‘cha’ pothire bhinma pāṭha :–
 <P1>dakṣiṇa bhmaje kr̥ṣṇa tāra dhaile ye dhanu
 <P1>arjunaṭhāru aṣṭakaḷā nele debakīra tanu |
 <P1>arjuna mukha chāhiṁ chaḍile jībana
@@ -1434,7 +1434,7 @@
 <P>svāmī tohora deha na chuiṁli prāṇa bisarjiba boli
 <P>teṇukari svāmī tora deha na chuṁili | 43 |
 <P1>39|2 “janme janme thāi ẏe tumbhara saṅgara”
-<>pare `ja' pothire pāṭha |
+<>pare ‘ja’ pothire pāṭha |
 <P1>ẏekr̥ṣṇacandra pūrbe aṭanti ramacandra
 <P1>tuhi se sugrībara iṣkindā narendra |
 <P1>tumbhara jyeṣṭhaputra aṭai aṅgada
@@ -2627,7 +2627,7 @@
 <P>setubandha bānddhale subaḷaẏā saḷakhe
 <P>bandhe caḍhiyāi samara kale laṁke | 24 |
 <P1>16|1 “subaḷaẏā giri nāme laṁkāreṇa tretaẏā yugeṇa”
-<>pare `ṇa, ka, ṭha, ja, ḍa, jha' pothimānaṅkare pāṭha :–
+<>pare ‘ṇa, ka, ṭha, ja, ḍa, jha’ pothimānaṅkare pāṭha :–
 <P1>rudragarbha boli ẏekai rābaṇa
 <P1>sahasreka śira tāra birañchi bareṇa |
 <P1>satyayuga sampūrṇṇe se rājya bhogakalā
