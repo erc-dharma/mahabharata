@@ -1,9 +1,9 @@
-[MBO-08-title01]
+[MBO-08-title1]
 <H>{@sāraḷā mahābhārata
 <>droṇa parba@}
 <>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka
 <>ḍakaṭara (?) ārttaballabhi mahānti, em. e., ḍi. liṭ. padmaśrī
-[MBO-08-title02]
+[MBO-08-title2]
 <P>prathama mudraṇa
 <>1970
 <>oṛiśā sarakāraṅka sāṁskr̥tika byāpāra bibhāga
@@ -12,7 +12,7 @@
 <>śrī jānakīnātha hāladāra
 <>pāẏoniara presa,
 <>kaṭaka-1
-[MBO-08-title03]
+[MBO-08-title3]
 <H>{@sūcīpatra
 <>droṇapaboṅg@}
 <P>biṣaẏa pr̥ṣṭhāṅka
@@ -38,7 +38,7 @@
 <P>15| rātri goḷa yuddhe dr̥pada rājāra mr̥tyu 305
 <P>16| ghaṭukā dvārā aḷāẏudhara mr̥tyu o aḷambuṣa dvārā ghaṭukāra
 <>mr̥tyu 328
-[MBO-08-title04]
+[MBO-08-title4]
 <P>17| hanumanta janma bibaraṇa 353
 <P>18| ghaṭokraca badha o tāhāra pūrba śāpa bibaraṇa 369
 <P>19| bhīmasena aśvatthāmā ratha phiṅgidebā, aśvatthāmā

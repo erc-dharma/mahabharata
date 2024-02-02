@@ -1,12 +1,12 @@
-[MBO-11(2)-title01]
+[MBO-11(2)-title1]
 <H>{@mūṣaḷī parba@}
-[MBO-11(2)-title02]
+[MBO-11(2)-title2]
 <P>prathama mudraṇa
 <>1978
 <>mudraṇa
 <>muṅgaḷā presa
 <>kaṭaka
-[MBO-11(2)-title03]
+[MBO-11(2)-title3]
 <H>{@sūcīpatra
 <>mūṣaḷī parba@}
 <P>@}biṣaẏa pr̥ṣṭhāṅka@}
@@ -27,7 +27,7 @@
 <>nārāẏaṇa pūjā ... 50
 <P>7| bāluṅka nadī pāre yadubaṁśa strīṅka
 <>bāsa o arjunaṅka indraprasthe gamana ... 62
-[MBO-11(2)-title04]
+[MBO-11(2)-title4]
 <P>8| śrīkr̥ṣṇaṅka piṇḍa anyeṣaṇārthe caturddige
 <>dūta preraṇa o bāsu brāhmaṇara mādhaba
 <>darśana ... 74

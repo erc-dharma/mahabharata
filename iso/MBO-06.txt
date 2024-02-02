@@ -1,10 +1,10 @@
-[MBO-06-title-01]
+[MBO-06-title1]
 <H>{@sāraḷā mahābhārata
 <>udyoga parba@}
 <P>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka
 <>ḍaḷṭara {?}  ārttaballabha mahānti,
 <>em. e., ḍi. liṭ, padmaśrī
-[MBO-06-title-02]
+[MBO-06-title2]
 <P>prathama mudraṇa
 <>1968
 <P>oṛiśā sarakāraṅka
@@ -14,7 +14,7 @@
 <>caudhurī śivarāma dāśa, em. e.
 <>śatadaḷa presa,
 <>kaṭaka-1
-[MBO-06-title-03]
+[MBO-06-title3]
 <H>{@udyoga parbara
 <>sūcīpatra@}
 <H>{@biṣaẏa pr̥ṣṭhāṅka@}
@@ -42,7 +42,7 @@
 <>muniṅka saha bidura gr̥he biśrāma 78
 <P>9| śrīkr̥ṣṇaṅkara bidura mandire abasthiti
 <>o biduraṅku baradāna 97
-[MBO-06-title-04]
+[MBO-06-title4]
 <P>10| kuntī o śrīkr̥ṣṇaṅka kathopakathana, śrīkr̥ṣṇa
 <>dhr̥tarāṣṭraṅka nikaṭe prabeśa ebaṁ andha
 <>brāhmaṇara cakṣudāna bibaraṇa 102
@@ -68,7 +68,7 @@
 <>baṭa prabhr̥tira bibaraṇa 242
 <P>18| bhāratīẏa rājāmānāṅku yuddha nimante
 <>āmantraṇa 275
-[MBO-06-title-05]
+[MBO-06-title5]
 <P>19| kurupāṇḍabaṅkara sainyasaṁkhyā o śrīkr̥ṣṇaṅka
 <>dvārā belāḷasena mastaka cchedana o
 <>śubhastambha sthāpana ebaṁ pāṇḍabamānaṅka

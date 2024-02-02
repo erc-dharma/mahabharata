@@ -1,10 +1,10 @@
-[MBO-03(2)-title-01]
+[MBO-03(2)-title1]
 <H>{@sāraḷā mahābhārata@}
 <H>{@sabhā parba@}
 <H>{@ẏe khaṇḍa@}
 <P>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka
 <P>jakṭara {??} ātta ballabhi mahānti, em, e., ḍi. liṭ, padmaśrī
-[MBO-03(2)-title-02]
+[MBO-03(2)-title2]
 <P>prathama mudraṇa 1968
 <H>{@oṛiśā sarakāraṅka
 <>sāṁskr̥tika byāpāra bibhāga
@@ -13,7 +13,7 @@
 <>śrī śrīkāntakumāra rābhatarāẏa
 <>rāuḍirāẏa pres
 <>raṇīhāṭa, kaṭaka--1
-[MBO-03(2)-title-03]
+[MBO-03(2)-title3]
 <H>{@sūcīpatra
 <>* sabhā pabong *
 <>dvitīẏa khaṇḍa@}
@@ -33,7 +33,7 @@
 <P>4| bhīmasenaṅkara paścima diga yātra, mr̥gasena rājā
 <>sahita yuddhare parājaẏa, somabongśara bongśābaḷī
 <>o mr̥gasenara janma br̥ttānta 67
-[MBO-03(2)-title-04]
+[MBO-03(2)-title4]
 <P>biṣaẏa pr̥ṣṭhāṅka
 <P>5| arjunaṅkara tebaloka nimantraṇe gamana, yama
 <>dvārā pāpa o tāhāra prāẏaścitta kathana, dvārakāre
@@ -56,7 +56,7 @@
 <>draupadīṅkara kaḷaha 193
 <P>13| bibhīṣaṇaku nimantraṇa kari āṇibā nimante
 <>ghatokacara laṅkā gamana 203
-[MBO-03(2)-title-05]
+[MBO-03(2)-title5]
 <P>biṣaẏa pr̥ṣṭhāṅka
 <P>14| yudhiṣṭhīraṅka barśanārthe śrībr̥ṣṇa bibhīṣaṇaku gheni
 <>bhitaraku yibāpāiñ chāridvāre bhramaṇa o rājā-
@@ -76,7 +76,7 @@
 <>-ṅkara upasthiti 404
 <P>23| śāju badha 420
 <P>24| paśākheḷa o sabhāku pāṇḍabaṅka āgamana 440
-[MBO-03(2)-title-06]
+[MBO-03(2)-title6]
 <P>biṣaẏa pr̥ṣṭhāṅka
 <P>25| duḥśāsana kattaka draupadīṅka sabhāsthaḷaku ānaẏana 472
 <P>26| kuru sabhāre draupadīṅkara apamāna 485

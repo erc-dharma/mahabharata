@@ -1,10 +1,10 @@
-[MBO-04(2)-title-1]
+[MBO-04(2)-title1]
 <H>{@sāraḷā mahābhārata@}
 <H>{@banaparba@}
 <H>[{@dvitīẏa khaṇḍa@}]
 <P>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka:
 <>ḍakṭara (?)  ārttaballabha mahānti, em. e, ḍi. liṭ., padmaśrī
-[MBO-04(2)-title-3]
+[MBO-04(2)-title3]
 <H>[kha]
 <H>biṣaẏa pr̥ṣṭhāṅka
 <P>10| naḷaṅkara ayodhyāre prabeśa o bāhuta

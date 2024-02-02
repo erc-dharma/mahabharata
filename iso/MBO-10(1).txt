@@ -1,9 +1,9 @@
-[MBO-10(1)-title01]
+[MBO-10(1)-title1]
 <H>{@sāraḷā mahābhārata
 <>kāiñśikā, nārī, śānti o āśramika paboṅg@}
 <>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka
 <>ḍakgara (?) ārttaballabha mahānti, em. e., ṛi. liṭ., padmaśrī
-[MBO-10(1)-title02]
+[MBO-10(1)-title2]
 <P>prathama mudraṇa
 <>1965
 <>oṛiśā sarakāraṅka
@@ -13,14 +13,14 @@
 <>mudraṇa
 <>ṭekṣṭa buk pres
 <>bhmabaneśvara-1
-[MBO-10(1)-title03]
+[MBO-10(1)-title3]
 <H>{@kāiñśikā parba@}
-[MBO-10(1)-title04]
+[MBO-10(1)-title4]
 <P>mudrākara:--
 <>śrī śyāpasundara pāṛhī
 <>śāradā pres
 <>brahmapura-2 (gañjāṇa)
-[MBO-10(1)-title05]
+[MBO-10(1)-title5]
 <H>{@sūcīpatra
 <>kāiñśikā paboṅg@}
 <P>biṣaẏa pr̥ṣṭhāṅka

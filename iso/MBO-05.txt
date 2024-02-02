@@ -1,10 +1,10 @@
-[MBO-05-title01]
+[MBO-05-title1]
 <H>{@sāraḷā mahābhārata@}
 <H>{@birāṭa parba@}
 <P>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka
 <>padmaśrī ḍakṭar (?) ārttaballabha mahānti,
 <>em. e., ḍi. liṭ.
-[MBO-05-title02]
+[MBO-05-title2]
 <P>prathama mudraṇa
 <>1972
 <P>oṛiśā sarakāraṅka sāṁskr̥tika byāpāra bibhāga
@@ -14,7 +14,7 @@
 <>gagana bihārī jenā
 <>puṣpagiri presa,
 <>kaṭaka-2
-[MBO-05-title03]
+[MBO-05-title3]
 <H>{@birāga parba@}
 <H>{@sūcīpatra@}
 <H>{@biṣaẏa pr̥ṣṭhāṅka@}
@@ -38,7 +38,7 @@
 <P>12| bhīma byāghra yuddha o nānā prasaṅga ... 182
 <P>13| bhīmaṁka sahita pradeśī mallara yuddha o
 <>tāhāra mr̥tyu ... 223
-[MBO-05-title04]
+[MBO-05-title4]
 <P>14| mālara pūrbajanma br̥ttānta o bhīmaṁka randhana
 <>praṇāḷī ... 248
 <P>15| birāṭa rājyare candanayātrā utsaba prabarttana ... 261
@@ -65,7 +65,7 @@
 <>haraṇa nimante kurusainya birāṭa rājyare
 <>prabeśa o pr̥thanāra sahadeba sahita yuddha ... 420
 <P>29| buhanārīṅku sārathi kari uttarara yuddha ... 440
-[MBO-05-title05]
+[MBO-05-title5]
 <P>30| kuru sainya dekhi uttarara paḷāẏana, arjjunaṅka
 <>paścātdhābana o nānādi upadeśa ebaṁ kuru
 <>bīraṅkara anumāna ... 456
@@ -93,7 +93,7 @@
 <>bīrabāhura patana
 <P>42| uttarara jaẏabārttā śuṇi birāṭara ānanda o
 <>yudhiṣṭhiraṅkara mastakaru raktapāta 582
-[MBO-05-title06]
+[MBO-05-title6]
 <P>43| uttarara yudhiṣṭhiraṅku stutibādana o abhiṣeka
 <>nimante yudhiṣṭhira sahadebaṅka sahita mantraṇā 593
 <P>44| śamībr̥kṣa taḷe yudhiṣṭha raṅkara abhiṣeka o

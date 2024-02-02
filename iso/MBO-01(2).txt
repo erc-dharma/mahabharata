@@ -1,11 +1,11 @@
-[MBO-01(2)-title-0001]
+[MBO-01(2)-title1]
 <H>sāraḷā mahābhārata
 <H>{@ādi parba@}
 <H>2ẏe khaṇḍa
 <P>mukhya saṅkaḷaka, saṅgrāhaja o saṅpādaka
 <P>ḍakgar {?} ārttabalabha sāhānti
 <P>ep. e., ṛi. lig., padmaśrī
-[MBO-01(2)-title-0002]
+[MBO-01(2)-title2]
 <H>{@oṛiśā sarakāraṅka
 <>sāsr̥tika byāpāra bibhāga
 <>dvārā prakāśita@}
@@ -13,7 +13,7 @@
 <>śrī śyāmasundara pāṛhī
 <>śāradā pres
 <>grahmapura (gañjāma)
-[MBO-01(2)-title-0003]
+[MBO-01(2)-title3]
 <H>{@sūcīpatra@}
 <H>{@ādiparba@}
 <H>{@(dvitīẏa khaṇḍa)@}
@@ -41,7 +41,7 @@
 <P>20| pāṇḍabaṅkara yuddha 758
 <P>21| draupadī svaẏambara 764
 <P>22| svaẏambara sabhāre rājāmānaṅkara svarūpa nirṇṇaẏa 776
-[MBO-01(2)-title-0004]
+[MBO-01(2)-title4]
 <P>biṣaẏa pr̥ṣṭhāṅka
 <P>23| lākhabindhā 808
 <P>24| rājāmānaṅka sahita pāṇḍabaṅka yuddha 857

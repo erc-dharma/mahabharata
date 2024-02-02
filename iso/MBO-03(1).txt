@@ -1,4 +1,4 @@
-[MBO-03(1)-title-01]
+[MBO-03(1)-title1]
 <P>prathama mudraṇa
 <>1967
 <P>uṛiśā sarakāraṅka
@@ -7,7 +7,7 @@
 <>gagana bihārī jenā
 <>{@puṣpagiri presa@}
 <>kagaka--2
-[MBO-03(1)-title-02]
+[MBO-03(1)-title2]
 <H>{@sabhāparba@}
 <H>{@prathama khaṇḍa@}
 <H>{@sūbipatra@}
@@ -30,7 +30,7 @@
 <>baḷadebaṅka sahita sākṣāta o dvārakāre mahotsaba 106
 <P>12| rājāmānaṅku nimantraṇārthe bhīma arjuna nakuḷa sahadeba
 <>chāribhāiṅku chāridigaku yibāku śrīkr̥ṣṇaṅkara ādeśa 130
-[MBO-03(1)-title-03]
+[MBO-03(1)-title3]
 <P>13| rājasūẏa yajña; yajñaśāḷa, sabhāgr̥ha, rājāmānaṅka saha
 <>sainya gaja aśvaṅka gr̥hanirmāṇa o rājasūẏa yajñara
 <>āẏojana 141
@@ -59,7 +59,7 @@
 <P>30| śrīkr̥ṣṇaṅka svargaru sudharmā sabhā āmaẏana 322
 <P>31| uttara diga rājāgaṇa nimantraṇe pārthaṅka gamana 325
 <P>32| maṅgaḷasena rājā saha arjunaṅka yuddha 340
-[MBO-03(1)-title-04]
+[MBO-03(1)-title4]
 <P>33| arjunara kṣetrapāḷa nr̥patiṅku nimantraṇa o māheśvara rājā
 <>saha yuddha
 <P>34| arjunaṅkara baruṇa, jaḷandharaa, byomakeśa rājāṅku

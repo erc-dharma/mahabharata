@@ -1,11 +1,11 @@
-[MBO-11(1)-title01]
+[MBO-11(1)-title1]
 <H>{@sāraḷā mahābhārata
 <>aśvamedha, mūṣaḷī
 <>o
 <>svargārohaṇa parba@}
 <>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka :
 <>ḍakgara (?)ārttaballabha mahānti em. e., ṛi. liṭ., padmaśrī
-[MBO-11(1)-title02]
+[MBO-11(1)-title2]
 <P>prathama mudraṇa
 <>1970
 <>oṛiśā sarakāraṅkara
@@ -15,15 +15,15 @@
 <>mudraṇa
 <>puṣpagiri pres
 <>kaṭaka
-[MBO-11(1)-title03]
+[MBO-11(1)-title3]
 <H>{@aśvamedha parba@}
-[MBO-11(1)-title04]
+[MBO-11(1)-title4]
 <P>prathama mudraṇa
 <>1968
 <>mudraṇa
 <>maṅgaḷā pres
 <>kaṭaka
-[MBO-11(1)-title05]
+[MBO-11(1)-title5]
 <H>{@sūcīpatra
 <>aśvamedha parba@}
 <>biṣaẏa pr̥ṣṭhāṅka

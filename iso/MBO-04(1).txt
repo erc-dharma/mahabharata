@@ -1,10 +1,10 @@
-[MBO-04(1)-title01]
+[MBO-04(1)-title1]
 <H>{@sāraḷā mahābhārata@}
 <H>{@bana parba@}
 <H>{@prathama khaṇḍa@}
 <P>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka:
 <>ḍakṭara (?)  ārttaballabha mahānti, em. e., ṛi. liṭa., padaśrī
-[MBO-04(1)-title02]
+[MBO-04(1)-title2]
 <P>prathama mudraṇa
 <>1966
 <P>oṛiśā sarakāraṅka
@@ -14,7 +14,7 @@
 <>śrī baḷadeba bāsa
 <>janaśanti prese
 <>(?)
-[MBO-04(1)-title03]
+[MBO-04(1)-title3]
 <H>{@banaparba@}
 <H>{@prathama khaṇḍa@}
 <H>{@sūcipatra@}
@@ -37,7 +37,7 @@
 <>śrīkr̥ṣṇa saha bidura o śakuniṅkara
 <>yudhisṭhiraṅka samīpe gamana 176
 <P>10| aniḷabasura cakṣudāna 188
-[MBO-04(1)-title04]
+[MBO-04(1)-title4]
 <H>biṣaẏa pr̥ṣṭhā
 <P>11| abhimanyu janma o nahuṣa upākhyāna 214
 <P>12| dātā karṇṇa upākhyāna 247

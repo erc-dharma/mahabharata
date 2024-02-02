@@ -1,6 +1,6 @@
-[MBO-09(2)-title01]
+[MBO-09(2)-title1]
 <H>{@śalya parba@}
-[MBO-09(2)-title02]
+[MBO-09(2)-title2]
 <H>{@sūcīpatra
 <>śalya paboṅg
 <>biṣaẏa pr̥ṣṭhāṅka@}

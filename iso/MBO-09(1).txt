@@ -1,9 +1,9 @@
-[MBO-09(1)-title01]
+[MBO-09(1)-title1]
 <H>{@sāraḷā ahābhārata@}
 <>karṇṇa, śalya o gadā parba
 <>mukhya saṁkaḷaka, saṁgrāhaka o saṁpādaka:
 <>{@ḍakṭara (?)ārttaballabhi mahānti,@} em. e., ḍi. liṭ., padmaśrī
-[MBO-09(1)-title02]
+[MBO-09(1)-title2]
 <P>oṛiśā sarakāraṅka
 <>sāṁskr̥tika byāpāra bibhāga
 <>dvārā prakāśita

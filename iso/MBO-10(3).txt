@@ -1,11 +1,11 @@
-[MBO-10(3)-title01]
+[MBO-10(3)-title1]
 <H>{@śānti parba@}
-[MBO-10(3)-title02]
+[MBO-10(3)-title2]
 <H>mudrākara:--
 <>śrī madanamohana dāsa
 <>mukura pres
 <>kaṭaka-2
-[MBO-10(3)-title03]
+[MBO-10(3)-title3]
 <H>{@sūcīpatra
 <>śānti paboṅg@}
 <>biṣaẏa pr̥ṣṭhāṅka

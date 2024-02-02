@@ -1,4 +1,4 @@
-[MBO-07-title-1]
+[MBO-07-title1]
 <P>sa1rala1 maha1bha1rata bhi1s2ma parva
 <P>prathama mudraṇa
 <P>1965
@@ -31,7 +31,7 @@
 <>śrīkr̥ṣṇaṅkara upadeśa...90
 <P>12kauraba sainya madhyaku yudhiṣṭhidebaṅkara
 <>yuddha birati pāiñ gamana  ...100
-[MBO-07-title-2]
+[MBO-07-title2]
 <H>biṣaẏa
 <P>13 | purddaṣa śaraṇa 118
 <P>14 | khaurabadaḷa saha purddaṣara puddhi o tāgṣī

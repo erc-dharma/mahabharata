@@ -1,6 +1,6 @@
-[MBO-09(3)-title-1]
+[MBO-09(3)-title1]
 <H>{@gadā parba@}
-[MBO-09(3)-title-2]
+[MBO-09(3)-title2]
 <H>{@sūcīpatra
 <>gadā paboṅg
 <>biṣaẏa pr̥ṣṭhāṅka@}
