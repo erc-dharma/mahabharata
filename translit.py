@@ -112,7 +112,8 @@ def next_char(s):
 		if s.startswith(c):
 			return c, s[len(c):]
 	# Unknown
-	print(s[0], file=sys.stderr)
+	if s[0].strip():
+		print(s[0], file=sys.stderr)
 	return s[0], s[1:]
 
 virama = "\N{oriya sign virama}"
