@@ -2517,7 +2517,7 @@ paṣī bibaraṇa ...142
 <P>mahābhīratha yuddhara sisa pisa rīti | 1 |
 <P>pūrbeṇa pāṇḍabe ye pacchime kaurobe
 <P>mahā sambharbe senāpati hoile gāṅgabe | 2 |
-<NI>2|1 "pūrbeṇa pāṇḍabe ye pacchime kaurobe"
+<P1>2|1 "pūrbeṇa pāṇḍabe ye pacchime kaurobe"
 <>eṭhāre sañskr̥ta mahābhīrathare bhinna pāṭha acchi |
 <>prāṅamukhāḥ pāṇḍabā ityāhi pāṭha draṣṭabya |
 [MBO-07-91]
@@ -4480,7 +4480,7 @@ paṣī bibaraṇa ...142
 <>goḷa āmañchiṇa ke nārāja parityāgi | (gha))}
 <P1>216|1 ẏesaneka kautuke nityakarma īśāna praśaste | (ṅa,ṭa,tha)
 <P1>218|2 meghanāda mahānāda kāḷimeghā saptabāji | (gha,ṅa,ccha,ṭa)
-<NI>220|2 "timiri bidāraṇa nātha jaẏa tu aṁśumāḷi" pare 'ccha're
+<P1>220|2 "timiri bidāraṇa nātha jaẏa tu aṁśumāḷi" pare 'ccha're
 <P>adhikā pāṭha |
 <P>brahma uttapatti sapata puga gheti
 <P>namaste nirañjana pracaṇḍa dibya mūrtti |
