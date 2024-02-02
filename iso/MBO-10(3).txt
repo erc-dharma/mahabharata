@@ -1,7 +1,7 @@
 [MBO-10(3)-title1]
 <H>{@śānti parba@}
 [MBO-10(3)-title2]
-<H>mudrākara:--
+<H>mudrākara:–
 <>śrī madanamohana dāsa
 <>mukura pres
 <>kaṭaka-2
@@ -126,8 +126,8 @@
 <P>tahiṁki nr̥patiki kicchihiṁ nāhiṁ doṣa | 49 |
 <P>gurujanamānaṁku karuthibuṭi kāgaṇa
 <P>paradārā paradhana na karibu hagaṇa | 50 |
-<P1>48|2--upabaḷe daṇḍa pe bahuthibu niti |(jha, ṭa)
-<P1>50|1--guhāri janaṁku karibuṭi kāraṇa |(ṇa, ca)
+<P1>48|2–upabaḷe daṇḍa pe bahuthibu niti |(jha, ṭa)
+<P1>50|1–guhāri janaṁku karibuṭi kāraṇa |(ṇa, ca)
 [MBO-10(3)-5]
 <P>mantrībara gocare samarpithibu rājya
 <P>adhikarī lokanta karithibu teja | 51 |
@@ -155,7 +155,7 @@
 <P>janme janem abhyāsili śrīkr̥ṣṇa caraṇa | 62 |
 <P>yabata jība acchi tābatahiṁ hari
 <P>bhagata jana uddhāraṇa nāṭha, nāma narahari | 63 |
-<P1>59|2--baibuṇṭha bhmabane tāṁku dileka dibyasthāne |(kha, na, ṭha)
+<P1>59|2–baibuṇṭha bhmabane tāṁku dileka dibyasthāne |(kha, na, ṭha)
 [MBO-10(3)-6]
 <P>sadāśirī deina ye nāma śirībatsa
 <P>śatr̥paṇe ye cintilā se hoilāka mokṣa | 64 |
@@ -204,7 +204,7 @@
 <P>tahiṁki paśu mr̥tuśaba hoilā māna ye gobinda | 9 |
 <P>yesaneke bahani ghr̥ta ye sañjāḷi
 <P>ākāśe byapilā teja ye anaḷi (anaḷa) | 10 |
-<P1>9--samasta mr̥tupiṇḍamāna hoile samidha
+<P1>9–samasta mr̥tupiṇḍamāna hoile samidha
 <>tahiṁki mūḷa mr̥tuśaba hoilā māna gobinda |(jha, ṭha, na, kha)
 [MBO-10(3)-8]
 <P>bahani dekhi pachārai rajā dhr̥tirāṣṭa
@@ -720,8 +720,8 @@
 <P>āgyāṁ meṇṭile śāmba tu niśce śāpa ye pāibu | 66 |
 <P>āmbhe yāiṁ bije karuachuṁ ramyasthāne
 <P>yepari kehi na paśi pāribeṭi bhitara bhmabane | 67 |
-<P1>66|1--jana nirodhi abakāśa karithibu |(jha)
-<P1>66|1--jana nirodhi āmbhe niabakāśa karibu |(ṭa)
+<P1>66|1–jana nirodhi abakāśa karithibu |(jha)
+<P1>66|1–jana nirodhi āmbhe niabakāśa karibu |(ṭa)
 [MBO-10(3)-28]
 <P>ẏete boli deba satyabhāmāra saṅgate
 <P>śāmba kumaraku dvāre thoi rahile niścinte | 68 |

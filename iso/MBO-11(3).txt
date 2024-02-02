@@ -42,7 +42,7 @@
 <P>agasti muniṁka caraṇe kalāka dibya pūjā | 1 |
 <P>aśvamedha yāga kr̥ṣṇa svargārohaṇa uttāreṇa kathā
 <P>kahibā bho ruṣi mote pāṇḍabaṁka byabasthā | 2 |
-<P1>prathama dhāḍire nimnalikhita bhinma bhinma pothire bhinma pāṭha :--
+<P1>prathama dhāḍire nimnalikhita bhinma bhinma pothire bhinma pāṭha :–
 <P1>ẏethu anantare bilaṁka deśa rājā
 <P1>agastiṁka padmapāde kale dibya pūjā |
 <P1>nistarili muni tumbhara bākya śuṇi
@@ -362,7 +362,7 @@
 <P1>tāhāku parīkṣitaku bibhā karāile
 <P1>śrīdharmarāja abhiṣeka kari śāḍhi dile |
 <P1>128|2 citrotpaḷā nadī tāre ye yāja nāme nagrī |(ka, cha, tha, jha, ṭha, ṛa)
-<P1>128|2 pare �ṭa, jha� pothira pāṭhāntara :--
+<P1>128|2 pare �ṭa, jha� pothira pāṭhāntara :–
 <P1>amarābatī nagre hari sāhara baṁśa
 <P1>suhāṇī boli tāra duhitā guru haṁsa |
 <P1>134|2 pañchadaśa helā bibhā na dilāka sehu |(ja)
@@ -693,7 +693,7 @@
 <P>hari sāhuku boile māga mote bara | 278 |
 <P1>276|2 mr̥tyu nohiba ẏe bhmabana amarābatī |(ja, ṭha, ḍha)
 <P1>278|2 �harisāhuku boile māga mote bara� ehāpare �ḍha, gha�
-<>pe thire dirgha pāṭhāntara :--
+<>pe thire dirgha pāṭhāntara :–
 <P1>kara yoḍi sāhu kale jantuṁka īśvara |
 <P1>aputrika kaṣṭaru karibā mote pāri
 <P1>tumbhara daṇḍaku muṁ sadā bhaẏe kari |
@@ -706,7 +706,7 @@
 <P>tohora yamadaṇḍe kehi na pāibe śāsti | 279 |
 <P>hari sāhu boilā śate aṣṭauttara āẏuṣa
 <P>ẏeteka pūrile ye āmbhe yibuṁ kapiḷāsa | 280 |
-<P1>[pūrba pr̥ṣṭhāra pāṭhāntara]:--
+<P1>[pūrba pr̥ṣṭhāra pāṭhāntara]:–
 <P1>ẏe kanyā bibhā hebāku kṣama niki āna
 <P1>ẏe kanyā yogaru tuhi tarilu bahana |
 <P1>sahadeba mukharu śuṇa śrī bhāratha
@@ -736,7 +736,7 @@
 <P>ẏe kathā āu anyathā nohibāka tebe | 281 |
 <P>tohora jātiki tiāri thāa ye sabunti
 <P>sva jātire āu kehi nohibe anīti | 282 |
-<P1>[pūrba pr̥ṣṭhāra pāṭhāntara]:--
+<P1>[pūrba pr̥ṣṭhāra pāṭhāntara]:–
 <P1>pūṣya dhaṇḍāmāḷa tāra hr̥dare lambāiba
 <P1>sāna hele byāsadeba parāẏe maṇiba |
 <P1>śakyānutrameṇa dakṣiṇā tāṁku dei
@@ -766,7 +766,7 @@
 <P>paṇakare boḍiẏe kāhāṇakare padikāẏe | 284 |
 <P>chāri pāde kiṇiba bikiba pāñcha pāde
 <P>puṇya mārge thiba na paśibe apramāde | 285 |
-<P1>pūrba pr̥ṣṭhāra pāṭhāntara :--
+<P1>pūrba pr̥ṣṭhāra pāṭhāntara :–
 <P1>tāhā upare mora nāhiṁ adhikara
 <P1>turite basai yāi biṣṇura mandira |
 <P1>śrī mahābhāratha ādya prānta pustakare
@@ -2293,7 +2293,7 @@
 <P>kaḷi ḍareṇa hoi ye gāba rūpa
 <P>goḍāi dhailā yāiṁ kaḷi nr̥pa | 75 |
 <P1>73|2 �mohora carita tuhi śuṇa nr̥pabara� pare �ba� �ja� �ḍha�
-<>�gha� pothire bhinma pāṭha :--
+<>�gha� pothire bhinma pāṭha :–
 <P1>śrīkr̥ṣṇa pāṇḍabe yahuṁ nidhanagata hoi
 <P1>kaḷiyugayaka rājā hoilāka mahī |
 <P1>tinipāda kaḷiyuga āsiṇa paśilā
@@ -2699,11 +2699,11 @@
 <P>sebai śūdramuni sāroḷa nija dāsa | 115 |
 <P>aṣṭādaśa purāṇa ye hoilā saṁpūrṇṇa
 <P>paḍhile śuṇile ye hoai bahuta puṇya | 116 | 1181 |
-<P>--saṁpūrṇṇa svargārohaṇa--
+<P>–saṁpūrṇṇa svargārohaṇa–
 [MBO-11(3)-98]
 <H>{@pariśiṣṭa
 <>�cha� pothi pāṭha@}
-<>(tat saṅge saṅge jha, ḍa, ka, tha, ṇa, ṭa, ṭha--pothire acchi)
+<>(tat saṅge saṅge jha, ḍa, ka, tha, ṇa, ṭa, ṭha–pothire acchi)
 <P>ẏethu anantare bilaṁka deśa rājā
 <P>agastiṁka caraṇe kalā dibya pūjā | 1 |
 <P>basanakuṇḍaḷa ratna ḷa puṣya candana dei
@@ -2776,8 +2776,8 @@
 <P>lubudhe madhukara na chaḍanti pāśa | 34 | 1165 ||
 <P>samāpta
 [MBO-11(3)-101]
-<H>{@25 pr̥ṣṭhāre thibā pāthāntarara--�ẏe kanyā yogaru tuhi
-<>tarilu bahana�--ehi pada pare �cha� pothire
+<H>{@25 pr̥ṣṭhāre thibā pāthāntarara–�ẏe kanyā yogaru tuhi
+<>tarilu bahana�–ehi pada pare �cha� pothire
 <>saṁkṣipta mahābhārathaacchi |@}
 <P>sahadeba mūkharu śuṇa śrī mahābhāratha
 <P>sakaḷa pāparu tuhi hoibu mukata | 1 |
@@ -6696,4 +6696,4 @@
 <P>śūdramuni sāroḷā dāsaku karibā kāraṇa | 1918 |
 <P>namaste nārāẏaṇa namaste śrīpati
 <P>tumbha śrīcaraṇa binu anye nāhiṁ gati | 1919 |
-<P>--samāpta--
+<P>–samāpta–
