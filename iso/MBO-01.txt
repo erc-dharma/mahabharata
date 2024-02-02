@@ -28009,7 +28009,7 @@
 [MBO-01(2)-978]
 <P>boila lakṣmī bije tāhāra kandhara
 <P>catr̥pāde lakṣmī br̥ddhā mānagobindara | 43--12170 |
-<H>*<F>lakSmaNakumAra janma kebaLa dui khaNDa pothire dekhAySAe |</F> {@lakṣmaṇakumāra janma@}
+<H>{@* lakṣmaṇakumāra janma@}
 <P>lakṣmaṇa kumāra kemante hoilā janama
 <P>ẏehā bistāri kahibā mote puruṣaṅka uttara | 1 |
 <P>taba mukhuṁ śuṇi muṁ śuṇī muṁ ye hoibi pabitra
@@ -28030,6 +28030,7 @@
 <P>atianta sundara ye diśai kāẏe tāra | 10 |
 <P>dekhiṇa ānanda ye hoileka sabong
 <P>sabong sulakṣaṇa kumāre hoilāka janme | 11 |
+<P1>* lakSmaNakumAra janma kebaLa dui khaNDa pothire dekhAySAe |
 [MBO-01(2)-979]
 <P>grahaputra ḍakāiṇa kaleka gaṇana
 <P>se boilā sabong śubha hoilā aḷape manda jāṇa | 12 |
@@ -28053,9 +28054,10 @@
 <P>manu boile śuṇa agasti mahāmunya | 21 |
 <P>lakṣmaṇa kumara janma śuṇi hoili sadagati
 <P>ẏethu ante pāṇḍabe kisa kale kahibā mahāyati | 22--12192 |
-<H>*<F>praraNDAsura badha kebaLa dUikhaNDa pothire acchi |</F> {@pracaṇḍāsura badha@}
+<H>{@* pracaṇḍāsura badha@}
 <P>nakuḷara pāṭa ye kemante svarge helā
 <P>ẏehā śuṇibāku mora śaradhā baḷilā | 1 |
+<P1>* praraNDAsura badha kebaLa dUikhaNDa pothire acchi |
 [MBO-01(2)-980]
 <P>agasti boile śuṇa he manu rājana
 <P>nakuḷaku pāṭa yehne dile maghabāna | 2 |

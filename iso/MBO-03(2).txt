@@ -12437,7 +12437,16 @@ pāṭha)
 <P>nija aṅga subeśa kariṇa raẏaṇīre
 <P>kānta saṅgate bihāra karai ānandare | 100 |
 <P>tebe jāṇa upujai apuruba nandana
-<P><F>*na' kha' pothi dvaẏare dvārapāḷamāne duśāsanara antapuraku
+<P>* lakṣe prāṇī poṣeṇa se huai bhājana | 101 |
+<P>dhuśāsana boilā muṁ na jāṇai biśuāsa
+<P>naẏana tarāṭi dhāiṁlā dropatīra pāśa | 102 |
+<P>yesaneke rāhu dhāmaiṁ kopabhare
+<P>garjana śabaca kari paśilā antapure | 103 |
+<P>dhuśāsanara durbuddhi dekhiṇa pāñchāḷī
+<P>anteśvara pure lucile yāiṁ dr̥pada dulālī | 104 |
+<P>ālo ālo boliṇa hākai bīramaṇi
+<P>kāhiṁ luciachu lo pāṇḍabakuḷa rāṇī | 105 |
+<P1>* na' kha' pothi dvaẏare dvārapāḷamāne duśāsanara antapuraku
 <>prabeśa samaẏare tāṅka saṅgare yuddha karibā o dhuśāsana ṭhāru
 <>yujheṣṭhira paśā kheḷare samasta hāribā śuṇi yuddharu birata hele
 <>o keteka dvārapāḷa āsi kuntīku kahante kuntī siṁhadvāra
@@ -12449,15 +12458,7 @@ pāṭha)
 <>maṇuṁ' kāraṇa dropatīṅku ākarṣaṇa kari yibā jāṇi kuntī duśāsanaku
 <>bāraṇa karithile, kintu dropatīṅku dhāraṇa karibā samaẏare nīraba
 <>rahibā asaṅgata bodha heuacchi, teṇu ubhaẏa samanyaẏa kari samīcīna
-<>pATha diAgalA |</F> lakṣe prāṇī poṣeṇa se huai bhājana | 101 |
-<P>dhuśāsana boilā muṁ na jāṇai biśuāsa
-<P>naẏana tarāṭi dhāiṁlā dropatīra pāśa | 102 |
-<P>yesaneke rāhu dhāmaiṁ kopabhare
-<P>garjana śabaca kari paśilā antapure | 103 |
-<P>dhuśāsanara durbuddhi dekhiṇa pāñchāḷī
-<P>anteśvara pure lucile yāiṁ dr̥pada dulālī | 104 |
-<P>ālo ālo boliṇa hākai bīramaṇi
-<P>kāhiṁ luciachu lo pāṇḍabakuḷa rāṇī | 105 |
+<>pATha diAgalA |
 [MBO-03(2)-482]
 <P>dhuśāsana mukhuṁ śuṇiṇa ẏesana anīti
 <P>dvāra abori rahile kuntabhojara duhitī | 106 |

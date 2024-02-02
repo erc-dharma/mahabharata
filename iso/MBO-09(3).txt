@@ -822,8 +822,7 @@
 [MBO-09(3)-30]
 <H>{@byāsa sarobarare duryodhanara
 <>prabeśa@}
-<P><F>*`ba' o `ḍha' pothidvaẏara upākhyānā mūḷare jagannātha bandakā
-<>paridruSTa hue--pAThAntara rUpe tAhA gruhIta helA |</F> ẏethu anantare ye bilaṁka deśa rājā
+<P>* ẏethu anantare ye bilaṁka deśa rājā
 <P>agastiṁka padmapāde kale dibya pūjā | 1 |
 <P>basana kuṇḍaḷa dhūpa dīpa naibedya
 <P>kaṇaẏa br̥ṣṭi kalā rājā agastiṁka pāda | 2 |
@@ -831,6 +830,8 @@
 <P>taqribi bhabajaḷadhi na paḍi biṣāde | 3 |
 <P>kisa dei bhagati karibi pādataḷe
 <P>samudra gaṇḍuṣa kala kheḍai kotūhaḷe | 4 |
+<P1>* `ba' o `ḍha' pothidvaẏara upākhyānā mūḷare jagannātha bandakā
+<>paridruSTa hue--pAThAntara rUpe tAhA gruhIta helA |
 <P1>jaẏatu jagannāthatha kṣirodra taṭabāsī
 <P1>kaḷiyuga nimante bauda rūpa prakāśi |
 <P1>namaste jagannātha dukhiloka boṅgdhu

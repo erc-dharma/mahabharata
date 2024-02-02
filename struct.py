@@ -3,9 +3,6 @@ Pseudo-tags:
  172987 <P>
   17750 <P1>
     101 <H1>
-      4 <F>
-      4 </F>
-      2 <Poem>
 
 [MBO-01(1)-1] before each new page
 
