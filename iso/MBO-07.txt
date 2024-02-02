@@ -9209,7 +9209,6 @@ $}mandāra deśara rājā aṭai mandakeśī | (ñja,tha,na)}
 <P>kadācite jāḷā śānti nohilā bhīṣmaṁkara śarīra | 206 |
 <P>arjunaku boile bābu āmbhanta jaḷa desi
 <P>meghāśara gheni pārtha ākāśa gaṅgākaiṁ peśi | 207 --3947
-<><picture>
 <P1>203 {labha tu aneka śirī mama kailāṇa tote bāñchā
 <>ẏekamane pañchusthaḷī bhegyakara tu kaicthā?? | (jha,ṅa)}
 <P1>203|2 kaṣā--pratiñṅka,kīrtti |
@@ -9748,5 +9747,4 @@ $}mandāra deśara rājā aṭai mandakeśī | (ñja,tha,na)}
 <P>śūdramuni sāreḷadāsaku prasanne mukati gati debā | 248--39791
 <P>bhīmasyāpiraṇe bhaṅgā munerapi matibhramaḥ |
 <P>yadi śuddamaśuddiṁ bā mama doṣā na bidyate |
-<Picture>samāpta
 <P1>brahmapua śāradā presre śrī śyāmasundara pāṛhīṅka dvārā mudrita | 1964 |
