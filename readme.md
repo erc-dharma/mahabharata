@@ -4,7 +4,7 @@
 
 Scans of Arttaballabha Mohanty's edition are available at https://archive.org/details/odia-mahabharata. 
 
-The edition was scanned in 2008 at Leiden University by Arlo Griffiths with the help of Shila Schoots.
+The edition was scanned in 2008 at Leiden University by Arlo Griffiths with the help of his assistant Shila Schoots.
 Based on these scans, the edition was rekeyed 2009 by typists based in South India whose work was coordinated by Thomas Malten. 
 The work was done at the time with a low budget furnished by Arlo Griffiths and left a lot to be desired. 
 It has remained dormant for nearly 15 years and has now (Febr. 2024) started to be gradually cleaned up.
