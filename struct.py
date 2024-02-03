@@ -25,7 +25,8 @@ Q
 q
 f
 
-
+beware of digits within text, too!
+beware of English passages!
 
 
 
