@@ -1,0 +1,68 @@
+# Transliteration
+
+In ISO, there are still passages that are not transliterated. Malten's original is in some variant of the Harvard-Kyoto scheme, see
+https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/help.html.
+I propose the following replacements:
+
+	s,A,ā,g
+	s,I,ī,g
+	s,U,ū,g
+	s,E,e,g
+	s,O,o,g
+	s,M,ṁ,g
+	s,K,k,g
+	s,G,ṅ,g
+	s,T,ṭ,g
+	s,D,ḍ,g
+	s,N,ṇ,g
+	s,P,p,g
+	s,B,b,g
+	s,Y,y,g
+	s,z,ś,g
+	s,Z,ś,g
+	s,S,ṣ,g
+	s,L,ḷ,g
+
+Not sure about:
+
+	J
+	C
+	Q
+	q
+	f
+
+Also beware of digits within text, which sometimes represent diacritics, e.g.
+
+	Anay1ana o rAjasUy1a
+
+Also beware of English passages, which are transliterated but should not, e.g.:
+
+	ṭhe cogged vhell belonging to a vater vheel.
+
+After all that is done, take care of vowels that should be capitalized or not
+(see issues).
+
+
+# Structure
+
+[MBO-01(2)-3]
+[MBO-11(2)-title3]
+
+	occurs before each new page; means vol. 1 part 2, p. 3 and so on
+
+<H>	heading: bigger font, bold and center. no distinction
+	between headings levels
+
+Headings can have cont. lines, as in:
+
+	<H>{@sāraḷā mahābhārata
+	<>gāndhārīṅka netra jaḷare durddakṣara dahana@}
+
+{@...@} is supposed to mark a single sentence apparently, so we should
+keep it when possible, but it's not used consistently and I do not see the
+difference with the use of <> for continuation lines.
+
+
+<P>	single line in text body
+<P1>	footnote, first line
+<>	line break, cont. of prev line (in part. in fn)
