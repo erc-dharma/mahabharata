@@ -37,4 +37,4 @@ ignore the original data. We don't have access to the original converter. Appare
 
 To help identify problems, Michaël Meyer has created three additional files: `malten_full.txt`, `iso_full.txt` and `ori_full.txt`. They hold the full text of the respective versions, concatenated into a single file, and without markers.
 
-There are about 40 less lines in malten_full than in iso_full and ori_full, probably because some markers from malten_full where incorrectly transliterated. In malten_full itself, there are quite a few surprising character sequences, like "coÔøΩkhaÔøΩ", which are preserved in iso_full but obviously should have been transliterated to something more meaningful.
+There are about 40 less lines in malten_full than in iso_full and ori_full, probably because some markers from malten_full where incorrectly transliterated.
