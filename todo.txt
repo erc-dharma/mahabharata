@@ -46,6 +46,9 @@ After all that is done, take care of vowels that should be capitalized or not
 
  ḍh is often (always?) mirepresented as t
  r̥ is often conflated with ru
+ postconsonantal u is often misread as ma
+ ā is often misread as a
+ cā is mistyped as chā
 
 
 # Structure
