@@ -42,6 +42,11 @@ Also beware of English passages, which are transliterated but should not, e.g.:
 After all that is done, take care of vowels that should be capitalized or not
 (see issues).
 
+# Typing errors
+
+ ḍh is often (always?) mirepresented as t
+ r̥ is often conflated with ru
+
 
 # Structure
 
