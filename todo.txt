@@ -2,38 +2,46 @@
 
 In ISO, there are still passages that are not transliterated. Malten's original is in some variant of the Harvard-Kyoto scheme, see
 https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/help.html.
-I propose the following replacements:
+Not sure what to do about
 
-	s,A,ā,g
-	s,I,ī,g
-	s,U,ū,g
-	s,E,e,g
-	s,O,o,g
-	s,M,ṁ,g
-	s,K,k,g
-	s,G,ṅ,g
-	s,T,ṭ,g
-	s,D,ḍ,g
-	s,N,ṇ,g
-	s,P,p,g
-	s,B,b,g
-	s,Y,y,g
-	s,z,ś,g
-	s,Z,ś,g
-	s,S,ṣ,g
-	s,L,ḷ,g
-
-Not sure about:
-
-	J
 	C
+
+iso/MBO-03(2).txt:<P1>362|2–saṁcaẏe banapati mora sīmā ghenimāku kalā iccthā | Ca, ca
+iso/MBO-05.txt:<P>muṁ kiṁpā nāśayibi ẏeḍe sampada chāCi | 43 |
+
 	Q
 	q
 	f
 
-Also beware of digits within text, which sometimes represent diacritics, e.g.
+Also beware of digits within text, which sometimes represent diacritics:
 
-	Anay1ana o rAjasUy1a
+	āgeṇa mahāmatta ye pān1cha lakṣa gaja
+	jaya1 tu jaẏa tu deba āhāre mattabhoḷā
+	piṇḍāre basi uccāranti bubhmakṣita yajamāna kāṇḍi9 | 69 |
+	anādi apa4ṇṇā se trailoke prasiddhi | 571 |
+	nandighoṣa rathe bijaẏe kale3 catrapāṇi | 87 |
+	arjuna boile deba tahiṁki9 na kariba cintā
+	nānā jībajantu tahiṁ madanare3 bhoḷa | 163 |
+	sanyagoḷa dekhiṇa gar4je bhīma mahābama
+	mant5rīra bacane na rahanti saini
+	mūlya ṭa6-55paisā
+	77| debatāmānaṁku pañchāmr̥te srāhāna ye kari |(jha2, ṭa)
+	120|2 satyabhagna nicaẏe hoilā sahasākṣā |(jha2, ṭa, jha1)
+	pāñthakoṭi ratne3 gheniṇa śrīhaste
+	kāmadeba janamilā pr4aharāda rūpa dhari | 116 |
+	brahma nārāẏaṇa tahiṁ bija1ẏe sac bonṅakāle | 90 |
+	l26|2 yujheṣṭhi praśapatya śutile daṇḍalāi |
+	bhīmasena chaḍante paḷā1e śakuni
+	j1aẏa tu digamvara yābata candracūḷa
+	dhāmanti bikarāḷe kare khapara gheni |(jha, ka, ḍa, ñja, ga, ṅa, ca1)
+	ātmā baikulye kampai beni muṣṭi ||(ca1, ca, ga)
+	śauri9bāra hastā nakṣatra yama ghaṇṭa yoge
+	mūlya : ga4. 40 pa. (chāriṭaṅkā chāḷiśa paisā)
+	bābu athabā saṁsāre3 se para upakārī
+
+Also beware of encoding errors, e.g. (some represent single quotes apparently):
+
+	nr̥pabara� pare �ba� �ja� �ḍha�
 
 Also beware of English passages, which are transliterated but should not, e.g.:
 
