@@ -39,9 +39,12 @@ Also beware of digits within text, which sometimes represent diacritics:
 	mūlya : ga4. 40 pa. (chāriṭaṅkā chāḷiśa paisā)
 	bābu athabā saṁsāre3 se para upakārī
 
-Also beware of English passages, which are transliterated but should not, e.g.:
+Also beware of English passages, which are transliterated but should not:
 
-	ṭhe cogged vhell belonging to a vater vheel.
+	iso/MBO-01(1).txt:<P1>{@ā plate or platles formed by leaves tacked together@}
+	iso/MBO-02(1).txt:<P1>75|2 tumba :– {@1.  ṭhe cogged vhell belonging to a vater vheel. 2. ṭhe nave of a vheel. 3. ādam across a river.@}
+	iso/MBO-06.txt-<P>ā stringed musical instr̥ment
+	iso/MBO-06.txt:<>vith made the bottlegourd.
 
 After all that is done, take care of vowels that should be capitalized or not
 (see issues).
