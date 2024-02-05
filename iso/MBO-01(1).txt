@@ -765,7 +765,7 @@
 <P1>104|2 koḷa karante toḷi pakānti debī dūre | (pā)
 <P1>105|2 ratibandhabinile trīṛāraṅga kari |
 <P1>103|2 raẏeṇī–rakanī 104|2 ṛelāilā–pelidelā
-<P1>l08|1 komaṇ{?}-kamaṇḍa{?} 109|2 bhasaghaṭi–sampurṇṇa bhasa{?} karidebā
+<P1>108|1 komaṇ{?}-kamaṇḍa{?} 109|2 bhasaghaṭi–sampurṇṇa bhasa{?} karidebā
 [MBO-01(1)-28]
 <P>bhekhara beḷe se anna na diai sañchi
 <P>abhokha beḷe se aneka mate yāci | 111 |
