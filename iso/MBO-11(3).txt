@@ -3409,7 +3409,7 @@
 <P>se mahālākha kehi binddha nuārile | 305 |
 [MBO-11(3)-123]
 <P>baḷadebaṁku chāhiṁ pachāranti bāsudeba
-<P>kaha he baḷadeba lākha aBa ke binddhaba | 306 |
+<P>kaha he baḷadeba lākha aba ke binddhaba | 306 |
 <P>baḷarāme boile binddhaba bīra karṇṇa
 <P>ẏe kanyāgoṭiku puṇa nebaṭi driyodhana | 307 |
 <P>śuṇiṇa śrīkr̥ṣṇa ye catraku peṣile
@@ -3922,7 +3922,7 @@
 <P>satyakari achanti āpaṇā dr̥dhacitte | 553 |
 <P>paśāre hārile banastare paśiba
 <P>dvādaśa baraṣa yāẏe banare bhramiba | 554 |
-<P>ẏethimadhye agyāṁta barasE teradina
+<P>ẏethimadhye agyāṁta barase teradina
 <P>jaṇāgale se puṇa bhramiba ghorabana | 555 |
 <P>ẏekai basre puṇa araṇyaku yiba
 <P>baraṣe teradina agyāṁte rahiba | 556 |
@@ -5600,7 +5600,7 @@
 <P>śvānara ārata dekhi yujheṣṭhi uṭhibe
 <P>ḍāḷeka bhāṅgiṇa ye brāghaku ogāḷibe | 1363 |
 <P>brāgha gyānakathā ye kahibe tāṁka pāśa
-<P>apYboṅg yāna gheniṇa tahiṁ miḷibe tridaśa | 1364 |
+<P>apyboṅg yāna gheniṇa tahiṁ miḷibe tridaśa | 1364 |
 <P>svadehe yujheṣṭhi ye rathe basi svarge yibe
 <P>sañjibanī pura bāṭe svargare paśibe | 1365 |
 <P>kr̥ṣṇa ādi charibhāi āsibe pāgcheṭi

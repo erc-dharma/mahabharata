@@ -430,7 +430,7 @@
 <P>nityeheṁ se bijaẏe karai dropatī puraku
 <P>bhābeṇa pāñchāḷī ye bhaṇḍāi tāhāku | 67 |
 <P>beḷe kāḷa yoga kicchi hiṁ na jāṇaiṁ
-<P>gāṛhE dhari śr̥ṅgāra se baḷātkāre karai | 68 |
+<P>gāṛhe dhari śr̥ṅgāra se baḷātkāre karai | 68 |
 <P>ghuñchai aparṇṇā se śr̥ṅgāre asahaṇī
 <P>bhīmasenaku dekhi bhaẏa karai ṭhākurāṇī | 69 |
 <P>yetebeḷe bhīmasena anaryāpe āsai
@@ -585,7 +585,7 @@
 <P>ye tohora ramāṇī tāhāra tule śr̥ṅgāra karante
 <P>rahiba indri tohora yonirasa korante | 33 |
 <P>tohora ramaṇa re dekhantu jagata
-<P>dāṇḍa hāṭa maṇrOpa sabuṭhāre kara rata | 34 |
+<P>dāṇḍa hāṭa maṇropa sabuṭhāre kara rata | 34 |
 <P>māra māra boli samaste bolibe
 <P>pāṇḍabaṅka śāpa ẏe samaste bichāribe | 35 |
 <P>ẏemante rati tora dekhibe saṅsāra
@@ -1867,7 +1867,7 @@
 <P>gaṅgākūḷa deiṇa ye dhāiṁle kumare
 <P>dakṣiṇa bhāga kati paśile toṭāre | 245 |
 <P>gaṅgāru pāṇi pūroiṁ ratna ghaṭe
-<P>paKānti agnire ye mahā mahā baḷiṣṭhe | 246 |
+<P>pakānti agnire ye mahā mahā baḷiṣṭhe | 246 |
 <P>rakha ho arjuna boli ḍakile baśyānare
 <P>arjjuna śuṇilā tā thāiṁ jagatī upare | 247 |
 <P>pabanā śahasreka peṣilā phālaguni
@@ -3350,7 +3350,7 @@
 <P>bāiśa bāṇa ye bīra binddhalā turita | 117 |
 <P>daśa bāṇa peṣi tāhā chedilā mahārājā
 <P>chāḷiśa bāṇa māilā hiṅguḷā tanujā | 118 |
-<P>pāñchabāṇE tāhā bairāṣṭra ye nibāri
+<P>pāñchabāṇe tāhā bairāṣṭra ye nibāri
 <P>samara sambhāra tāra kahita ki pāri | 119 |
 <P>citrāṅkura rājā bāma kare dhanu dhari
 <P>nārāja bindhai se garjana nāda kari | 120 |
@@ -9840,7 +9840,7 @@
 <P>sabunti akṣata dile nanda basudeba | 187 |
 <P>ratha gaja aśva saini sājiṇa samadaṇḍa
 <P>bīratūra śabade kampilā brahmāṇḍa | 188 |
-<P>yujhEṣṭhi pachārile śuṇimā debarāja
+<P>yujheṣṭhi pachārile śuṇimā debarāja
 <P>hastinā rājyaku āmbhe samadaṇḍa kalu saja | 189 |
 <P>parama sānande mote āgyāṁ debā haḷī
 <P>śuṇiṇa maṅgaḷa bāṇī karanti banamāḷī | 190 |
@@ -10402,7 +10402,7 @@
 <P>pacchima pradeśe caḷai phālaguni | 32 |
 <P>nārada boile śuṇa janārddana
 <P>arjuna yāuacchi yakṣa rājāra madhubana | 33 |
-<P>niḷendī sarObara yakṣa rājā pratipāḷi
+<P>niḷendī sarobara yakṣa rājā pratipāḷi
 <P>tohora bhaẏare yamunāru yāi paśiacchi kāḷi | 34 |
 <P>se suganddha puṣye ābori achanti sarpe
 <P>arjuna marddipāribaṭi ki kāḷi nāgara darpe | 35 |
@@ -11237,7 +11237,7 @@
 <P>tetraẏā yuge jāta hoilā sugrība nāma bahi | 379 |
 <P>ādi praḷaẏa kāḷe tumbhe ketu maṅgaḷa
 <P>satya yugare jāta tumbhe śasta praśasta mahābaḷa | 380 |
-<P>tretaẏā yuge tumbhe bāḷī sugrība rūPe utapanna
+<P>tretaẏā yuge tumbhe bāḷī sugrība rūpe utapanna
 <P>dvāpara yuge tumbhe ho karṇṇa arajuna | 381 |
 [MBO-02(1)-382]
 <P>bāḷī sugrībaṁkara muṁ aṭai bhaṇañjā
@@ -14972,7 +14972,7 @@
 <P>gandhabong kinnara dakṣagaṇamāne
 <P>beḍhi rahiachanti brahmāra sannidhāne | 786 |
 <P>rāmakr̥ṣṇa śaṁkara basileka yāiṁ
-<P>brahma boile tumbhe kaḷi kara kāhiṁ Pāiṁ | 787 |
+<P>brahma boile tumbhe kaḷi kara kāhiṁ pāiṁ | 787 |
 <P>śaṁkara boile ha śuṇimā bedabara
 <P>kanyā ẏeka thilā baruṇara pura | 788 |
 <P>sāna kāḷu mātā tāra kārttikaiku barithilā
@@ -15394,7 +15394,7 @@
 <P>kare kodāḷa gheni datya dhuśāku goḍāilā | 92 |
 <P>dekhi droṇa guru ogāḷile dūruṁ
 <P>ki abā meru āge achai āreka ye meru | 93 |
-<P>samBhaḷa re asura boli māile lakṣe śara
+<P>sambhaḷa re asura boli māile lakṣe śara
 <P>ẏe bidhi bindhanti ye gaṁgāṁka kumara | 94 |
 <P>śateka bhāi piṭanti gadā gheni
 <P>bājante śahasramāne jhalakanti bahani | 95 |
@@ -15787,7 +15787,7 @@
 <P>sahadeba dekhi tāku ogāḷile jhāti | 280 |
 <P>asura boilā tumbhe āḍa hoa bhāi
 <P>mohora śatr̥ku muṁ achai goḍāi | 281 |
-<P>naraBajy bgaẏe ki nāhiṁ ho tumbhara
+<P>narabajy bgaẏe ki nāhiṁ ho tumbhara
 <P>mote yujhibu kire tu chāra pāmara | 282 |
 <P>sahadeba boile śuṇa re danuja
 <P>paḷāilā lokaku goḍāu ẏe kebaṇa tora kāryya | 283 |
@@ -16966,7 +16966,7 @@
 <P>śāmba kumara kaṇṭhe lambāilā ratnamāḷī | 420 |
 <P>dekhi kumaramaṇī dhailā tāku koḷe
 <P>meḍha bhitare se ye mahāniśā kāḷe | 421 |
-<P1>411|2 “ṭa” pothire “dhanya se rūPabanta tini bhmabane sama nāhiṁ” pāṭha pare –
+<P1>411|2 “ṭa” pothire “dhanya se rūpabanta tini bhmabane sama nāhiṁ” pāṭha pare –
 <P1>candrābatī bole nārada mote se rūpa dekhā
 <P1>nohile biṣa khāi maribi ke kariba rakṣā |
 <P1>nāradaṁka mukha chāhiṁ bāḷī boile bacana
@@ -18122,7 +18122,7 @@
 <P>trodhe asambhāḷa sakaḷa nara nārī | 944 |
 <P>āre bābu śāmba boliṇa ye ucce dyanti ḍāka
 <P>ẏekā śāmba nāma goṭi sabuṁkari mukha | 945 |
-<P>śriKr̥ṣṇa boile ye adabhmata bāṇī
+<P>śrikr̥ṣṇa boile ye adabhmata bāṇī
 <P>nirghāta bāṇe ke mote pakāilā hāṇi | 946 |
 <P>ulukāpāta jāṇi śāmba kumara keṇe galā
 <P>ẏe kathā mote ta gocara nohilā | 947 |

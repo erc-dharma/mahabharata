@@ -2357,7 +2357,7 @@
 <P>srāhāna bhojana bege samaste sārile | 226 |
 <P>ẏemanteṇa thokāẏeka dina bahigalā
 <P>puṇi guruṁkaramane putra kaṣṭa paḍilā | 227 |
-<P>śrīKr̥ṣṇaṁku chāhiṁ guru kahanti bacana
+<P>śrīkr̥ṣṇaṁku chāhiṁ guru kahanti bacana
 <P>bābhiẏe āmbhe yibu tīrtha ye pheriṇa | 228 |
 <P>maṇi karṇṇikāre srāhāna sāribu
 <P>mādhaba sumari āmbhe prāgare jhāsibu | 229 |
@@ -5082,7 +5082,7 @@
 <P>śuṇi saja takṣaṇe hoile śibagaṇa | 100 |
 <P>ye yāhāra āẏudha dhari dhāiṁle ati bege
 <P>takṣaṇe miḷile yāiṁ kaḷapa yuddha lage | 101 |
-<P>re re kāra kariṇa dile bhirOba raḍi
+<P>re re kāra kariṇa dile bhiroba raḍi
 <P>meru mandara giri kibā paḍilāka jhaḍi | 102 |
 <P>daitara uparaku māile bege śara
 <P>yesane śrābaṇa māsara jaḷadhāra | 103 |
@@ -6092,7 +6092,7 @@
 <P>paḍilā dānaba ye pañchukośa māḍi | 264 |
 <P>asura badha kari ubhā bhīra brikodara
 <P>dekhai sanidhe ye nāhānti deba hara | 265 |
-<P>meṣamāsa śuKaḷa pakṣa pañchamī gurubāra
+<P>meṣamāsa śukaḷa pakṣa pañchamī gurubāra
 <P>asuraku badha kala beḷa daṇḍa tera | 266 |
 <P>ākāśuṁ śubhilā ye sādhu sādhu bāṇī
 <P>bhīmasena mathāre puṣpa br̥ṣṭi kael deba catrapāṇi | 267 |
@@ -6806,7 +6806,7 @@
 <P>gobinde boile tu ho śuṇa mantrībara
 <P>rājāmānanta baraṇa kemante karibā bichāra | 122 |
 <P>sahadeba boile tumbhe śuṇimā hr̥ṣīkeśa
-<P>pātāḷa bhabanaku se Yāntu mādrīśīṣa | 123 |
+<P>pātāḷa bhabanaku se yāntu mādrīśīṣa | 123 |
 <P>mr̥gasena jārāsandhaku āṇantu bhīmasena ṭhākura
 <P>nāradaṁku pachāra se jāṇanta ẏethira bichāra | 124 |
 <P>arjuna ṭhākura yāntu svarga bhmabana yāẏe
@@ -10694,7 +10694,7 @@
 <P>asura niśodhane daitāri yāra nāma | 364 |
 <P>lakṣmī sarasvatī yāra caraṇe daini
 <P>śūdramuni āroḷa dāsaku rakha ho catrapāṇi | 365 |
-<P>gaurī nandaba caraBajy nira āśa
+<P>gaurī nandaba carabajy nira āśa
 <P>adr̥śya dr̥śya yemante hoai hara śiṣa | 366 |
 <P>śrī biśvanātha mote uddhara deba svamī
 <P>mūrukha sāroḷa dāsaku rakha antaryyāmī | 367 | 10829 |
@@ -14049,7 +14049,7 @@
 <P>ẏete mboli jagannāthe sainaku pachakari
 <P>ratheṇa ārohile kare śasra dhari | 242 |
 <P>tāhā dekhiṇa daita dhāiṁlā atibege
-<P>bāhānāda kariṇa miOilā śrīkr̥ṣṇaṁka āge | 243 |
+<P>bāhānāda kariṇa mioilā śrīkr̥ṣṇaṁka āge | 243 |
 <P>ketu maṅgaḷa prāẏe ye diśai mahāteja
 <P>meru pabongte bheṭi yesaneke ailā mattagaja | 244 |
 <P>re re kāra kariṇa ye asura mahākope

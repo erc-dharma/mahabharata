@@ -883,7 +883,7 @@
 <P1>152|1 cāṭu paṭaḷa tu sabongṅku āna kahu |
 <P1>153|1 supakva kari randhana karāi ye niti |
 <P1>156|2 kipāiṁ roḷa tu toḷu anamitta |
-<P1>147|2 bedakarāṇḍi–bedakāṇḍi, bedakaṇḍiKa pothi 148|2 dudhaṁsa–durdhaṣa
+<P1>147|2 bedakarāṇḍi–bedakāṇḍi, bedakaṇḍika pothi 148|2 dudhaṁsa–durdhaṣa
 <P1>urabhaṅgā–chātiphaṭā 156|2 roḷa–goḷa
 [MBO-01(1)-32]
 <P>ẏesaneka aneka kāḷa sahile śāyeṁtanu mahāruṣi
@@ -1082,7 +1082,7 @@
 <P>pitā mukata hoai aneka hāde dharme | 240 |
 <P>ẏete bichāri se paṇṭi ta bhāgyabanta
 <P>subarṇṇa pātre arghyeka ghenile muni hasta | 241 |
-<P>subarṇṇa dīpeṇa guā ghr̥ta ye pūchEi
+<P>subarṇṇa dīpeṇa guā ghr̥ta ye pūchei
 <P>netara baḷitāẏe śrīphaḷeka lāi | 142 |
 <P1>236|2 āmbhanta dekhi na śujhai putraku ||
 <P1>239|1 nabatana putrara ye chāhile badana
@@ -1511,7 +1511,7 @@
 <P>biṣāda sthāna kehu svāmī kaha upalekhi | 16 |
 <P1>6|2 nabatana basana patanī bhmaje maṅgaḷa sūtā | pāṭhāntara māna
 <P1>6|2 nabatana basana pindhā kāndheṇa pabitra sūtā | pāthāntara māna
-<P1>6|2 nabatana basana śobhā bhmajeṇa mantra sūtā | Pāṭhāntara māna
+<P1>6|2 nabatana basana śobhā bhmajeṇa mantra sūtā | pāṭhāntara māna
 <P1>8|2 ṛākanti cantaputra kaẏebāra bidhāna |
 <P1>13|2 ānandeṇa aśr̥jaḷa ki biṣādeṇa trodhamati |
 <P1>16|2 biṣāda hoile kiṁpā āne dhauryya upekṣi |
@@ -3591,7 +3591,7 @@
 <P>dekhiṇa parama sānanda hoile kamaḷalocana
 <P>koḷakari nāma dele tāhāra bīra karṇṇa | 34 |
 <P>karṇṇeṇa chāpile svāmī amr̥ta kuṇḍaḷa beni
-<P>tāḷure gopyāna kale amr̥ta abheda kaPaca maṇi | 35 |
+<P>tāḷure gopyāna kale amr̥ta abheda kapaca maṇi | 35 |
 <P>śarīre lepana kale bajra ye chauri
 <P>karṇṇeṇa kumarara mahābrahma mantra paṛhī | 36 |
 <P>ākuñchita keśa rasāṇilā pāṭiā kapāḷa
@@ -4848,7 +4848,7 @@
 <P>ke bindu pakānti hastare reta kari | 42 |
 <P>pakuṁ kadaḷīra chepā lāiṇa ke karai rati
 <P>temante heṁ tāḷi kari reta pakābanti | 43 |
-<P>ke mr̥ttikā khaṇḍire jaḷā goṭiẏe Kari
+<P>ke mr̥ttikā khaṇḍire jaḷā goṭiẏe kari
 <P>pakāi mahārasa bhitare patra bhari | 44 |
 <P>ke gāī maiṁṣī ke abā meṣa cheḷi
 <P>nānā prakāre karanti rati rasa keḷi | 45 |
@@ -13153,7 +13153,7 @@
 <P>bhīmasena boilā deba hoiacchini sehi
 <P>nohile kiṁpā caḷantā kaḷaṅka yebe nāhiṁ | 90 |
 <P1>85|1 muṇohire bije kale mahābīra
-<P1>85|1 munOhire bije kale mānagobinda bīra |
+<P1>85|1 munohire bije kale mānagobinda bīra |
 [MBO-01(1)-460]
 <P>śuṇiṇa tabada ye dharma ra nandana
 <P>mane mane toṣa hoile bhīmasena | 91 |
@@ -13187,7 +13187,7 @@
 <P>kāṭanti paṣāṇa yene bajra kīṭa nibongāṇi | 11 |
 <P>dvādaśa baraṣe tāhā kaleka nirmita
 <P>saubhāgī nadī kūle saubhadra banasta | 12 |
-<P>ahiṁra Kuḷe arabinda lohagiri
+<P>ahiṁra kuḷe arabinda lohagiri
 <P>upāẏeṇa driyodhana tāhā pathara ghara kari | 13 |
 <P>ghaṭaṇa nirmita yetebeḷe hoilā sagpurṇṇa
 <P>bhitare pituḷinta bhiāile citra ye lekhana | 14 |
@@ -13893,7 +13893,7 @@
 <P>nakuḷa boilā de ba tāta nikaḷaṅka hiẏā
 <P>teṇu se driyodhana āmbhaṅku dilā ẏehā | 71 |
 <P>se mahā dhārmaka bibeka sodrima
-<P>ambhanta samBhāḷilā aṭai tāra dharma | 72 |
+<P>ambhanta sambhāḷilā aṭai tāra dharma | 72 |
 <P>sahadeba boilā deba baḍa susañcha pura
 <P>ati ananta alekha se kaṇaẏa bistāra | 73 |
 <P>driyodhana āmbhaṅku kāhiṁ ẏeḍeka suhr̥de
@@ -16034,7 +16034,7 @@
 [MBO-01(1)-561]
 <P>lakṣe pura kariṇa se beḍhile gāīṅki
 <P>go mātāra kopa ye baḍhilā thāṭha dekhi | 46 |
-<P>beni śiṅghe hoile tā’ra paraśu tikṣa Kāti
+<P>beni śiṅghe hoile tā’ra paraśu tikṣa kāti
 <P>niśvāsa bahilā pabana aṇachāśa mūrtti | 47 |
 <P>pāda hoile tā’ra asibara asibara tīkṣa mūnā
 <P>piṭhira carma tā’ra hoilā bajra sehnā | 48 |

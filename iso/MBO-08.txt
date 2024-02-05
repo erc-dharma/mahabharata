@@ -3669,7 +3669,7 @@
 <P>chatrīkuḷe dūṣaṇa āmbhanta baḍalāja | 81 |
 <P>trodhe baikula yenhe paḍai bajraghāta
 <P>gataātmā prāẏe bhūmire paḍita | 82 |
-<P>sagadeba jiKajaru dgaruccgu yujheṣṭhiṁki
+<P>sagadeba jikajaru dgaruccgu yujheṣṭhiṁki
 <P>ābara kuḷadīpa pāibi kāhiṁ dekhi | 83 |
 <P>bāhāreṇa sāṣṭama ye bhītareṇa baḍa bathā
 <P>dharaṇī pāṁṭuacchi yujheṣṭhiṁka byathā | 84 |
@@ -5609,7 +5609,7 @@
 <P>pabanara nandana adhare dantachāpi
 <P>prathama duāre dhuśāsana mohora hoilā adyāpi | 28 |
 <P>sehi se abhimanyuku prāṇe kalā bhraṣṭa
-<P>āja se pheibi droPatīra keśamukuḷa kaṣṭa | 29 |
+<P>āja se pheibi dropatīra keśamukuḷa kaṣṭa | 29 |
 <P>svāmī bhāñjibi śakaṭa bhūa karibaiṁ sarba dhūḷi
 <P>akhacaka ādikari bhāñjibi daṇḍa odhi phaḷi | 30 |
 <P>pratagyāṁ kari bolai kumāra nakuḷa
@@ -11834,7 +11834,7 @@
 <P>rajjura upare paḍiṇa upuḍanti śare | 248 |
 <P>bīrasena dhumrasena aṭanti beniyodhī
 <P>dhr̥ṣṭadyumana uparakaiṁ śara binddha | 249 |
-<P>droPadara nandana anirbāraṇa yuddhe
+<P>dropadara nandana anirbāraṇa yuddhe
 <P>jaḷadr̥ṣṭi prāẏeka nārāja binddhale raṇamadhye | 250 |
 <P>śare śara paḍitāḷa karanteṇa beni
 <P>rudraprasāda dhanu bhagadatta kare gheni | 251 |

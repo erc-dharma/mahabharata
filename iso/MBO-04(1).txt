@@ -1738,7 +1738,7 @@
 <P>pitr̥kāryya arthe deba raghunātha
 <P>lakṣmaṇakaiṁ hakāri se kahanti bārata | 45 |
 <P>gaṇḍājība āmbhe ye banaste loḍibā
-<P>pitr̥loka kāraṇa arthe Piṇḍadāna debā | 46 |
+<P>pitr̥loka kāraṇa arthe piṇḍadāna debā | 46 |
 <P>sītaẏāku kāhā pākhe karibā rakṣaṇa
 <P>āmbhara āsibā yāẏe thiba sītaẏā sannidhyāna | 47 |
 <P>ẏesaneka bolāboli hoante raghunātha
@@ -5516,7 +5516,7 @@
 <P>koḷe jaẏadratha tāṁku dhailā ātreṣi
 <P>dropatīṁki koḷe gheni rathe yāiṁ basi | 150 |
 <P>daśa sahasra ratha tuli tāhāra achai saini
-<P>caḷai sindhurājā dropatīṁKi gheni | 151 |
+<P>caḷai sindhurājā dropatīṁki gheni | 151 |
 <P>robanti dropatī ye ta ra baḷātkāra dekhi
 <P>uccasvare robai yesaneka nirimākhi | 152 |
 <P>uccare ḍāka diai ye dr̥pada duhita
@@ -7447,7 +7447,7 @@
 <P>tāhā gaṇḍuṣa karāile dhaumya purohite āṇi | 295 |
 <P>pāṇḍabe abhiḷāṣa hoiṇa mahāsatī
 <P>pañchu bīryye rahilā se hoile garbhabatī | 296 |
-<P>āho biśvadeba pañchapuruṣe Pūbongra śāpa arthe
+<P>āho biśvadeba pañchapuruṣe pūbongra śāpa arthe
 <P>se āsi pāñchāḷī garbhe rahile mukati nimante | 297 | | 2847 |
 [MBO-04(1)-275]
 <H>{@hariścandra mahārājāṅka upākhyāna@}

@@ -2166,7 +2166,7 @@
 <P>muhiṁ tāhāra sodara aṭai yathābidhi
 <P>dhr̥tirāṣṭa caraṇa thāiṁkinā ārādhi | 245 |
 <P>panaṅgā nārāẏaṇa se mānagobinda catrabratī
-<P>koṭi pāṭe abhiṣEkī mahīmaṇḍaḷe ādhipati | 246 |
+<P>koṭi pāṭe abhiṣekī mahīmaṇḍaḷe ādhipati | 246 |
 <P>hari tohora sañchilā ye ẏehu mahībhārā
 <P>āmbhara anyoanyi dekhi hasai basundharā | 247 |
 <P>āho caitana uṭhiṇa benikara dhaileka debarājā
@@ -4426,7 +4426,7 @@
 <P>bhmajeṇa yāmaḷā lāu kareṇa tridaṇḍa
 <P>jhalakanti caukati tiḷaka śaśīkhaṇḍa | 22 |
 <P>ẏesaneka sarūpa svāmī bāḷuta kuāṁḷī
-<P>kumārīṁKa saṅge raṅgarase kute haḷī | 23 |
+<P>kumārīṁka saṅge raṅgarase kute haḷī | 23 |
 <P1>14| kuāñḷuṇī kuāñḷī kumārī śabdara apabhraṣṭa, kuāñrī
 <>punei-yathā-ghr̥ta kumārī-ghi kuāñrī |
 <P1>19|2 jagujana mohanti svāmī samāja bacane |(sāntvanā bākya)
@@ -8254,7 +8254,7 @@
 [MBO-06-298]
 <P>yognīmāne tejyā karicale niśākāḷe
 <P>ātra aḍhāi prahare pradeśa āsi śriẏānāme śrikāḷe | 103 |
-<P>tārākṣī nāme śriKāḷuṇī acchi tāra tule
+<P>tārākṣī nāme śrikāḷuṇī acchi tāra tule
 <P>bhāradā bandhanaṭhāre āsi duheṁ prabeśa hoile | 104 |
 <P>śrikāḷuṇī boilā ẏeṇe bege āsa
 <P>bhogya purandara puruṣa pāiluṁ bhakṣibā mahumāṁsa | 105 |
@@ -8513,7 +8513,7 @@
 <P>aḷambuṣa nāśa karibe hiḍimbikīra pati | 220 |
 [MBO-06-308]
 <P>droṇaṁkara ante senāpati hebe karṇṇa
-<P>driyodhanara śatāṇOī bhāi mariba bhīmasena | 221 |
+<P>driyodhanara śatāṇoī bhāi mariba bhīmasena | 221 |
 <P>āreka dina yuddhe paḍiba bīra dhuśāsana
 <P>sehidina karṇṇaku nāśa karibe arajuna | 222 |
 <P>karṇnara ante śalya ye hebe senāpati
@@ -10870,7 +10870,7 @@
 <P>kāḷe tumbhakaiṁ prāpata hoiba sehisthāna | 57 |
 <P>ẏeṇū kahe chāla sarbe hastinā nagare
 <P>śuṇi pañchabhrathe glae śrīkr̥ṣṇaṁka saṅgatare | 58 |
-<P>mānagobindara nikaṭE hoile prabeśa
+<P>mānagobindara nikaṭe hoile prabeśa
 <P>ẏekathāne basiel hoiṇa hasa hasa | 59 |
 <P>yujheṣṭhi pachārile śuṇa ho sahadeba
 <P>keuṁṇa dine sāṁgrāma karibā ārambha | 60 |

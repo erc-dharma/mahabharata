@@ -413,7 +413,7 @@ paṣī bibaraṇa ...142
 <P>prathame mukuṭa kimpe bādhilu bhīṣmaṁku
 <P>antakūla bhagna rajā hoilāni tuku | 91 |
 <P>maraṇaku āśa kalā ẏe aputrika doṣe |
-<P>raNa yagyaM kari y1ebe sAMgrAme deba jhAse | 92 |
+<P>raṇa yagyaṁ kari y1ebe sāṁgrāme deba jhāse | 92 |
 <P>yātrā yoge aputra kara chāhiṁba yebe mukha
 <P>kāryya biartha abaśya pāibaṭi dukha | 93 |
 <P>śuṇi pratibāca diai māna ye gobinda
@@ -3415,7 +3415,7 @@ paṣī bibaraṇa ...142
 <P>biddhile nārāja ye hoile ẏekamukha
 <P>aśi sahasra yodhā ye lāṁkiā teja tīkha | 11 |
 <P>karamaṇḍaḷa deśara rājā mādhaba ye sena
-<P>tāhāra tule maitra rāJā driyodhana | 12 |
+<P>tāhāra tule maitra rājā driyodhana | 12 |
 <P>maitra badhāi hoicchi se prayāga baṭa tīrthe
 <P>pr̥thīre abhinna tāku na dekhai kurunāthe | 13 |
 <P>marbhmateka yoddhā ye catile mattanāga piṭhi
@@ -7374,7 +7374,7 @@ paṣī bibaraṇa ...142
 <P>bhaẏeṇa śūnabhmabana tejile debaloke
 <P>trāseṇa kampile ye sakaḷa brandāarke | 73 |
 <P>kāḷacatra jāṇiṇa bhramai beni ḍoḷa
-<P>āPaṇe samare deba bijaẏa kāmapāḷa | 74 |
+<P>āpaṇe samare deba bijaẏa kāmapāḷa | 74 |
 <P>mahā pratāpe svāmī hākanti baḷadebe
 <P>āre āre kr̥ṣṇa āre āre re pāṇḍabe | 75 |
 <P>yesane nirghāta khasi paḍai ākāśuṁ

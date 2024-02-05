@@ -3148,7 +3148,7 @@
 <P>pabongtaru prasarai nityakarma bidhāna | 162 |
 <P>dibase ninye hoai rātre lāgai svarge
 <P>dekhinti tripura loke giri anurāge | 163 |
-<P>dhanu māsa śuKaḷa pakṣa daśamī pāhānti
+<P>dhanu māsa śukaḷa pakṣa daśamī pāhānti
 <P>tinidaṇḍa thāuṁ se lāgilā makara saṁkaānti | 164 |
 <P>arkabāra se dina nakṣatra aśvinī
 <P>taitiḷa nāme karaṇa bhoga daṇḍatini | 165 |
@@ -8837,7 +8837,7 @@
 <P>gopayura kuñjabana basai tahiṁra nikaṭe | 318 |
 <P>nanda boli kariṇa tahiṁra mahākhuḍa
 <P>aśipadma gāi tāra gope se aṭai ṭhakura | 319 |
-<P>ṣiKasagasra gipāḷaṁkara gāimāna
+<P>ṣikasagasra gipāḷaṁkara gāimāna
 <P>pañchakośa māḍiṇa se carānti godhana | 320 |
 <P>praḷaẏa uttu raṇī ādimātā kapiḷā
 <P>kapiḷā tahuṁ utapatti hoilā bauḷā | 321 |
@@ -9587,7 +9587,7 @@
 <P>āre bābu nakuḷa dropatīki kaha yāiṁ
 <P>dr̥bhāsā bhikṣā karibe saṅgate śiṣyanta nei | 51 |
 <P>śuṇīṇa nakuḷa ye bahana hoi galā
-<P>dropatīṁKi yāiṇa se sandeśa kahilā | 52 |
+<P>dropatīṁki yāiṇa se sandeśa kahilā | 52 |
 <P>śuṇiṇa dropatī ye hoile thambhībhūta
 <P>bhāṇḍare kicchi nāhiṁ sarilāni samasta | 53 |
 <P>bhojana sāriṇa muṁ dhoilini kuḍhoi
@@ -10563,7 +10563,7 @@
 <P>svāmīre bhagati hoile ẏesaneka pyṇya yatha | 125 |
 <P>anīti saṁsā ra ẏe bichāra nohe kicchi
 <P>nāśakara debatā se aneka doṣa bācchi | 126 |
-<P>svāmī sebāhuṁ stirīṁKa na diśai āna puṇya
+<P>svāmī sebāhuṁ stirīṁka na diśai āna puṇya
 <P>ẏehi se mokṣagati dharmatirīṁki kāraṇa | 127 |
 <P>svāmī aṭe deba dharma svāmī ye debatā
 <P>svāmī aṭe nārāẏaṇa svāmī ye tīrthayātrā | 128 |
@@ -11180,7 +11180,7 @@
 <P>mathāru kumāra kāṛha pakāilā loḷa | 286 |
 <P>bolai kere adabhūte harila moha yubatī
 <P>rāgeṇa kārttikeśvara ghenilā śūḷa ye śakati | 287 |
-<P>kāmākṣī debīṁKara deuḷa bhitare
+<P>kāmākṣī debīṁkara deuḷa bhitare
 <P>loḍanti caukati beḍhiṇa sambhare | 288 |
 <P>nārade boile bābu śuṇa ho anaṅga
 <P>kanyā gheni caḷiyāsi śrīkr̥ṣṇara saṅga | 289 |

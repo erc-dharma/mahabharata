@@ -1291,7 +1291,7 @@
 <P>mohora mukha na chāhiṁbe deba catradhara | 49 |
 <P>debagaṇa māne kisa bolibeṭi mote
 <P>kāhāri mukha muṁ chāhiṁ na pāribi yugate | 50 |
-<P>yujheṣṭhiṅkara muKha muṁ kemante chāhiṁbi
+<P>yujheṣṭhiṅkara mukha muṁ kemante chāhiṁbi
 <P>mane mane basi bhāḷai bāsebi | 51 |
 <P>puṇa mane bichāra karai arajuna
 <P>āsi prabeśa hoile yujheṣṭhiṅka sannidhāna | 52 |
@@ -7878,7 +7878,7 @@
 <P>dui lakṣa baḷi aṭai ye se beni dhanura | 569 |
 <P1>558|1 arjunara saṁkaṭa jāṇiṇa purandara |
 <P1>568|2 biṣṇura teja rūpa prakāśilā kirīṭī |
-<P1>568|2 biśmarūpa–bhīṣmarūPa |
+<P1>568|2 biśmarūpa–bhīṣmarūpa |
 [MBO-01(2)-853]
 <P>sabhāra abhimāne arjuna kope śara sanddha
 <P>śrījagannātha sumari ātreṣi nārāja binddha | 570 |
@@ -8596,7 +8596,7 @@
 <P>rājāra biarthe paḷābanti saini
 <P>dhāmai brikodara kareṇa gadā gheni | 25 |
 <P>oaḷābabti durāntaka baḷa samara upecchi
-<P>bujaKe bikabtu āsi lāgai kinā pacchi | 26 |
+<P>bujake bikabtu āsi lāgai kinā pacchi | 26 |
 <P>bāsa bhagna pakṣī prāẏe bikaḷe paḷānti
 <P>biśāśate ratha tini koṭi hāthī | 27 |
 <P>agaṇita aśva asaṅkṣepa pādānti
@@ -8607,7 +8607,7 @@
 <P>pañchaśata bhmaje bāṇa bindhai bāṇāsura | 30 |
 <P>hāboḍā śareka ye māilā bīra pātha
 <P>bāṇāsura hr̥dare padilā yehne bajraghāta | 31 |
-<P1>26|2 bikaḷE paḷābanti pachaku na dekhi |
+<P1>26|2 bikaḷe paḷābanti pachaku na dekhi |
 [MBO-01(2)-878]
 <P>ghāẏeṇa trasa kālā baḷi rājāra bāḷa
 <P>mohanā śareka māilā chatrīẏa achārgaḷa | 32 |
@@ -11500,7 +11500,7 @@
 <P>atianta sundara ye diśai kāẏe tāra | 10 |
 <P>dekhiṇa ānanda ye hoileka sabong
 <P>sabong sulakṣaṇa kumāre hoilāka janme | 11 |
-<P1>* lakSmaNakumAra janma kebaLa dui khaNDa pothire dekhAySAe |
+<P1>* lakṣmaṇakumāra janma kebaḷa dui khaṇḍa pothire dekhāyṣāe |
 [MBO-01(2)-979]
 <P>grahaputra ḍakāiṇa kaleka gaṇana
 <P>se boilā sabong śubha hoilā aḷape manda jāṇa | 12 |
@@ -11527,7 +11527,7 @@
 <H>{@* pracaṇḍāsura badha@}
 <P>nakuḷara pāṭa ye kemante svarge helā
 <P>ẏehā śuṇibāku mora śaradhā baḷilā | 1 |
-<P1>* praraNDAsura badha kebaLa dUikhaNDa pothire acchi |
+<P1>* praraṇḍāsura badha kebaḷa dūikhaṇḍa pothire acchi |
 [MBO-01(2)-980]
 <P>agasti boile śuṇa he manu rājana
 <P>nakuḷaku pāṭa yehne dile maghabāna | 2 |
@@ -12101,7 +12101,7 @@
 <P>airābata sahitare candra galā nāśa
 <P>apacharīmāne ta khaṭibe mora pāśa | 271 |
 <P>amara maṇḍaḷe muṁ ye sukhe biḷasibi
-<P>indrapaṇE sudharmāra sabhāre basibi | 272 |
+<P>indrapaṇe sudharmāra sabhāre basibi | 272 |
 <P>ẏe pahijya śacī āge kahilā asura
 <P>śacī boile karme ẏā achai mohora | 273 |
 <P>prcaṇḍāsura boilā śacīṅki binoẏī
@@ -12861,7 +12861,7 @@
 <P>sakaḷa carita se kahilā debadūta
 <P>śuṇiṇa chāri bhāi ye hoile ānandita | 635 |
 <P>yujheṣṭhiṅkaṭhāru se mātali bidāheḷā
-<P>ratha bāhuḍāi se svargaku Bhilā | 636 |
+<P>ratha bāhuḍāi se svargaku bhilā | 636 |
 <P>indragka agrate sabong kahilā barata
 <P>svarga pure ānande rahile śacīkānta | 637 |
 <P>baibasuta manu āge kahile agasti

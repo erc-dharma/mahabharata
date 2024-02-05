@@ -33,7 +33,7 @@
 <>badhū o dhr̥tarāṣṭra gāndhārīṅkara biḷāpa 43
 <P>4| karṇṇājjuna yuddha o śrīkr̥ṣṇaṅka garbha madhye arjjunaṅkara brahmāṇḍa
 <>sandarśana 49
-<P>5| karṇṇa o yudhiṣṭhiraṅkara yuddha, yudhiṣṭhiraṅkara apamāna O
+<P>5| karṇṇa o yudhiṣṭhiraṅkara yuddha, yudhiṣṭhiraṅkara apamāna o
 <>karṇṇara janma bibaraṇa 56
 <P>6| bhīma duḥśāsana yuddha o prathama yuddhare bhīmasenara
 <>parājaẏa 69
@@ -781,7 +781,7 @@
 <P>kāhāra karyye pitā mora paḍilā sāṁgrāma | 55 |
 <P>āho dhr̥ṣṭadyumana ye śrīkhaṇḍī bhrātha beni
 <P>tāhāṁkara mukha chāhiṁ robai jighnasenī | 56 |
-<P>droPada parāẏe pitā marāi re bhāi
+<P>dropada parāẏe pitā marāi re bhāi
 <P>puṇihiṁ āsiacha re pāṇḍabaṅkara mukha chāhiṁ | 57 |
 <P>śrīkhaṇḍī boile māta go na kara tumbhe trodha
 <P>pitāśatr̥ droṇaṁku kaluni prāṇe badha | 58 |
@@ -1886,7 +1886,7 @@
 <P1>āre re śabara chaḍa māgasi mote bara
 <P1>śuṇi āścaryya hoi kāḍhi āṇili dhanuhuḷa |
 <P1>dekhili pañchu badana trinetra sadānanda
-<P1>boile bāOḷuta ture baḍa kalu manda |
+<P1>boile bāoḷuta ture baḍa kalu manda |
 <P1>bhaẏeṇa pādataḷe paṛili kātare
 <P1>sadānanda svāmī mote dhaileka koḷe |
 <P1>muhiṁ boili deba hoili aparādhī
@@ -2952,7 +2952,7 @@
 <P>śuṇa ho baibasuta manu badaẏanti agasti
 <P>bhmaja upāḍante nirghāta śabada ye pr̥thvī | 125 |
 <P>ki abā upuḍiṇa paḍilā himabanta
-<P>ki aBa gaganu padilāka nirighāta | 126 |
+<P>ki aba gaganu padilāka nirighāta | 126 |
 <P>tesane sārikṣe ye śubhilā mañchapure
 <P>rodhira niuḍilā nei dropatīra śire | 127 |
 <P>bulāiṇa se bhmaja ākāśaku dilā phiṅgi
@@ -3290,7 +3290,7 @@
 <P>śalyaṁku boile māmuṁ bege bāha ratha
 <P>begeṇa samara muṁ karibi bīra pātha | 276 |
 <P>ẏemanta bacana śuṇi śalya āgakalā ratha
-<P>arjuna chamure nei ṭEkilā turita | 277 |
+<P>arjuna chamure nei ṭekilā turita | 277 |
 <P>bāhai turaṅgama se rāẏeguru śalya
 <P>nandighoṣa chamr̥e bijaẏe bhāroi mahāmalla | 278 |
 <P>āho caitana karṇṇa arjuna ye samara karante
