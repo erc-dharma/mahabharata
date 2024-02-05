@@ -54,7 +54,7 @@
 <P1>aneka āẏojana ye ratnamāna dile
 <P1>samasta rājya prajāṁku binoẏī kahile |
 <P1>agasti bolanti śuṇa bilaṁka nr̥pamaṇi
-<P1>ẏethu anantare śuṇa svargārohaṇa bāṇī | �ṭa, jha, cha� pothi
+<P1>ẏethu anantare śuṇa svargārohaṇa bāṇī | ‘ṭa, jha, cha’ pothi
 [MBO-11(3)-2]
 <P>agasti boile ho sābadhāne śuṇa
 <P>mahābhāratha ante ye svarga ārohaṇa | 3 |
@@ -362,7 +362,7 @@
 <P1>tāhāku parīkṣitaku bibhā karāile
 <P1>śrīdharmarāja abhiṣeka kari śāḍhi dile |
 <P1>128|2 citrotpaḷā nadī tāre ye yāja nāme nagrī |(ka, cha, tha, jha, ṭha, ṛa)
-<P1>128|2 pare �ṭa, jha� pothira pāṭhāntara :–
+<P1>128|2 pare ‘ṭa, jha’ pothira pāṭhāntara :–
 <P1>amarābatī nagre hari sāhara baṁśa
 <P1>suhāṇī boli tāra duhitā guru haṁsa |
 <P1>134|2 pañchadaśa helā bibhā na dilāka sehu |(ja)
@@ -692,7 +692,7 @@
 <P>bandhanu mukata ye hoile nāśakara
 <P>hari sāhuku boile māga mote bara | 278 |
 <P1>276|2 mr̥tyu nohiba ẏe bhmabana amarābatī |(ja, ṭha, ḍha)
-<P1>278|2 �harisāhuku boile māga mote bara� ehāpare �ḍha, gha�
+<P1>278|2 “harisāhuku boile māga mote bara” ehāpare ‘ḍha, gha’
 <>pe thire dirgha pāṭhāntara :–
 <P1>kara yoḍi sāhu kale jantuṁka īśvara |
 <P1>aputrika kaṣṭaru karibā mote pāri
@@ -2134,7 +2134,7 @@
 <P>pādārghya dile ye agasti brahmadujā | 1 |
 <P>bhrātha sodara nāhiṁ ẏekā hoile yujheṣṭhi
 <P>kebaṇa kr̥tya kale se hemabanta śikhare uṭhi | 2 |
-<P1>30|2 �ẏeteka mātra mithyā dharmasuta kahiachi� pare �ṭa� pothire pāṭha
+<P1>30|2 “ẏeteka mātra mithyā dharmasuta kahiachi” pare ‘ṭa’ pothire pāṭha
 <P1>se phaḷe dharma nandana narkare kāṇiāṅguṭhi buḍāi
 <P1>se kāṇi āṅguṭhi goṭi galā kaḷā hoi |
 <P1>tetiśa koṭi debatā chanti yekameḷi
@@ -2292,8 +2292,8 @@
 <P>kaḷibhoga rājā hoilā deśai | 74 |
 <P>kaḷi ḍareṇa hoi ye gāba rūpa
 <P>goḍāi dhailā yāiṁ kaḷi nr̥pa | 75 |
-<P1>73|2 �mohora carita tuhi śuṇa nr̥pabara� pare �ba� �ja� �ḍha�
-<>�gha� pothire bhinma pāṭha :–
+<P1>73|2 “mohora carita tuhi śuṇa nr̥pabara” pare ‘ba’ ‘ja’ ‘ḍha’
+<>‘gha’ pothire bhinma pāṭha :–
 <P1>śrīkr̥ṣṇa pāṇḍabe yahuṁ nidhanagata hoi
 <P1>kaḷiyugayaka rājā hoilāka mahī |
 <P1>tinipāda kaḷiyuga āsiṇa paśilā
@@ -2702,7 +2702,7 @@
 <P>–saṁpūrṇṇa svargārohaṇa–
 [MBO-11(3)-98]
 <H>{@pariśiṣṭa
-<>�cha� pothi pāṭha@}
+<>‘cha’ pothi pāṭha@}
 <>(tat saṅge saṅge jha, ḍa, ka, tha, ṇa, ṭa, ṭha–pothire acchi)
 <P>ẏethu anantare bilaṁka deśa rājā
 <P>agastiṁka caraṇe kalā dibya pūjā | 1 |
@@ -2776,8 +2776,8 @@
 <P>lubudhe madhukara na chaḍanti pāśa | 34 | 1165 ||
 <P>samāpta
 [MBO-11(3)-101]
-<H>{@25 pr̥ṣṭhāre thibā pāthāntarara–�ẏe kanyā yogaru tuhi
-<>tarilu bahana�–ehi pada pare �cha� pothire
+<H>{@25 pr̥ṣṭhāre thibā pāthāntarara–“ẏe kanyā yogaru tuhi
+<>tarilu bahana”–ehi pada pare ‘cha’ pothire
 <>saṁkṣipta mahābhārathaacchi |@}
 <P>sahadeba mūkharu śuṇa śrī mahābhāratha
 <P>sakaḷa pāparu tuhi hoibu mukata | 1 |

@@ -39,10 +39,6 @@ Also beware of digits within text, which sometimes represent diacritics:
 	mūlya : ga4. 40 pa. (chāriṭaṅkā chāḷiśa paisā)
 	bābu athabā saṁsāre3 se para upakārī
 
-Also beware of encoding errors, e.g. (some represent single quotes apparently):
-
-	nr̥pabara� pare �ba� �ja� �ḍha�
-
 Also beware of English passages, which are transliterated but should not, e.g.:
 
 	ṭhe cogged vhell belonging to a vater vheel.
