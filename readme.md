@@ -11,7 +11,7 @@ Thomas Malten. The work was done at the time with a low budget furnished by Arlo
 Griffiths and left a lot to be desired. It has remained dormant for nearly 15
 years and has now (Febr. 2024) started to be gradually cleaned up.
 
-For reasons we cannot reconstruct, vol. 2 is missing from scans but is available
+For reasons we cannot reconstruct, vol. 2 part 2 is missing from scans but is available
 in plain text.
 
 Portions of the text are missing in the plain text version:
