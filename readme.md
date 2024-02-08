@@ -21,7 +21,6 @@ Portions of the text are missing in the plain text version:
 * vol. 3 part 2 pp. 632, 652
 * vol. 5 pp. 164-5 (also missing in scans)
 * vol. 6 p. 344
-* vol. 10 part 4
 * vol. 11 part 3 pp. 214-5 (also missing in scans)
 
 Vol. 7 in particular was not input reliably.
