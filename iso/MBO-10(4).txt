@@ -1,7 +1,7 @@
 [MBO-10(4)-title1]
 <H>{@Azramika parba@}
 [MBO-10(4)-title2]
-<H>mudrAkara:--
+<H>mudrAkara:–
 <>zrI madanamohana dAsa
 <>mukura pres
 <>kaTaka-2
@@ -129,7 +129,7 @@
 <P>takSaNe AgyAM gheni atrUra bege galA
 <P>pANtabaMka bhmabane prabeza hoilA | 50 |
 <P1>43|2 yAhA araji se phaLa phaLai abazya |(jha, Ta)
-<P1>46--pan~chabhAi dropatI kointA samete
+<P1>46–pan~chabhAi dropatI kointA samete
 <>y1e mohora bacana kahibu tuhi tathye |(gha, Dha)
 [MBO-10(3)-5]
 <P>dekhai yujheSThi deba basiachanti AstAne
@@ -159,7 +159,7 @@
 <P>reNu pramANe rahi sakaLa cchiDigalA
 <P>santarA baNahoi kULare lAgila | 63 |
 <P1>63|1 ‘reNu pramANe rahi sakaLa cchiDigalA' pare keteka
-<>pothira pATha :-- [abaziSTAMza parapruSThAre]
+<>pothira pATha :– [abaziSTAMza parapruSThAre]
 [MBO-10(3)-6]
 <P>ghoranteNa koparA hoilA nirNNai
 <P>mane mane bhALai bhImasena ApaNe ApaNAiM | 64 |
@@ -234,7 +234,7 @@
 <P>aSTabatra ruSi zApa kemante hoiba | 95 |
 <P>mantrI boilA deba abazya phaLiba
 <P>pUboGgra kalAkarma ke anyathA kariba | 96 |
-<P1>96|2--“pUboGgra kalAkarma ke anyathA kariba” pare ‘Ta' pothire adhikA pATha :--
+<P1>96|2–“pUboGgra kalAkarma ke anyathA kariba” pare ‘Ta' pothire adhikA pATha :–
 <P1>yujheSThi bolanti se khaparA aTai kemanta
 <P1>bimpA se kruSNaboGgza kariba nipAta |
 <P1>y1ethira carita mote kaha tu bujhAi
@@ -361,7 +361,7 @@
 <P>rahibA na mikai dhrutarASTa putra zoke tAhAMka sanidhye | 4 |
 <P>apAra dukha ye ApaNe sumarai
 <P>kesaneke pAzore tAhAra kAy1A ye achai | 5 |
-<P1>1|1 pATha Arambharu ‘ka' pothire eka pAThantara :--
+<P1>1|1 pATha Arambharu ‘ka' pothire eka pAThantara :–
 <P1>y1ethu anantare ye bilaMka deza rAjA
 <P1>agastiMka caraNe kalA dibyapUjA |
 <P1>krutakrutya hoiNa puchchai nrupati
@@ -443,8 +443,8 @@
 <P>zuNiNa dhrutarASTa pAilA mane prAsa | 35 |
 <P>bhIma jhiMghAsa bacana agni hruday1e pazante
 <P>zarIra dharita nuArai dhrutarASTa AtmAra dahante | 36 |
-<P1>34|2--“kaLiGgasenara zatebhAi y1ehibhmaje mAili”
-<>pare “ka, Ta” pothire pATha :--
+<P1>34|2–“kaLiGgasenara zatebhAi y1ehibhmaje mAili”
+<>pare “ka, Ta” pothire pATha :–
 <P1>y1emante aneka pratagyAM karai bhImasena
 <P1>uThiNa bAhAsphoTa mArai ghana ghana |
 <P1>zuNiNa dhrutarASTa nay1akuM lmaha gaLi
@@ -742,7 +742,7 @@
 <P>kruSi karmaNa lAgi ye pagajAy1e baDa dukhI
 <P>rAjAra pALante se prajA honti sukhi | 163 |
 <P1>161|2 “prajAMka kalyANe rAjAra hoai aizuryya” pare
-<>‘ka' pothire pATha :--
+<>‘ka' pothire pATha :–
 <P1>kAbu annabasra chatra tu nityeheM debu dAna
 <P1>debatA brAhmaNe nitye tu hoithibu mAnya |
 <P1>niyogI lokaMku tu bizwAsa houthibu |
@@ -943,10 +943,10 @@
 <P>jaLabimbu jANiNa ye manuSyara kay1e | 252 |
 <P>kruSNara pAdapadme lay1e rahu nirabadhi
 <P>zUdramuni sAroLA dAsa baday1anti guNanidhi | 253 |
-<P1>243|2--ati dusaha ban~chile netrara udake |(jha, Ta)
-<P1>246|2--pAn~chajaNayAka mahA banaste pazile |(kha, Tha, na)
-<P1>246|2--puruSahuM druzya hoilAi dekhilA samIpe |(jha, Na)
-<P1>252|2--kruSNara lay1e bhAbu mana ruddhi siddhi |(jha, Ta)
+<P1>243|2–ati dusaha ban~chile netrara udake |(jha, Ta)
+<P1>246|2–pAn~chajaNayAka mahA banaste pazile |(kha, Tha, na)
+<P1>246|2–puruSahuM druzya hoilAi dekhilA samIpe |(jha, Na)
+<P1>252|2–kruSNara lay1e bhAbu mana ruddhi siddhi |(jha, Ta)
 [MBO-10(3)-34]
 <H>{@kuntI gAndhArI sha dhrutarASTra o san~jay1a bidurara
 <>bAnaprasthAzrame gamana o tIrthayAtrA barNNanA@}
@@ -1026,7 +1026,7 @@
 <P>tIrthadrazane krutArtha kara nija dehI | 32 |
 <P>tahuM dhrutirASTa ye Ana bane gale
 <P>nArada muniMki nArada paboGgte dekhile | 33 |
-<P1>23|2--(pUraka tIrthasthAne = phalgu tIrthasthAne)
+<P1>23|2–(pUraka tIrthasthAne = phalgu tIrthasthAne)
 <P1>28|1 y1e mrutu maNtaLe piNtagoTi kara rakSA
 <>tIrthasebA y1ethire tumbhe kara manabAn~chA |(gha)
 <P1>32|2 Indriki nigrahaNa krutAtha kara dehI |(Na, Ta)
@@ -1196,8 +1196,8 @@
 <P>bhrathAra abhaRe Abara kaSTa kebaNa kathA | 48 |
 <P>kebaNa bAmA zruGgAre nAhiMta bizrAma
 <P>ke stana jAnu cchinAi ukuTAi kAma | 49 |
-<P1>38|2--ye yAhAra bhrathAnta se ANanti koLakari |(ka, Tha, na, kha)
-<P1>47|1--kebaNa nArI ruSanti prabodhanti puruSe |(Ta, jha)
+<P1>38|2–ye yAhAra bhrathAnta se ANanti koLakari |(ka, Tha, na, kha)
+<P1>47|1–kebaNa nArI ruSanti prabodhanti puruSe |(Ta, jha)
 [MBO-10(3)-43]
 <P>kebaNa nArI bhrathAku hrudare zuAi
 <P>kebaNa nArI bhrathAra caraNa ghaSai | 50 |
@@ -1224,8 +1224,8 @@
 <P>AkAzakaiM druSTikari pADile bobALi | 60 |
 <P>hA hA nAtha Ambhanta gchaDiNa keNe gala
 <P>zarIra thoi Ambhara jIbana kARhinela | 61 |
-<P1>50|2--kebaNa nArI bhrathAku krapUra ghaSai |(Ta)
-<P1>58--nAnA bandhe chande ke karai gARhe rati
+<P1>50|2–kebaNa nArI bhrathAku krapUra ghaSai |(Ta)
+<P1>58–nAnA bandhe chande ke karai gARhe rati
 <>kAhAku ye nidrA nAhiM ujAgara rAti |(kha, na)
 [MBO-10(3)-44]
 <P>adhara amruta mukhe pAna dei
@@ -1254,7 +1254,7 @@
 <P>antarIkSe thAi nAtha Ambhanta dia bAkya | 73 |
 <P>aneka zokakari hastinApura saboGg nArI
 <P>byAsa maharuSiMka caraNe yAiM paDi | 74 |
-<P1>63--pUboGgra anIta kisa dekhila antara
+<P1>63–pUboGgra anIta kisa dekhila antara
 <>tebe se swAmIra nohilA manara bhitara |(ba, Na)
 [MBO-10(3)-45]
 <P>dantere tiraNa dhari ye sakaLa yubatI
@@ -1283,7 +1283,7 @@
 <P>sadajanma mohora harire binay1e | 86 |
 <P>ASya buddhi Arogya yebaNa ruSi dyantA
 <P>sruSTi karatA puruSe karibA y1eba cintA | 87 |
-<P1>86--padi manyuSya maNtaLe jAtakala mote
+<P1>86–padi manyuSya maNtaLe jAtakala mote
 <>tebe ThAba dia mote sajjana sahite |(kha, na, Tha)
 [MBO-10(3)-46]
 <P>kaibratIra nandana pArezwara gotrI
@@ -1321,9 +1321,9 @@
 <P>prabeza hoile yAiM jaintA nija ThAbe | 10 |
 <P>anudine yAi hasti nAy1e parabeza
 <P>ya yAhAra bhmabane yAiM pazile nija bAsa | 11 |
-<P1>2|1--kin~chita kaSTaku cintileka droha |(jha, Ta)
-<P1>11|1--naudine yAiMNa hastinAy1e parabeza |(Ta)
-<P1>11|1--nabadine yAiMNa hastinAy1e parabeza |(Tha)
+<P1>2|1–kin~chita kaSTaku cintileka droha |(jha, Ta)
+<P1>11|1–naudine yAiMNa hastinAy1e parabeza |(Ta)
+<P1>11|1–nabadine yAiMNa hastinAy1e parabeza |(Tha)
 [MBO-10(3)-48]
 <P>agastiMka pAze baibasuta manu boilA
 <P>banaste dhrutirASTa keuMNa krutya kalA | 12 |
@@ -1351,7 +1351,7 @@
 <P>mrudu tiraNa grAse pay1asAbantIpibA (pruthuLA) | 23 |
 <P>Arogya apAde ban~chanti ye jana
 <P>saboGg ghare san~chita paRhanti ye biSNu purANa | 24 |
-<P1>20|1--sthAbara chedana nAhiM Abara asata saGga |(Rha)
+<P1>20|1–sthAbara chedana nAhiM Abara asata saGga |(Rha)
 [MBO-10(3)-49]
 <P>kAma arthe baza nohanti ye mohi
 <P>apAraga jana se sthAne nAhiM kehi | 25 |
@@ -1465,7 +1465,7 @@
 <P1>65|1 zuNiNa dhrutirASTi yujheSThiMki kale puchchA |(Ta, ka)
 <P1>68|2 nirjoha kari yahuM boile dhrutirASTa |(ka, Na, tha, Ra)
 <P1>69|2 bidura maraNa kahile bhAiMkara pAza |(ka, ca, Ta, gha)
-<P1>66|2 (mahAtmA--mahA swabhAba)
+<P1>66|2 (mahAtmA–mahA swabhAba)
 [MBO-10(3)-53]
 <P>san~jay1ara yakAy1ana dhrutirASTra gAndhArI o kuntI
 <>banadAhe dahana o antyeSTi triy1A
