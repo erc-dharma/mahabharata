@@ -612,7 +612,7 @@
 
 
 
-<P1>{#63|1 ‘reNu pramANe rahi sakaLa cchiDigalA’ pare keteka
+<P1>{#63|1 â€˜reNu pramANe rahi sakaLa cchiDigalA' pare keteka
 
 <>pothira pATha :-- [abaziSTAMza parapruSThAre]#}
 
@@ -914,7 +914,7 @@
 
 
 
-<P1>{#96|2--“pUboGgra kalAkarma ke anyathA kariba” pare ‘Ta’ pothire adhikA pATha :--#}
+<P1>{#96|2--â€œpUboGgra kalAkarma ke anyathA karibaâ€ pare â€˜Ta' pothire adhikA pATha :--#}
 
 
 
@@ -1422,7 +1422,7 @@
 
 
 
-<P1>{#1|1 pATha Arambharu ‘ka’ pothire eka pAThantara :--#}
+<P1>{#1|1 pATha Arambharu â€˜ka' pothire eka pAThantara :--#}
 
 
 
@@ -1750,9 +1750,9 @@
 
 
 
-<P1>{#34|2--“kaLiGgasenara zatebhAi y1ehibhmaje mAili”
+<P1>{#34|2--â€œkaLiGgasenara zatebhAi y1ehibhmaje mAiliâ€
 
-<>pare “ka, Ta” pothire pATha :--#}
+<>pare â€œka, Taâ€ pothire pATha :--#}
 
 
 
@@ -2930,9 +2930,9 @@
 
 
 
-<P1>{#161|2 “prajAMka kalyANe rAjAra hoai aizuryya” pare
+<P1>{#161|2 â€œprajAMka kalyANe rAjAra hoai aizuryyaâ€ pare
 
-<>‘ka’ pothire pATha :--#}
+<>â€˜ka' pothire pATha :--#}
 
 
 
