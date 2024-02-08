@@ -13,6 +13,10 @@ iso/MBO-05.txt:<P>muṁ kiṁpā nāśayibi ẏeḍe sampada chāCi | 43 |
 	q
 	f
 
+Remains to translit bh9 in MBO-10(4):
+
+	bolanti bh9 byāse ẏebe karibā pratikāre
+
 Also beware of digits within text, which sometimes represent diacritics:
 
 	āgeṇa mahāmatta ye pān1cha lakṣa gaja
