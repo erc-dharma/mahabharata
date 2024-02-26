@@ -5829,7 +5829,7 @@
 <P1>436|2 sanidhānuṁ = sannidhānu |
 [MBO-02(1)-199]
 <P>nīḷa bāṇa bhmaja bāṇa pāśupatra śara
-<P>tini nārāja ghoṭilā difga ye ambara | 449 |
+<P>tini nārāja ghoṭilā diga ye ambara | 449 |
 <P>śate śate tāḷa uccharga ye nārājaṁka śikhā
 <P>dharādhara bahani ye mahā anaḷa rekhā | 450 |
 <P>yeuṁṇa śahasra pāranti śate brahmāṇḍa ghoṭi
