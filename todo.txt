@@ -45,6 +45,9 @@ Also beware of English passages, which are transliterated but should not:
 	iso/MBO-06.txt-<P>ā stringed musical instr̥ment
 	iso/MBO-06.txt:<>vith made the bottlegourd.
 
+In <P1> contexts, @...@ seems to be used to wrap what is in Roman script.
+But we have found at least one case of @...@ used in <H> context, where is does not have the same meaning.
+
 After all that is done, take care of vowels that should be capitalized or not
 (see issues).
 
