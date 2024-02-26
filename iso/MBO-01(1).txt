@@ -3177,8 +3177,8 @@
 <P>doṣī kanyā hoile tāku bibhā kariba ẏagati | 2 |
 <P>gāndhārasena boilā se br̥kṣa acchi mohora nacara majhāthāne
 <P>muṁ tāhāku muni ho pujā karai niti dine | 3 |
-<P1>65 sehi kanyāku bibhā huanti yebaṇa jana |
-<P1>tāhāra deha lāgante lakṣmī āṣya hoyqe kṣīṇa ||
+<P1>65 sehi kanyāku bibhā huAnti yebaṇa jana |
+<P1>tāhāra deha lāgante lakṣmī āṣya hoẏe kṣīṇa ||
 <P1>1| bibhā karāibā golaka br̥kṣaku |
 <P>mahākaḷpa br̥kṣa se harai pātakaku || (pā)
 <P1>sahaṛā br̥kṣa goṭiẏe bibhākari āṇi |
@@ -3595,7 +3595,7 @@
 <P>śarīre lepana kale bajra ye chauri
 <P>karṇṇeṇa kumarara mahābrahma mantra paṛhī | 36 |
 <P>ākuñchita keśa rasāṇilā pāṭiā kapāḷa
-<P>khageśvaqra cachu nāsā sundara gaṇḍasthaḷa | 37 |
+<P>khageśvara cachu nāsā sundara gaṇḍasthaḷa | 37 |
 <P>śārddūḷa ākarṣaṇa diśai śarīra saroja
 <P>hastīra thora hasta jiṇi diśai beni bhmaja | 38 |
 <P>āranta beni locana birājita beni netra
@@ -10540,9 +10540,9 @@
 <P>maṅgaḷā deśa ḍāhāḷa deśa deśa belāuḷa
 <P>kṣīraṇa deśa khecara deśa deśa ye bhūpāḷa | 68 |
 <P>māḷaba deśa gurjara deśa deśa marahaṭa
-<P>magadhaq deśa matsya deśa, deśa ye gujurāṭa | 69 |
-<P>kāśī deśa kauśika deśa, deśa ye kubuja
-<P>ujjaẏinī deśa pārijāta kanāuja | 70 |
+<P>magadha deśa matsya deśa, deśa ye gujurāṭa | 69 |
+<P>kāśī deśa kaUśika deśa, deśa ye kubuja
+<P>ujjaẏinī deśa pārijāta kanāUja | 70 |
 <P>kṣetra deśa, bikṣetra deśa, deśa ye gāndhāra
 <P>nīḷa deśa, anīḷa deśa, deśa ye nepāḷa | 71 |
 <P>śākhā maṇḍaḷa bhākhā maṇḍaḷa bajragiri maṇḍaḷa

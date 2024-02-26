@@ -11427,13 +11427,13 @@
 <P1>pitara triẏāmāna se sāriṇa taḍati
 <P1>aḷambuṣā rājyare se hoilā nr̥pati
 [MBO-02(2)-1012]
-<P>padmaāsanī mā go sindhura duhitā
-<P>sabongjanaṁkara mātā go saṁsāra rakhantā | 184 |
+<P>padmaĀsanī mā go sindhura duhitā
+<P>sarvajanaṁkara mātā go saṁsāra rakhantā | 184 |
 <P>nitye nitye yeuṁ jana tora caraṇe bandanti
 <P>bipuḷa lakṣmī tāku deu go mahāsatī | 185 |
 <P>padma puṣyaru janmilu padmanī tora nāma
 <P>kamaḷinī nāma teṇu karanti bakhāṇ | 186 |
-<P>lakṣmī nārāẏaṇaṁkara carqaṇa kamaḷe
+<P>lakṣmī nārāẏaṇaṁkara caraṇa kamaḷe
 <P>śūdramuni sāroḷa dāsa sebai nirantare | 187 | 11171 |
 <H>{@mūḍhāsurara baralābha o gaṇeśaṅka janma@}
 <P>baibasuya manu ye agastiṁka caraṇe
@@ -12280,7 +12280,7 @@
 <P>dinajana bāndhaba nāma teṇu dīnabandhu | 116 |
 <P>arakṣita sāroḷa dāsa aṭai hīnajana
 <P>nirantare bhābai śrīraṅgā caraṇa | 117 |
-<P>mana pachārai caitqana kahai
+<P>mana pacārai caItana kahaI
 <P>ẏekamana hoi tumbhe śuṇimā narasāiṁ | 118 |
 <P>ẏethu antareṇa sehu moḍhāsura bīra
 <P>kisa kr̥tya kalā sehu pāmara asura | 119 |

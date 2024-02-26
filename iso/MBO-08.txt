@@ -11715,7 +11715,7 @@
 <P>ātreṣiṇa kare se dhailā asipatra
 <P>boilā mantrī sumara tohora iṣṭa daibata | 191 |
 <P>pratagyāṁ kariṇa se atyanta kohānaḷa
-<P>bāma kare dhailā se manumathaq mantrīra bāḷa | 192 |
+<P>bāma kare dhailā se manumatha mantrīra bāḷa | 192 |
 <P>khaḍaga ṭekiṇa se kopeṇa ātreṣi
 <P>mukhe daśanaha bhari mantrī śaraṇa sambhāṣi | 193 |
 <P>muhiṁ nohai tumbhanta kicchihiṁ doṣakārī

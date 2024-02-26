@@ -9096,8 +9096,8 @@
 <P>ẏethaku dropadaṅku āṇai kaḍhāiṁ | 262 |
 <P>ẏeteka tiāriṇa galāka mudusulī
 <P>dropada bhmadanaku se bahana hoiṁ caḷi | 263 |
-<P>kumbhāra śāḷare pāuṁśqa śeyyā goṭiẏeka kale
-<P>karapaṭi goṭiẏe pāḍi kointāẏe sutile | 264 |
+<P>kumbhāra śāḷare pāuṁśa śeyyā goṭiẏeka kale
+<P>karapaṭi goṭiẏe pāḍi koIntāẏe sutile | 264 |
 [MBO-01(2)-895]
 <P>tāhāṅkara pādataḷe pauṁśa śeyyā goṭiẏe pāḍi
 <P>tahiṁra upare yujheṣṭhi deba ye pahuḍi | 265 |
