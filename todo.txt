@@ -59,6 +59,7 @@ After all that is done, take care of vowels that should be capitalized or not
  postconsonantal u is often misread as ma
  ā is often misread as a
  cā is mistyped as chā
+ rva and vaṁ are conflated as bong
 
 
 # Structure
