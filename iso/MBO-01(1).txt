@@ -1029,7 +1029,7 @@
 <P>gaṅgā bichāranti muṁ aneka kaṣṭa deli
 <P>ātmāru jāta kari sutranta nāśa kali | 217 |
 <P1>209|2 karāñchaḷī–ekaprakāra tarabārī
-<H>a ṣort of svord-ṁarathi ḍictionary (ṁolesvorth)
+<H>a sort of sword-Marathi Dictionary (Molesworth)
 <P>bhramabaśataḥ pothimānaṅkare kararalī lekhāacchi |
 [MBO-01(1)-37]
 <P>ẏeteka doṣeṇa mote kopa ta na kalā
@@ -6027,8 +6027,8 @@
 <P1>128 gārāsake kṣepi tr̥pati kare piṇḍe |
 <P1>130|1 sāṁjo pare basiṇa kātante asibara |
 <P1>128|1 besāḷinta–br̥hat bhojana pātra biśeṣataḥ patrara baḍa ṭholā bā danā
-<>(maraha{?}–{@ṁolesvorth ḍictionary)@}
-<P1>{@ā plate or platles formed by leaves tacked together@}
+<>(marahaṭṭī–{@Molesworth Dictionary)@}
+<P1>{@A plate or platles formed by leaves tacked together@}
 <P1>130|1 sāṁjoẏā śāḷe–sāñju–kabaca–khaḍaga rakhibāra khoḷa, yeuñ
 <>ghare sāñjāmāna thāe |
 [MBO-01(1)-212]
@@ -8692,7 +8692,7 @@
 <P1>35|2 ẏe chāra ki sāmānya dr̥ṣṭi bidya heṭi |
 <P1>36|2 upaḍi āṇa ho guḷuciāra phaḷa lociẏe |
 <P1>29|2 kotha–āmbaṭākuāre kheḷa :– (ṁarhathi ḍictionary,
-<>ṁolesvorth) kotha, koẏa ubhaẏa pāṭha acchi |
+<>Molesworth) kotha, koẏa ubhaẏa pāṭha acchi |
 [MBO-01(1)-305]
 <P>kr̥pa āchāryye tāhā gheni aile bahana
 <P>guguciẏā śara goṭiẏe ghenileka droṇa | 38 |
@@ -11634,7 +11634,7 @@
 <P>maẏera nandana utapatti lohāsura | 237 |
 [MBO-01(1)-407]
 <P>lohāsura putra ye asura bitakṣa
-<P>tāhāra nanfana śūḷika mahādakṣa | 238 |
+<P>tāhāra nandana śūḷika mahādakṣa | 238 |
 <P>śūḷikara nandana ajranābha asura
 <P>bajranābha nandana saudāsa rākṣa mahābīra | 239 |
 <P>jaḷataraṅga nāme ẏehāra se śiṣya | 240 |
