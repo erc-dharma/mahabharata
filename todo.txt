@@ -4,11 +4,6 @@ In ISO, there are still passages that are not transliterated. Malten's original 
 https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/help.html.
 Not sure what to do about
 
-	C
-
-iso/MBO-03(2).txt:<P1>362|2–saṁcaẏe banapati mora sīmā ghenimāku kalā iccthā | Ca, ca
-iso/MBO-05.txt:<P>muṁ kiṁpā nāśayibi ẏeḍe sampada chāCi | 43 |
-
 	Q
 	q
 	f
