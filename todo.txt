@@ -4,8 +4,9 @@ In ISO, there are still passages that are not transliterated. Malten's original 
 https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/help.html.
 Not sure what to do about
 
+	C — cases weeded out 2024-02-26
 	Q
-	q
+	q - cases weeded out 2024-02-26
 	f
 
 Remains to translit bh9 in MBO-10(4):
